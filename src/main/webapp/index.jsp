@@ -1,30 +1,3766 @@
 
 <!DOCTYPE html>
-<html lang="en" id="facebook" class="no_js">
-<head><meta charset="utf-8" /><meta name="referrer" content="origin-when-crossorigin" id="meta_referrer" /><script nonce="hKGPlTP2">function envFlush(a){function b(b){for(var c in a)b[c]=a[c]}window.requireLazy?window.requireLazy(["Env"],b):(window.Env=window.Env||{},b(window.Env))}envFlush({"useTrustedTypes":false,"isTrustedTypesReportOnly":false,"ajaxpipe_token":"AXgAWBwNXHw6aMsCIKc","stack_trace_limit":30,"timesliceBufferSize":5000,"show_invariant_decoder":false,"compat_iframe_token":"AUUesV2cIpnTxR4xl2jeF6cghkc","isCQuick":false,"brsid":"7488660649809160302","promise_include_trace":false});</script><script nonce="hKGPlTP2">window.openDatabase&&(window.openDatabase=function(){throw new Error()});</script><script nonce="hKGPlTP2">_btldr={};</script><script nonce="hKGPlTP2">(function(){function a(a){return a.parentElement!==document.body&&a.parentElement!==document.head}function b(a){return a.nodeName==="SCRIPT"||a.nodeName==="LINK"&&((a=c(a))==null?void 0:a.asyncCss)}function c(a){return!(a.dataset instanceof window.DOMStringMap)?null:a.dataset}function d(d){var e;try{if(d.nodeType!==Node.ELEMENT_NODE)return}catch(a){return}if(a(d)||!b(d))return;var f=(e=c(d))==null?void 0:e.bootloaderHash;if(f!=null&&f!==""){var g=null,h=function(){window._btldr[f]=1,g==null?void 0:g()};g=function(){d.removeEventListener("load",h),d.removeEventListener("error",h)};d.addEventListener("load",h);d.addEventListener("error",h)}}Array.from(document.querySelectorAll('script,link[data-async-css="1"]')).forEach(function(a){return d(a)});var e=new MutationObserver(function(a,b){a.forEach(function(a){a.type==="childList"&&Array.from(a.addedNodes).forEach(function(a){d(a)})})});e.observe(document.getElementsByTagName("html")[0],{attributes:!1,childList:!0,subtree:!0})})();</script><style nonce="hKGPlTP2"></style><script nonce="hKGPlTP2">__DEV__=0;</script><noscript><meta http-equiv="refresh" content="0; URL=/?_fb_noscript=1" /></noscript><link rel="manifest" id="MANIFEST_LINK" href="/data/manifest/?is_workplace_mobile_pwa_dogfooding=0" crossorigin="use-credentials" /><title id="pageTitle">Facebook – log in or sign up</title><meta name="bingbot" content="noarchive" /><meta property="og:site_name" content="Facebook" /><meta property="og:url" content="https://www.facebook.com/" /><meta property="og:image" content="https://www.facebook.com/images/fb_icon_325x325.png" /><meta property="og:locale" content="en_GB" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.facebook.com/" /><link rel="alternate" media="handheld" href="https://m.facebook.com/" /><meta name="description" content="Log in to Facebook to start sharing and connecting with your friends, family and people you know." /><script type="application/ld+json" nonce="hKGPlTP2">{"\u0040context":"http:\/\/schema.org","\u0040type":"WebSite","name":"Facebook","url":"https:\/\/en-gb.facebook.com\/"}</script><link rel="canonical" href="https://www.facebook.com/" /><link rel="icon" href="https://static.xx.fbcdn.net/rsrc.php/yx/r/e9sqr8WnkCf.ico" /><link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/yh/l/0,cross/ze2gDvq5tcz.css" data-bootloader-hash="n+36Djy" crossorigin="anonymous" />
-<link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/yq/l/0,cross/DIObEBcURys.css" data-bootloader-hash="xng30X1" crossorigin="anonymous" />
-<link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/y1/l/0,cross/2nrv04yYtCI.css" data-bootloader-hash="hNxPog9" crossorigin="anonymous" />
-<link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/yu/l/0,cross/aRO1EK2B4Sr.css" data-bootloader-hash="XDd2yj5" crossorigin="anonymous" />
-<link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/y0/l/0,cross/TN5Q1Jw2bus.css" data-bootloader-hash="1IX/78B" crossorigin="anonymous" />
-<link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/yH/l/0,cross/0Ead7x7p9Q-.css" data-bootloader-hash="z8TeFHS" crossorigin="anonymous" />
-<script src="https://static.xx.fbcdn.net/rsrc.php/v4/yX/r/T7tf9no31R9.js" data-bootloader-hash="QJiKcEE" crossorigin="anonymous"></script>
-<script nonce="hKGPlTP2">requireLazy(["HasteSupportData"],function(m){m.handle({"clpData":{"6476":{"r":1000,"s":1},"1838142":{"r":1,"s":1},"1814852":{"r":1},"1848815":{"r":10000,"s":1}},"gkxData":{"20935":{"result":false,"hash":null},"21043":{"result":false,"hash":null},"5415":{"result":false,"hash":null},"7742":{"result":false,"hash":null},"8068":{"result":false,"hash":null},"8869":{"result":false,"hash":null},"9063":{"result":false,"hash":null},"20936":{"result":false,"hash":null},"20948":{"result":true,"hash":null},"25572":{"result":false,"hash":null},"1221":{"result":false,"hash":null},"25571":{"result":false,"hash":null}},"justknobxData":{"2552":{"r":false},"3323":{"r":true},"2269":{"r":true}}})});requireLazy(["TimeSliceImpl","ServerJS"],function(TimeSlice,ServerJS){(new ServerJS()).handle({"define":[["cr:310",["RunWWW"],{"__rc":["RunWWW",null]},-1],["cr:1078",[],{"__rc":[null,null]},-1],["cr:1080",["unexpectedUseInComet"],{"__rc":["unexpectedUseInComet",null]},-1],["cr:1126",["TimeSliceImpl"],{"__rc":["TimeSliceImpl",null]},-1],["cr:3725",["clearTimeoutWWWOrMobile"],{"__rc":["clearTimeoutWWWOrMobile",null]},-1],["cr:4344",["setTimeoutWWWOrMobile"],{"__rc":["setTimeoutWWWOrMobile",null]},-1],["cr:6108",["CSS"],{"__rc":["CSS",null]},-1],["cr:6640",["PromiseImpl"],{"__rc":["PromiseImpl",null]},-1],["cr:7385",["clearIntervalWWW"],{"__rc":["clearIntervalWWW",null]},-1],["cr:7389",["setIntervalAcrossTransitionsWWW"],{"__rc":["setIntervalAcrossTransitionsWWW",null]},-1],["cr:7391",["setTimeoutAcrossTransitionsWWW"],{"__rc":["setTimeoutAcrossTransitionsWWW",null]},-1],["cr:8958",["FBJSON"],{"__rc":["FBJSON",null]},-1],["cr:8959",["DTSG"],{"__rc":["DTSG",null]},-1],["cr:8960",["DTSG_ASYNC"],{"__rc":["DTSG_ASYNC",null]},-1],["cr:696703",[],{"__rc":[null,null]},-1],["cr:708886",["EventProfilerImpl"],{"__rc":["EventProfilerImpl",null]},-1],["cr:135",["RunBlue"],{"__rc":["RunBlue",null]},-1],["cr:6669",["DataStore"],{"__rc":["DataStore",null]},-1],["URLFragmentPreludeConfig",[],{"hashtagRedirect":true,"fragBlacklist":["nonce","access_token","oauth_token","xs","checkpoint_data","code"]},137],["CookiePrivacySandboxConfig",[],{"is_affected_by_samesite_lax":false},7723],["CometPersistQueryParams",[],{"relative":{},"domain":{}},6231],["CookieDomain",[],{"domain":"facebook.com"},6421],["GetAsyncParamsExtraData",[],{"extra_data":{}},7511],["BootloaderConfig",[],{"deferBootloads":false,"enableLoadingUnavailableResources":true,"jsRetries":[200,500],"jsRetryAbortNum":2,"jsRetryAbortTime":5,"silentDups":false,"timeout":60000,"tieredLoadingFromTier":100,"hypStep4":false,"phdOn":false,"phdSeparateBitmaps":false,"btCutoffIndex":1795,"fastPathForAlreadyRequired":true,"earlyRequireLazy":false,"enableTimeoutLoggingForNonComet":false,"deferLongTailManifest":true,"lazySoT":false,"csrOn":false,"translationRetries":[200,500],"translationRetryAbortNum":3,"translationRetryAbortTime":50},329],["CSSLoaderConfig",[],{"timeout":5000,"loadEventSupported":true},619],["CookieCoreConfig",[],{"alsfid":{"s":"Lax"},"c_user":{"t":31536000,"s":"None"},"cppo":{"t":86400,"s":"None"},"dpr":{"t":604800,"s":"None"},"fbl_st":{"t":31536000,"s":"Strict"},"hckd":{"s":"None"},"i_user":{"t":31536000,"s":"None"},"locale":{"t":604800,"s":"None"},"m_ls":{"t":34560000,"s":"None"},"m_pixel_ratio":{"t":604800,"s":"None"},"noscript":{"s":"None"},"presence":{"t":2592000,"s":"None"},"sfau":{"s":"None"},"usida":{"s":"None"},"vpd":{"t":5184000,"s":"Lax"},"wd":{"t":604800,"s":"Lax"},"wl_cbv":{"t":7776000,"s":"None"},"x-referer":{"s":"None"},"x-src":{"t":1,"s":"None"}},2104],["CurrentUserInitialData",[],{"ACCOUNT_ID":"0","USER_ID":"0","NAME":"","SHORT_NAME":null,"IS_BUSINESS_PERSON_ACCOUNT":false,"HAS_SECONDARY_BUSINESS_PERSON":false,"IS_FACEBOOK_WORK_ACCOUNT":false,"IS_INSTAGRAM_BUSINESS_PERSON":false,"IS_MESSENGER_ONLY_USER":false,"IS_DEACTIVATED_ALLOWED_ON_MESSENGER":false,"IS_MESSENGER_CALL_GUEST_USER":false,"IS_WORK_MESSENGER_CALL_GUEST_USER":false,"IS_WORKROOMS_USER":false,"APP_ID":"256281040558","IS_BUSINESS_DOMAIN":false},270],["LSD",[],{"token":"AVoJOnXIE40"},323],["ServerNonce",[],{"ServerNonce":"o3JSnpQxs0TYsW4MlS2W4v"},141],["SiteData",[],{"server_revision":1021490555,"client_revision":1021490555,"push_phase":"C3","pkg_cohort":"BP:DEFAULT","haste_session":"20180.BP:DEFAULT.2.0...0","pr":1,"manifest_base_uri":"https:\/\/static.xx.fbcdn.net","manifest_origin":null,"manifest_version_prefix":null,"be_one_ahead":false,"is_rtl":false,"is_experimental_tier":false,"is_jit_warmed_up":true,"hsi":"7488660649809160302","semr_host_bucket":"5","bl_hash_version":2,"comet_env":0,"wbloks_env":false,"ef_page":null,"compose_bootloads":false,"spin":4,"__spin_r":1021490555,"__spin_b":"trunk","__spin_t":1743589679,"vip":"163.70.140.35"},317],["SprinkleConfig",[],{"param_name":"jazoest","version":2,"should_randomize":false},2111],["UserAgentData",[],{"browserArchitecture":"64","browserFullVersion":"135.0.0.0","browserMinorVersion":0,"browserName":"Chrome","browserVersion":135,"deviceName":"Unknown","engineName":"Blink","engineVersion":"135.0.0.0","platformArchitecture":"64","platformName":"Windows","platformVersion":"10","platformFullVersion":"10"},527],["PromiseUsePolyfillSetImmediateGK",[],{"www_always_use_polyfill_setimmediate":false},2190],["JSErrorLoggingConfig",[],{"appId":256281040558,"extra":[],"reportInterval":50,"sampleWeight":null,"sampleWeightKey":"__jssesw","projectBlocklist":[]},2776],["DataStoreConfig",[],{"expandoKey":"__FB_STORE","useExpando":true},2915],["CookieCoreLoggingConfig",[],{"maximumIgnorableStallMs":16.67,"sampleRate":9.7e-5,"sampleRateClassic":1.0e-10,"sampleRateFastStale":1.0e-8},3401],["ImmediateImplementationExperiments",[],{"prefer_message_channel":true},3419],["UriNeedRawQuerySVConfig",[],{"uris":["dms.netmng.com","doubleclick.net","r.msn.com","watchit.sky.com","graphite.instagram.com","www.kfc.co.th","learn.pantheon.io","www.landmarkshops.in","www.ncl.com","s0.wp.com","www.tatacliq.com","bs.serving-sys.com","kohls.com","lazada.co.th","xg4ken.com","technopark.ru","officedepot.com.mx","bestbuy.com.mx","booking.com","nibio.no","myworkdayjobs.com","united-united.com","gcc.gnu.org"]},3871],["InitialCookieConsent",[],{"deferCookies":false,"initialConsent":[1,2],"noCookies":false,"shouldShowCookieBanner":false,"shouldWaitForDeferredDatrCookie":false,"optedInIntegrations":["adobe_marketo_rest_api","blings_io_video","chili_piper_api","cloudfront_cdn","giphy_media","google_ads_pixel_frame_legacy","google_ads_pixel_img_legacy","google_ads_pixel_legacy","google_ads_remarketing_tag","google_ads_services","google_analytics_4_tag","google_analytics_img","google_cached_img","google_double_click_loading","google_double_click_redirecting","google_double_click_uri_connect","google_double_click_uri_frame","google_double_click_uri_img","google_fonts","google_fonts_font","google_maps","google_paid_ads_frame","google_paid_ads_img","google_translate","google_universal_analytics_legacy","google_universal_analytics_legacy_img","google_universal_analytics_legacy_script","jio","linkedin_insight","linkedin_insight_img","mapbox_maps_api","medallia_digital_experience_analytics","microsoft_exchange","nytimes_oembed","reachtheworld_s3","soundcloud_oembed","spotify_oembed","spreaker_oembed","ted_oembed","tenor_api","tenor_images","tenor_media","tiktok_oembed","twitter_analytics_pixel","twitter_analytics_pixel_img","twitter_legacy_embed","vimeo_oembed","youtube_embed","youtube_oembed","advertiser_hosted_pixel","airbus_sat","amazon_media","apps_for_office","arkose_captcha","aspnet_cdn","autodesk_fusion","bing_maps","bing_widget","boku_wallet","bootstrap","box","cardinal_centinel_api","chromecast_extensions","cloudflare_cdnjs","cloudflare_datatables","cloudflare_relay","conversions_api_gateway","demandbase_api","digitalglobe_maps_api","dlocal","dropbox","esri_sat","facebook_sdk","fastly_relay","gmg_pulse_embed_iframe","google_ads_conversions_tag","google_drive","google_fonts_legacy","google_hosted_libraries","google_oauth_api","google_oauth_api_v2","google_recaptcha","here_map_ext","hive_streaming_video","iproov","isptoolbox","jquery","js_delivr","kbank","mathjax","meshy","meta_pixel","metacdn","microsoft_excel","microsoft_office_addin","microsoft_onedrive","microsoft_speech","microsoft_teams","mmi_tiles","open_street_map","paypal_billing_agreement","paypal_oauth_api","payu","plaid","platformized_adyen_checkout","plotly","pydata","recruitics","rstudio","salesforce_lighting","stripe","team_center","tripshot","trustly_direct_debit_ach","twilio_voice","unifier","unpkg","unsplash_api","unsplash_image_loading","vega","yoti_api","youtube_oembed_api","google_apis","google_apis_scripts","google_img","google_tag","google_uri_frame","google_uri_script"],"hasGranularThirdPartyCookieConsent":true,"exemptedIntegrations":["advertiser_hosted_pixel","airbus_sat","amazon_media","apps_for_office","arkose_captcha","aspnet_cdn","autodesk_fusion","bing_maps","bing_widget","boku_wallet","bootstrap","box","cardinal_centinel_api","chromecast_extensions","cloudflare_cdnjs","cloudflare_datatables","cloudflare_relay","conversions_api_gateway","demandbase_api","digitalglobe_maps_api","dlocal","dropbox","esri_sat","facebook_sdk","fastly_relay","gmg_pulse_embed_iframe","google_ads_conversions_tag","google_drive","google_fonts_legacy","google_hosted_libraries","google_oauth_api","google_oauth_api_v2","google_recaptcha","here_map_ext","hive_streaming_video","iproov","isptoolbox","jquery","js_delivr","kbank","mathjax","meshy","meta_pixel","metacdn","microsoft_excel","microsoft_office_addin","microsoft_onedrive","microsoft_speech","microsoft_teams","mmi_tiles","open_street_map","paypal_billing_agreement","paypal_oauth_api","payu","plaid","platformized_adyen_checkout","plotly","pydata","recruitics","rstudio","salesforce_lighting","stripe","team_center","tripshot","trustly_direct_debit_ach","twilio_voice","unifier","unpkg","unsplash_api","unsplash_image_loading","vega","yoti_api","youtube_oembed_api"]},4328],["WebConnectionClassServerGuess",[],{"connectionClass":"EXCELLENT"},4705],["BootloaderEndpointConfig",[],{"debugNoBatching":false,"maxBatchSize":-1,"endpointURI":"https:\/\/www.facebook.com\/ajax\/bootloader-endpoint\/"},5094],["ServerTimeData",[],{"serverTime":1743589679397,"timeOfRequestStart":1743589679347.9,"timeOfResponseStart":1743589679347.9},5943],["BigPipeExperiments",[],{"link_images_to_pagelets":false,"am_page_load_promise_timeout":false,"enable_bigpipe_plugins":false},907],["cr:7730",["getFbtResult"],{"__rc":["getFbtResult",null]},-1],["cr:8906",["goURIWWW"],{"__rc":["goURIWWW",null]},-1],["cr:925100",["RunBlue"],{"__rc":["RunBlue",null]},-1],["cr:7386",["clearTimeoutWWW"],{"__rc":["clearTimeoutWWW",null]},-1],["cr:7390",["setTimeoutWWW"],{"__rc":["setTimeoutWWW",null]},-1],["cr:1003267",["clearIntervalBlue"],{"__rc":["clearIntervalBlue",null]},-1],["cr:896462",["setIntervalAcrossTransitionsBlue"],{"__rc":["setIntervalAcrossTransitionsBlue",null]},-1],["cr:986633",["setTimeoutAcrossTransitionsBlue"],{"__rc":["setTimeoutAcrossTransitionsBlue",null]},-1],["cr:6799",["EventProfilerAdsSessionProvider"],{"__rc":["EventProfilerAdsSessionProvider",null]},-1],["IntlVariationHoldout",[],{"disable_variation":false},6533],["IntlNumberTypeProps",["IntlCLDRNumberType05"],{"module":{"__m":"IntlCLDRNumberType05"}},7027],["AdsManagerReadRegions",[],{"excluded_endpoints":["\/am_tabular","\/column_suggestions","reporting"],"excluded_preloaders":["AdsPEInsightsEdgeDataLoaderPreloader","AdsPEInsightsEdgeSummaryDataLoaderPreloader"]},7950],["AsyncRequestConfig",[],{"retryOnNetworkError":"1","useFetchStreamAjaxPipeTransport":true},328],["DTSGInitialData",[],{},258],["IntlPhonologicalRules",[],{"meta":{"\/_B\/":"([.,!?\\s]|^)","\/_E\/":"([.,!?\\s]|$)"},"patterns":{"\/\u0001(.*)('|&#039;)s\u0001(?:'|&#039;)s(.*)\/":"\u0001$1$2s\u0001$3","\/_\u0001([^\u0001]*)\u0001\/":"javascript"}},1496],["IntlViewerContext",[],{"GENDER":3,"regionalLocale":null},772],["NumberFormatConfig",[],{"decimalSeparator":".","numberDelimiter":",","minDigitsForThousandsSeparator":4,"standardDecimalPatternInfo":{"primaryGroupSize":3,"secondaryGroupSize":3},"numberingSystemData":null},54],["SessionNameConfig",[],{"seed":"1b0Z"},757],["ZeroCategoryHeader",[],{},1127],["ZeroRewriteRules",[],{"rewrite_rules":{},"whitelist":{"\/hr\/r":1,"\/hr\/p":1,"\/zero\/unsupported_browser\/":1,"\/zero\/policy\/optin":1,"\/zero\/optin\/write\/":1,"\/zero\/optin\/legal\/":1,"\/zero\/optin\/free\/":1,"\/about\/privacy\/":1,"\/about\/privacy\/update\/":1,"\/privacy\/explanation\/":1,"\/zero\/toggle\/welcome\/":1,"\/zero\/toggle\/nux\/":1,"\/zero\/toggle\/settings\/":1,"\/fup\/interstitial\/":1,"\/work\/landing":1,"\/work\/login\/":1,"\/work\/email\/":1,"\/ai.php":1,"\/js_dialog_resources\/dialog_descriptions_android.json":0,"\/connect\/jsdialog\/MPlatformAppInvitesJSDialog\/":0,"\/connect\/jsdialog\/MPlatformOAuthShimJSDialog\/":0,"\/connect\/jsdialog\/MPlatformLikeJSDialog\/":0,"\/qp\/interstitial\/":1,"\/qp\/action\/redirect\/":1,"\/qp\/action\/close\/":1,"\/zero\/support\/ineligible\/":1,"\/zero_balance_redirect\/":1,"\/zero_balance_redirect":1,"\/zero_balance_redirect\/l\/":1,"\/l.php":1,"\/lsr.php":1,"\/ajax\/dtsg\/":1,"\/checkpoint\/block\/":1,"\/exitdsite":1,"\/zero\/balance\/pixel\/":1,"\/zero\/balance\/":1,"\/zero\/balance\/carrier_landing\/":1,"\/zero\/flex\/logging\/":1,"\/tr":1,"\/tr\/":1,"\/sem_campaigns\/sem_pixel_test\/":1,"\/bookmarks\/flyout\/body\/":1,"\/zero\/subno\/":1,"\/confirmemail.php":1,"\/policies\/":1,"\/mobile\/internetdotorg\/classifier\/":1,"\/zero\/dogfooding":1,"\/xti.php":1,"\/zero\/fblite\/config\/":1,"\/hr\/zsh\/wc\/":1,"\/ajax\/bootloader-endpoint\/":1,"\/mobile\/zero\/carrier_page\/":1,"\/mobile\/zero\/carrier_page\/education_page\/":1,"\/mobile\/zero\/carrier_page\/feature_switch\/":1,"\/mobile\/zero\/carrier_page\/settings_page\/":1,"\/aloha_check_build":1,"\/upsell\/zbd\/softnudge\/":1,"\/mobile\/zero\/af_transition\/":1,"\/mobile\/zero\/af_transition\/action\/":1,"\/mobile\/zero\/freemium\/":1,"\/mobile\/zero\/freemium\/redirect\/":1,"\/mobile\/zero\/freemium\/zero_fup\/":1,"\/privacy\/policy\/":1,"\/privacy\/center\/":1,"\/data\/manifest\/":1,"\/cmon":1,"\/cmon\/":1,"\/4oh4.php":1,"\/autologin.php":1,"\/birthday_help.php":1,"\/checkpoint\/":1,"\/contact-importer\/":1,"\/cr.php":1,"\/legal\/terms\/":1,"\/login.php":1,"\/login\/":1,"\/mobile\/account\/":1,"\/n\/":1,"\/remote_test_device\/":1,"\/upsell\/buy\/":1,"\/upsell\/buyconfirm\/":1,"\/upsell\/buyresult\/":1,"\/upsell\/promos\/":1,"\/upsell\/continue\/":1,"\/upsell\/h\/promos\/":1,"\/upsell\/loan\/learnmore\/":1,"\/upsell\/purchase\/":1,"\/upsell\/promos\/upgrade\/":1,"\/upsell\/buy_redirect\/":1,"\/upsell\/loan\/buyconfirm\/":1,"\/upsell\/loan\/buy\/":1,"\/upsell\/sms\/":1,"\/wap\/a\/channel\/reconnect.php":1,"\/wap\/a\/nux\/wizard\/nav.php":1,"\/wap\/appreg.php":1,"\/wap\/birthday_help.php":1,"\/wap\/c.php":1,"\/wap\/confirmemail.php":1,"\/wap\/cr.php":1,"\/wap\/login.php":1,"\/wap\/r.php":1,"\/zero\/datapolicy":1,"\/a\/timezone.php":1,"\/a\/bz":1,"\/bz\/reliability":1,"\/r.php":1,"\/mr\/":1,"\/reg\/":1,"\/registration\/log\/":1,"\/terms\/":1,"\/f123\/":1,"\/expert\/":1,"\/experts\/":1,"\/terms\/index.php":1,"\/terms.php":1,"\/srr\/":1,"\/msite\/redirect\/":1,"\/fbs\/pixel\/":1,"\/contactpoint\/preconfirmation\/":1,"\/contactpoint\/cliff\/":1,"\/contactpoint\/confirm\/submit\/":1,"\/contactpoint\/confirmed\/":1,"\/contactpoint\/login\/":1,"\/preconfirmation\/contactpoint_change\/":1,"\/help\/contact\/":1,"\/survey\/":1,"\/upsell\/loyaltytopup\/accept\/":1,"\/settings\/":1,"\/lite\/":1,"\/zero_status_update\/":1,"\/operator_store\/":1,"\/upsell\/":1,"\/wifiauth\/login\/":1}},1478],["DTSGInitData",[],{"token":"","async_get_token":""},3515],["WebDriverConfig",[],{"isTestRunning":false,"isJestE2ETestRun":false,"isXRequestConfigEnabled":false,"auxiliaryServiceInfo":{},"testPath":null,"originHost":null},5332],["EventConfig",[],{"sampling":{"bandwidth":0,"play":0,"playing":0,"progress":0,"pause":0,"ended":0,"seeked":0,"seeking":0,"waiting":0,"loadedmetadata":0,"canplay":0,"selectionchange":0,"change":0,"timeupdate":0,"adaptation":0,"focus":0,"blur":0,"load":0,"error":0,"message":0,"abort":0,"storage":0,"scroll":200000,"mousemove":20000,"mouseover":10000,"mouseout":10000,"mousewheel":1,"MSPointerMove":10000,"keydown":0.1,"click":0.02,"mouseup":0.02,"__100ms":0.001,"__default":5000,"__min":100,"__interactionDefault":200,"__eventDefault":100000},"page_sampling_boost":1,"interaction_regexes":{},"interaction_boost":{},"event_types":{},"manual_instrumentation":false,"profile_eager_execution":false,"disable_heuristic":true,"disable_event_profiler":false},1726],["cr:8828",[],{"__rc":[null,null]},-1],["cr:1094907",[],{"__rc":[null,null]},-1],["cr:1183579",["InlineFbtResultImpl"],{"__rc":["InlineFbtResultImpl",null]},-1],["cr:806696",["clearTimeoutBlue"],{"__rc":["clearTimeoutBlue",null]},-1],["cr:807042",["setTimeoutBlue"],{"__rc":["setTimeoutBlue",null]},-1],["FbtResultGK",[],{"shouldReturnFbtResult":true,"inlineMode":"NO_INLINE"},876],["AdsInterfacesSessionConfig",[],{},2393],["FbtQTOverrides",[],{"overrides":{}},551],["AnalyticsCoreData",[],{"device_id":"$^|AcaIHaJNbkwlJFen3uVHxrZ8INv-gyezApx2QEzjg9YR5cW9jUJD_8nQpahDPlXrFX9fASaTCvRglBWZEU7C8zRtI-tTId0|fd.Aca9xt51r3jgvlGC-Yh4_B8gZcjJ3h2RXqzflja9wa1i9-QGORNFf7yfLGozmWp2NAqEnVEaYNHt9uC5rFNPtp_2","app_id":"256281040558","enable_bladerunner":false,"enable_ack":true,"push_phase":"C3","enable_observer":false,"enable_cmcd_observer":false,"enable_dataloss_timer":false,"enable_fallback_for_br":true,"queue_activation_experiment":false,"max_delay_br_queue":60000,"max_delay_br_queue_immediate":3,"max_delay_br_init_not_complete":3000,"consents":{},"app_universe":1,"br_stateful_migration_on":true,"enable_non_fb_br_stateless_by_default":false,"use_falco_as_mutex_key":false,"is_intern":false,"enable_session_id_bug_fix":true},5237]],"require":[["markJSEnabled"],["URLFragmentPrelude"],["Primer"],["BigPipe"],["Bootloader"],["TimeSlice"],["AsyncRequest"],["FbtLogging"],["IntlQtEventFalcoEvent"],["RequireDeferredReference","unblock",[],[["AsyncRequest","FbtLogging","IntlQtEventFalcoEvent"],"sd"]],["RequireDeferredReference","unblock",[],[["AsyncRequest","FbtLogging","IntlQtEventFalcoEvent"],"css"]]]});});</script></head><body class="fbIndex UIPage_LoggedOut _-kb _605a b_c3pyn-ahh chrome webkit win x1 Locale_en_GB" dir="ltr"><script type="text/javascript" nonce="hKGPlTP2">requireLazy(["bootstrapWebSession"],function(j){j(1743589679)})</script><div class="_li" id="u_0_1_EW"><div id="globalContainer" class="uiContextualLayerParent"><div class="fb_content clearfix " id="content" role="main"><div><div class="_95k9 _8esf _8f3m _8ilg _8icx _95kc _95kb"><div class="_5aj7 _m--"><div class="_4bl9 _ihf"><div class="_8ice"><img class="fb_logo _8ilh img" src="https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg" alt="Facebook" /></div><div class="_ihd _6s">Recent logins</div><div class="_8e4l mbl _6o _6s _mf">Click your picture or add an account.</div><div class="_45ks"><div class="removableItem _95l5 _63fz"><div class="uiContextualLayerParent _csi" data-userid="1523827320"><div><a href="#" title="Madhu Kiran" class="_1gbd" role="button" data-onclick="[&#123;&quot;mod&quot;:&quot;CAALegacyLoggingUtils&quot;,&quot;meth&quot;:&quot;attachAYMHLoginOnClickListener&quot;,&quot;a&quot;:[&quot;one_tap_login&quot;,&quot;AYjhGrpv-7cEa2WBfiFws3GKVhu74CC-JBLXAUlzsr3al8_o_FyEQnOuOHp1baW7peSTYMS4KcAwqHxD0mEn_FebpV8Udo3TCY_755rPrL3JVHlcYLX9FRoNEzl48fE1jaWVf3xDY4OcIe5IYutzSUXzzw2F9ZcSLElCBFS07LnDpldY2cFWqLL4R4Pf42Zbd_WX_7QfRWo9qwsk9T9ChUui-GlUDsmVO1IuxLHgEyxMwA|fetaaymh&quot;]&#125;,&#123;&quot;mod&quot;:&quot;CAALegacyLoggingUtils&quot;,&quot;meth&quot;:&quot;attachAYMHLoginOnClickListener&quot;,&quot;a&quot;:[&quot;one_tap_login&quot;,&quot;AYij-ti-HdaB_3YOLQW5gYP3Qec6CtuYeoEYHPRWEzhSf68g1KMDlTF7gQSNkJB6wBi5ZzMWjbYm91rergiLTpSRpMLACJifZhyg_mUzxlE7mnFxLjwTRjyBFvnSUuCDj8FV9WTJ164Hd8GMI8mFvEDdG--gAnQk62VABgrBOK6zPijTPw37bRt4hBajntMGj3S6h0EQVlRJct5p-Ssmm94UE_lRlcYCZbZ-ZtST3xdJzQ|fetaaymh&quot;]&#125;]" id="u_0_2_js"><img class="_s0 _4ooo _1x2_ _1ve7 _1gax img" src="https://scontent.fhyd2-3.fna.fbcdn.net/v/t39.30808-1/468708836_10227258667162163_1388726122478904157_n.jpg?stp=c0.109.1365.1365a_dst-jpg_s160x160_tt6&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=fe756c&amp;_nc_ohc=v2zSMFTLUEoQ7kNvgFSSwr8&amp;_nc_oc=AdnS04Z0bHxRIcXZZk6BBap_VeI_ECv88Hs1gwb--maXOZ3QnbGB-FRFk96yM7LeTI8&amp;_nc_zt=24&amp;_nc_ht=scontent.fhyd2-3.fna&amp;_nc_gid=pzDVfrzwANyrXW246LXyvw&amp;oh=00_AYGsimkYUbIacquBj9KKe9vkYDTaqf_lorxOZdVVBgqp6g&amp;oe=67F2ED48" alt="" aria-label="Madhu Kiran" role="img" style="width:160px;height:160px" /><div class="_1gaz _c24 _50f6">Madhu</div><form action="/login/device-based/login/" method="post" id="u_0_3_dx"><input type="hidden" name="jazoest" value="2855" autocomplete="off" /><input type="hidden" name="lsd" value="AVoJOnXIE40" autocomplete="off" /><input type="hidden" autocomplete="off" name="uid" value="1523827320" /><input type="hidden" autocomplete="off" name="source" value="side_by_side" /><input type="hidden" autocomplete="off" name="next" value="" /></form></a><a role="button" class="_42ft _2d4g _t7b" ajaxify="/login/device-based/async/remove/?cuid=AYiOzdtLFOuyLx_fT0OlKpr_2_p7wob4mAwbR4AoBy_yXj6TZomq1YESLXkYlXgs4DF-xNJ3vyhzh-UJVxqY3wHan4lc8RyxYrwV6Q96lGku0D2LF3L74nUjcSOePPExCWc&amp;flow=www_dbl_selector_remove" href="#" rel="async-post" data-hover="tooltip" data-tooltip-content="Remove account from this page"></a><span class="_51lp hidden_elem _1gb4" title="0 new notifications">0</span></div></div></div><div class="_63fz _95l5"><div class="_csi _95l4" id="u_0_4_5Q"><a class="_1gbd _1gbe" href="/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzQzNTg5Njc5LCJjYWxsc2l0ZV9pZCI6MTMzMjk3MjM4NzAzNDMzN30%3D&amp;next" id="u_0_5_+t"><div class="_1gax"><i class="img sp_vxiiSmFDFzJ sx_310f7b"></i></div><div class="_1gaz _1ga- _50f6">Add Account</div></a></div></div></div></div><div class="_4bl7 _9ji4"><div class="_8iep _8icy _9ahz _9ah-"><div class="_6luv _52jv"><form class="_9vtf" data-testid="royal_login_form" action="/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzQzNTg5Njc5LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&amp;next" method="post" id="u_0_6_mN"><input type="hidden" name="jazoest" value="2855" autocomplete="off" /><input type="hidden" name="lsd" value="AVoJOnXIE40" autocomplete="off" /><div><div class="_6lux"><input type="text" class="inputtext _55r1 _6luy" name="email" id="email" data-testid="royal-email" placeholder="Email address or phone number" autofocus="1" aria-label="Email address or phone number" /></div><div class="_6lux"><div class="_6luy _55r1 _1kbt" id="passContainer"><input type="password" class="inputtext _55r1 _6luy _9npi" name="pass" id="pass" data-testid="royal-pass" placeholder="Password" aria-label="Password" /><div class="_9ls7" id="u_0_7_ui"><a href="#" role="button"><div class="_9lsa"><div class="_9lsb" id="u_0_8_Yd"></div></div></a></div></div></div></div><input type="hidden" autocomplete="off" name="login_source" value="comet_headerless_login" /><input type="hidden" autocomplete="off" name="next" value="" /><input type="hidden" autocomplete="off" name="shared_prefs_data" value="" /><div class="_6ltg"><button value="1" class="_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy" name="login" data-testid="royal-login-button" type="submit" id="u_0_9_Vi">Log in</button></div><div class="_6ltj"><a href="https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzQzNTg5Njc5LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&amp;ars=facebook_login&amp;next" id="u_0_a_FX">Forgotten password?</a></div><div class="_8icz"></div><div class="_6ltg"><a role="button" class="_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy" href="/r.php?entry_point=login" ajaxify="" id="u_0_0_pm" data-testid="open-registration-form-button">Create new account</a></div></form></div><div id="reg_pages_msg" class="_58mk"><a href="/pages/create/?ref_type=registration_form" class="_8esh">Create a Page</a> for a celebrity, brand or business.</div></div></div></div></div></div></div><div class=""><div class="_95ke _8opy"><div id="pageFooter" data-referrer="page_footer" data-testid="page_footer"><ul class="uiList localeSelectorList _2pid _509- _4ki _6-h _6-j _6-i" data-nocookies="1"><li>English (UK)</li><li><a class="_sv4" dir="ltr" href="https://www.facebook.com/" title="Hindi" id="u_0_b_41">हिन्दी</a></li><li><a class="_sv4" dir="rtl" href="https://hi-in.facebook.com/" title="Urdu" id="u_0_c_5O">اردو</a></li><li><a class="_sv4" dir="ltr" href="https://ur-pk.facebook.com/" title="Tamil" id="u_0_d_0J">தமிழ்</a></li><li><a class="_sv4" dir="ltr" href="https://ta-in.facebook.com/" title="Bengali" id="u_0_e_Kz">বাংলা</a></li><li><a class="_sv4" dir="ltr" href="https://bn-in.facebook.com/" title="Marathi" id="u_0_f_hz">मराठी</a></li><li><a class="_sv4" dir="ltr" href="https://mr-in.facebook.com/" title="Telugu" id="u_0_g_14">తెలుగు</a></li><li><a class="_sv4" dir="ltr" href="https://te-in.facebook.com/" title="Gujarati" id="u_0_h_G9">ગુજરાતી</a></li><li><a class="_sv4" dir="ltr" href="https://gu-in.facebook.com/" title="Kannada" id="u_0_i_7L">ಕನ್ನಡ</a></li><li><a class="_sv4" dir="ltr" href="https://kn-in.facebook.com/" title="Malayalam" id="u_0_j_iR">മലയാളം</a></li><li><a class="_sv4" dir="ltr" href="https://ml-in.facebook.com/" title="Spanish (Latin America)" id="u_0_k_dx">Español</a></li><li><a role="button" class="_42ft _4jy0 _517i _517h _51sy" rel="dialog" ajaxify="/settings/language/language/?uri=https%3A%2F%2Fes-la.facebook.com%2F&amp;source=www_list_selector_more" href="#" title="Show more languages"><i class="img sp_GPvE0syHYuh sx_8e0301"></i></a></li></ul><div id="contentCurve"></div><div id="pageFooterChildren" role="contentinfo" aria-label="Facebook site links"><ul class="uiList pageFooterLinkList _509- _4ki _703 _6-i"><li><a href="/reg/" title="Sign up for Facebook">Sign Up</a></li><li><a href="/login/" title="Log in to Facebook">Log in</a></li><li><a href="https://messenger.com/" title="Take a look at Messenger.">Messenger</a></li><li><a href="/lite/" title="Facebook Lite for Android.">Facebook Lite</a></li><li><a href="https://www.facebook.com/watch/" title="Browse in Video">Video</a></li><li><a href="https://about.meta.com/technologies/meta-pay" title="Learn more about Meta Pay" target="_blank">Meta Pay</a></li><li><a href="https://www.meta.com/" title="Discover Meta" target="_blank">Meta Store</a></li><li><a href="https://www.meta.com/quest/" title="Learn more about Meta Quest" target="_blank">Meta Quest</a></li><li><a href="https://www.meta.com/smart-glasses/" title="Learn more about Ray-Ban Meta" target="_blank">Ray-Ban Meta</a></li><li><a href="https://www.meta.ai/" title="Meta AI">Meta AI</a></li><li><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&amp;h=AT2ztVzAwedX1l_4M4SodGshszI9lMmtE4a1UPK1LIAW4hhs3Vmc6jFta0xu5h87CENSHNM4mbWn-7woMlBuolhnrg_s5t2W_WCIzgSZRUhiSq9Cbj9xZrhmbeTumPdKPKPvxVu8aGMYvC3eHQSucQ" title="Take a look at Instagram" target="_blank" rel="noreferrer nofollow" data-lynx-mode="asynclazy">Instagram</a></li><li><a href="https://www.threads.net/" title="Check out Threads">Threads</a></li><li><a href="/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D" title="See the Voting Information Centre">Voting Information Centre</a></li><li><a href="/privacy/policy/?entry_point=facebook_page_footer" title="Learn how we collect, use and share information to support Facebook.">Privacy Policy</a></li><li><a href="/privacy/center/?entry_point=facebook_page_footer" title="Learn how to manage and control your privacy on Facebook.">Privacy Centre</a></li><li><a href="https://about.meta.com/" accesskey="8" title="Read our blog, discover the resource centre and find job opportunities.">About</a></li><li><a href="/ad_campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;nav_source=unknown&amp;extra_1=auto" title="Advertise on Facebook">Create ad</a></li><li><a href="/pages/create/?ref_type=site_footer" title="Create a Page">Create Page</a></li><li><a href="https://developers.facebook.com/?ref=pf" title="Develop on our platform.">Developers</a></li><li><a href="/careers/?ref=pf" title="Make your next career move to our brilliant company.">Careers</a></li><li><a href="/policies/cookies/" title="Learn about cookies and Facebook." data-nocookies="1">Cookies</a></li><li><a class="_41ug" data-nocookies="1" href="https://www.facebook.com/help/568137493302217" title="Learn about Ad Choices.">AdChoices<i class="img sp_GPvE0syHYuh sx_7d98b4"></i></a></li><li><a data-nocookies="1" href="/policies?ref=pf" accesskey="9" title="Review our terms and policies.">Terms</a></li><li><a href="/help/?ref=pf" accesskey="0" title="Visit our Help Centre.">Help</a></li><li><a href="https://www.facebook.com/help/637205020878504" title="Visit our contact uploading and non-users notice.">Contact uploading and non-users</a></li><li><a accesskey="6" class="accessible_elem" href="/settings" title="View and edit your Facebook settings.">Settings</a></li><li><a accesskey="7" class="accessible_elem" href="/allactivity?privacy_source=activity_log_top_menu" title="View your activity log">Activity log</a></li></ul></div><div class="mvl copyright"><div><span> Meta © 2025</span></div></div></div></div></div></div><div></div><span><img src="https://facebook.com/security/hsts-pixel.gif" width="0" height="0" style="display:none" /></span></div><div style="display:none"></div>
-<script nonce="hKGPlTP2">requireLazy(["HasteSupportData"],function(m){m.handle({"bxData":{"875231":{"uri":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/y1\/r\/ay1hV6OlegS.ico"}},"clpData":{"4156":{"r":1,"s":1},"4157":{"r":1,"s":1},"4158":{"r":1,"s":1},"4159":{"r":1,"s":1},"4160":{"r":1,"s":1},"4161":{"r":1,"s":1},"4172":{"r":1,"s":1},"4173":{"r":1,"s":1},"6647":{"r":1,"s":1},"6648":{"r":1,"s":1},"6661":{"r":1,"s":1},"6662":{"r":1,"s":1},"1744178":{"r":1,"s":1},"1743095":{"r":1,"s":1}},"gkxData":{"579":{"result":false,"hash":null},"6181":{"result":false,"hash":null},"6708":{"result":false,"hash":null},"8772":{"result":true,"hash":null},"1624":{"result":false,"hash":null},"2160":{"result":false,"hash":null},"5679":{"result":false,"hash":null},"20836":{"result":false,"hash":null},"21050":{"result":false,"hash":null},"21051":{"result":false,"hash":null},"21053":{"result":false,"hash":null},"21055":{"result":false,"hash":null},"21056":{"result":false,"hash":null},"21057":{"result":false,"hash":null},"21058":{"result":false,"hash":null},"21049":{"result":false,"hash":null},"21116":{"result":false,"hash":null},"3485":{"result":true,"hash":null},"7686":{"result":false,"hash":null},"7687":{"result":false,"hash":null},"21075":{"result":false,"hash":null},"23433":{"result":false,"hash":null},"25574":{"result":true,"hash":null},"25981":{"result":false,"hash":null},"25983":{"result":false,"hash":null},"4737":{"result":false,"hash":null},"9861":{"result":true,"hash":null},"10211":{"result":false,"hash":null},"10662":{"result":false,"hash":null},"10839":{"result":false,"hash":null},"10850":{"result":false,"hash":null},"11370":{"result":false,"hash":null},"11452":{"result":false,"hash":null},"11557":{"result":false,"hash":null},"11685":{"result":false,"hash":null},"21063":{"result":false,"hash":null},"21069":{"result":false,"hash":null},"21071":{"result":false,"hash":null},"21072":{"result":false,"hash":null},"33056":{"result":false,"hash":null},"21034":{"result":false,"hash":null},"8859":{"result":false,"hash":null}},"qexData":{"324":{"r":false},"1003":{"r":false},"1250":{"r":false},"104":{"r":null},"128":{"r":null},"344":{"r":null},"388":{"r":null}},"qplData":{"2444":{"r":100}},"justknobxData":{"2928":{"r":false},"1806":{"r":true},"2233":{"r":true}}})});requireLazy(["Bootloader"],function(m){m.handlePayload({"consistency":{"rev":1021490555},"rsrcMap":{"2XRCDQ+":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yw\/r\/X8Jz-x4lcW_.js"},"QGhzutl":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ij9m4\/yC\/l\/en_GB\/rNoIVUQzLlZ.js"},"9NiATAn":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yv\/r\/yRuFCzueB7p.js"},"S3gsgXq":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/ye\/r\/UW1F5qXR7Qe.js"},"BkiawEP":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yc\/r\/ikCtp4tCbEB.js"},"KZEmWCb":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yJ\/r\/0Q6YIW1lUwH.js"},"XXEAyP1":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/ye\/r\/b0iIjD_dDVN.js"},"A0f6RPb":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yp\/r\/TYxmb9UCP0U.js"},"TJVOl6T":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yZ\/r\/7g0jKiK1rvi.js"},"FDkw78n":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4imlR4\/yA\/l\/en_GB\/J_t1dXtKvhx.js"},"7u3BaZn":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yr\/r\/Csebi9NWxoX.js"},"7v2Q3sb":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yM\/r\/1gKSPuxdvmK.js"},"WzW470F":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/y9\/r\/IAqkaiye5bw.js"},"PLHBusX":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/ym\/r\/ts3nVW7qMn5.js"},"9MP\/k5y":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iKeq4\/yj\/l\/en_GB\/tammXEfmS6x.js"},"Un9XYQ4":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yS\/r\/tFpR2AoGXfc.js"},"p+1OXu8":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4i_Ou4\/yV\/l\/en_GB\/F0A_DxAvhUT.js"},"+2mYsBo":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yd\/r\/ACVCSlW0ASp.js"},"BtvkAAT":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4i2oJ4\/yO\/l\/en_GB\/W6CDaFSsZUA.js"},"SmKcX29":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yS\/r\/Ah1n7q5aFBa.js"},"8I2\/23A":{"type":"css","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yd\/l\/0,cross\/t9KresjEDu4.css"},"fj3cOcG":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iojZ4\/y1\/l\/en_GB\/kA0usUr4AgR.js"},"YuHBYfF":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/y4\/r\/ASjPVxDpQ1M.js"},"fq2\/SYJ":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ijWR4\/yn\/l\/en_GB\/IHpvnnY1bXu.js"},"zqVCkTS":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iz2v4\/yb\/l\/en_GB\/IFQlSbwNxkJ.js"},"PrLA1d7":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yi\/r\/kwTzawt2kC2.js"},"exAA55S":{"type":"css","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yb\/l\/0,cross\/q6nzbReaFiJ.css"},"1tVcq7W":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ikpZ4\/ym\/l\/en_GB\/sySQ6qpAYwJ.js"},"qfCCypO":{"type":"css","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yf\/l\/0,cross\/DAAhJAnQNm4.css"},"iBQNJ29":{"type":"css","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yA\/l\/0,cross\/aI34N_l77-I.css"},"5Vdf4fq":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yF\/r\/GNeeW0QDsVw.js"},"3V7Uzci":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yJ\/r\/v_4IcKWGqFk.js"},"jPzBnkU":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iJ814\/y8\/l\/en_GB\/zKdErYuM_HD.js"},"RysfHdy":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iwbq4\/y6\/l\/en_GB\/2rkbeHAUvt8.js"},"3DIZcHw":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iK7-4\/yW\/l\/en_GB\/mTzQL4C0AaT.js"},"muVZ1zd":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ioUO4\/yF\/l\/en_GB\/29H7C7TPBKO.js"},"q4zsHUg":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iLl54\/y3\/l\/en_GB\/N8avUFMjmTc.js"},"o9HCBGU":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iNig4\/yC\/l\/en_GB\/KvIsvSUlUtk.js"},"dB1g5Qj":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yD\/r\/PtzxYFVJw-3.js"},"1oOuMrp":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iYoV4\/yG\/l\/en_GB\/gmt0AoIRN7f.js"},"\/sxhM0X":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iWtR4\/yD\/l\/en_GB\/dZ1imBZvaik.js"},"\/fRfucJ":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yj\/r\/J_2QGZXJPHT.js"},"2qc9ye3":{"type":"css","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/y5\/l\/0,cross\/uA6teg2m2UV.css"},"onOsNjz":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iF524\/yJ\/l\/en_GB\/4_ZOOR7cNSd.js"},"SyKIFWF":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iYwN4\/yE\/l\/en_GB\/U29dGacqW04.js"},"ftzNXbd":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yx\/r\/C8jqD1z7MOw.js"},"52PaV8k":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/ym\/r\/oC4A7G5H6hw.js"},"GFsFPn8":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iyCS4\/yB\/l\/en_GB\/HIuW8BO72id.js"},"us93Cuw":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ikU54\/y8\/l\/en_GB\/48Mh0Hgq2mL.js"},"CoZbYwK":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iOMh4\/yS\/l\/en_GB\/XsM2N6hZZoF.js"},"mB2w4ZN":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4il5S4\/yc\/l\/en_GB\/u0s_SQRhIST.js"},"u8\/CABt":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iDSI4\/ye\/l\/en_GB\/po1lJsZFRk1.js"},"fxlMgrz":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yV\/r\/lJvIGrJJP-1.js"},"y5e3WGi":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yq\/r\/mKHx8zWrPVv.js"},"+aat+Q7":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yy\/r\/-LSlz2uJGzL.js"},"3h8JV4N":{"type":"css","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yd\/l\/0,cross\/ef5su7X-qg6.css"},"zooB5Ym":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4isUt4\/y-\/l\/en_GB\/ENhDph9sVCs.js"},"Ab44onT":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iLl54\/yH\/l\/en_GB\/LifYl534C6z.js"},"tYSK7\/e":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4i2TV4\/ya\/l\/en_GB\/ovqg4g2HL5X.js"},"QxFdbZ+":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ieLs4\/yl\/l\/en_GB\/1D71-hiykZs.js"},"4PpJHI7":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4icio4\/y6\/l\/en_GB\/p_oeQb4SRRO.js"},"G6bFuE9":{"type":"css","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yD\/l\/0,cross\/xnTKGRVhWtZ.css"},"RvXtI3h":{"type":"css","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yk\/l\/0,cross\/RlUdQ4w-MUE.css"},"wjWw2Yl":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iPd64\/yN\/l\/en_GB\/7ik8i4-wEKF.js"},"Pb2fuZV":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yb\/r\/647M0QM8sns.js"},"yMgn4BF":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yA\/r\/-u-KeKSHGqH.js"},"CknCotK":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ia9Z4\/yS\/l\/en_GB\/iyvdGB_2CFW.js"},"Rjwircl":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yg\/r\/_bItwYiKL5i.js"},"o6IGpVl":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yQ\/r\/-2YDtqDjcyz.js"},"9gQ51SK":{"type":"css","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yF\/l\/0,cross\/wMyDmYTj55Z.css"},"HBK9MF6":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iFJJ4\/yK\/l\/en_GB\/m5GXhEArfmW.js"},"VB4zTC3":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yy\/r\/ozTlFblbI9G.js"},"xsFg75a":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yt\/r\/mnLc1TS2Wp-.js"},"rCasuzG":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yA\/r\/OzWmCcYw0wO.js"},"EToYw1m":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iTfb4\/yM\/l\/en_GB\/4heuqjeXkT0.js"},"rE8UVPa":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iDxn4\/yD\/l\/en_GB\/X3F1775cjEb.js"},"I+GHswV":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yS\/r\/ui2DkP-wt_7.js"},"vdNQr9P":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yj\/r\/FiVT6nDibIJ.js"},"H\/5lfuF":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yF\/r\/iqrvM8jAXX7.js"},"17Grp2h":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/y-\/r\/HhbMrxvaW_H.js"},"QyoftxH":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yL\/r\/j-_AFWnS2kv.js"},"QIamfde":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yA\/r\/Y37sQzk-yb8.js"},"Y7CydAx":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yz\/r\/Zbe5dcICLBZ.js"},"z3hBw8h":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yh\/r\/qkqnWEiZRwq.js"},"tADNV\/7":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yG\/r\/ml61hhqKOR8.js"},"8Rq5kp2":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yX\/r\/R7paD7vUTA2.js"},"Uh9zPeg":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yi\/r\/fcnDhCsH9cT.js"},"k3EONbs":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yw\/r\/dVQn8vgT2OY.js"},"zLQaNdg":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yW\/r\/rhZUiD8hJ72.js"},"T9BkhW+":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yJ\/r\/TJc3tU-0fV-.js"},"gPs5ujE":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yG\/r\/t7NvWmugEXz.js"},"JuRSzyN":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yi\/r\/a-YTO831OY-.js"},"zPYlTyl":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yO\/r\/_tJ17sGyxOX.js"},"CFiArmq":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yK\/r\/RhCM2WBx4P9.js"},"ZDu7I1t":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yN\/r\/bN7Z3GSDi80.js"},"WrBY+qn":{"type":"js","src":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yo\/r\/kWuLb-yjDGR.js"},"P\/mr5VE":{"type":"css","src":"data:text\/css; charset=utf-8,","d":1}},"compMap":{"WebSpeedInteractionsTypedLogger":{"r":["2XRCDQ+","QGhzutl","9NiATAn","S3gsgXq","BkiawEP"],"be":1},"AsyncRequest":{"r":["2XRCDQ+","QGhzutl","xng30X1"],"rds":{"m":["FbtLogging","IntlQtEventFalcoEvent"]},"be":1},"DOM":{"r":["2XRCDQ+","xng30X1"],"be":1},"Form":{"r":["2XRCDQ+","KZEmWCb","xng30X1"],"be":1},"FormSubmit":{"r":["XXEAyP1","2XRCDQ+","QGhzutl","KZEmWCb","xng30X1"],"rds":{"m":["FbtLogging","IntlQtEventFalcoEvent"]},"be":1},"Input":{"r":["KZEmWCb"],"be":1},"Toggler":{"r":["A0f6RPb","TJVOl6T","xng30X1","FDkw78n","2XRCDQ+","KZEmWCb","7u3BaZn"],"be":1},"Tooltip":{"r":["7v2Q3sb","A0f6RPb","TJVOl6T","xng30X1","WzW470F","PLHBusX","9MP\/k5y","2XRCDQ+","QGhzutl","z8TeFHS","7u3BaZn","Un9XYQ4","FDkw78n","KZEmWCb"],"rds":{"m":["FbtLogging","IntlQtEventFalcoEvent","PageTransitions","Animation"],"r":["p+1OXu8"]},"be":1},"URI":{"r":[],"be":1},"trackReferrer":{"r":[],"be":1},"PhotoTagApproval":{"r":["+2mYsBo","2XRCDQ+","BtvkAAT","xng30X1"],"be":1},"PhotoSnowlift":{"r":["SmKcX29","7v2Q3sb","hNxPog9","8I2\/23A","fj3cOcG","A0f6RPb","YuHBYfF","fq2\/SYJ","Un9XYQ4","TJVOl6T","xng30X1","zqVCkTS","PrLA1d7","exAA55S","FDkw78n","WzW470F","1tVcq7W","XDd2yj5","qfCCypO","iBQNJ29","5Vdf4fq","1IX\/78B","3V7Uzci","jPzBnkU","p+1OXu8","PLHBusX","RysfHdy","9MP\/k5y","3DIZcHw","muVZ1zd","2XRCDQ+","q4zsHUg","o9HCBGU","dB1g5Qj","1oOuMrp","\/sxhM0X","\/fRfucJ","2qc9ye3","onOsNjz","SyKIFWF","ftzNXbd","52PaV8k","BtvkAAT","QGhzutl","KZEmWCb","GFsFPn8","us93Cuw","CoZbYwK","mB2w4ZN","u8\/CABt","fxlMgrz","y5e3WGi","+aat+Q7","3h8JV4N","z8TeFHS","zooB5Ym","Ab44onT","tYSK7\/e","QxFdbZ+","7u3BaZn","S3gsgXq","BkiawEP"],"rds":{"m":["Animation","FbtLogging","ODS","IntlQtEventFalcoEvent","PageTransitions"]},"be":1},"PhotoTagger":{"r":["4PpJHI7","G6bFuE9","7v2Q3sb","A0f6RPb","TJVOl6T","xng30X1","PrLA1d7","FDkw78n","WzW470F","1tVcq7W","RvXtI3h","S3gsgXq","iBQNJ29","PLHBusX","9MP\/k5y","2XRCDQ+","dB1g5Qj","SyKIFWF","BtvkAAT","QGhzutl","KZEmWCb","y5e3WGi","wjWw2Yl","7u3BaZn","Pb2fuZV","Un9XYQ4","BkiawEP"],"rds":{"m":["FbtLogging","IntlQtEventFalcoEvent","PageTransitions","Animation"],"r":["p+1OXu8"]},"be":1},"PhotoTags":{"r":["A0f6RPb","2XRCDQ+","BtvkAAT","yMgn4BF","xng30X1"],"be":1},"TagTokenizer":{"r":["G6bFuE9","A0f6RPb","CknCotK","xng30X1","Rjwircl","o6IGpVl","2XRCDQ+","9gQ51SK","2qc9ye3","KZEmWCb","HBK9MF6","VB4zTC3","7u3BaZn","Pb2fuZV"],"rds":{"m":["FbtLogging","IntlQtEventFalcoEvent"],"r":["QGhzutl"]},"be":1},"AsyncDialog":{"r":["7v2Q3sb","A0f6RPb","TJVOl6T","xng30X1","FDkw78n","WzW470F","XDd2yj5","1IX\/78B","PLHBusX","2XRCDQ+","q4zsHUg","SyKIFWF","52PaV8k","QGhzutl","KZEmWCb","GFsFPn8","mB2w4ZN","fxlMgrz","QxFdbZ+","7u3BaZn","Un9XYQ4"],"rds":{"m":["FbtLogging","IntlQtEventFalcoEvent"]},"be":1},"Hovercard":{"r":["G6bFuE9","7v2Q3sb","A0f6RPb","TJVOl6T","xng30X1","FDkw78n","WzW470F","1tVcq7W","RvXtI3h","iBQNJ29","PLHBusX","9MP\/k5y","2XRCDQ+","QGhzutl","KZEmWCb","wjWw2Yl","7u3BaZn","Pb2fuZV","Un9XYQ4","S3gsgXq","BkiawEP"],"rds":{"m":["FbtLogging","IntlQtEventFalcoEvent","PageTransitions","Animation"],"r":["p+1OXu8"]},"be":1},"XOfferController":{"r":["xsFg75a","KZEmWCb"],"be":1},"PerfXSharedFields":{"r":["7v2Q3sb","2XRCDQ+"],"be":1},"KeyEventTypedLogger":{"r":["2XRCDQ+","QGhzutl","rCasuzG","S3gsgXq","BkiawEP"],"be":1},"Dialog":{"r":["A0f6RPb","TJVOl6T","xng30X1","zqVCkTS","FDkw78n","qfCCypO","PLHBusX","9MP\/k5y","2XRCDQ+","QGhzutl","KZEmWCb","7u3BaZn","7v2Q3sb","WzW470F","p+1OXu8","Un9XYQ4"],"rds":{"m":["FbtLogging","IntlQtEventFalcoEvent","Animation","PageTransitions"]},"be":1},"ExceptionDialog":{"r":["7v2Q3sb","hNxPog9","A0f6RPb","YuHBYfF","TJVOl6T","xng30X1","FDkw78n","WzW470F","1tVcq7W","XDd2yj5","PLHBusX","2XRCDQ+","q4zsHUg","\/sxhM0X","2qc9ye3","onOsNjz","SyKIFWF","52PaV8k","KZEmWCb","EToYw1m","GFsFPn8","mB2w4ZN","fxlMgrz","rE8UVPa","QxFdbZ+","7u3BaZn","Un9XYQ4","QGhzutl"],"rds":{"m":["FbtLogging","IntlQtEventFalcoEvent"]},"be":1},"ConfirmationDialog":{"r":["A0f6RPb","I+GHswV","vdNQr9P","2XRCDQ+","KZEmWCb","xng30X1"],"be":1},"MWADeveloperReauthBarrier":{"r":["H\/5lfuF","2XRCDQ+","17Grp2h","QyoftxH","QIamfde"],"be":1},"CAALegacyLoggingUtils":{"r":["7v2Q3sb","Y7CydAx","z3hBw8h","2XRCDQ+","tADNV\/7","8Rq5kp2","Uh9zPeg","k3EONbs","zLQaNdg","T9BkhW+"],"be":1},"ContextualLayerInlineTabOrder":{"r":["A0f6RPb","TJVOl6T","xng30X1","2XRCDQ+","gPs5ujE","7u3BaZn"],"be":1},"XUIDialogButton.react":{"r":["7v2Q3sb","hNxPog9","xng30X1","FDkw78n","WzW470F","XDd2yj5","PLHBusX","2XRCDQ+","q4zsHUg","\/sxhM0X","SyKIFWF","52PaV8k","GFsFPn8","mB2w4ZN","fxlMgrz","7u3BaZn","Un9XYQ4","QGhzutl"],"rds":{"m":["FbtLogging","IntlQtEventFalcoEvent"]},"be":1},"XUIDialogBody.react":{"r":["7v2Q3sb","hNxPog9","YuHBYfF","WzW470F","XDd2yj5","\/sxhM0X","Un9XYQ4"],"be":1},"XUIDialogFooter.react":{"r":["7v2Q3sb","hNxPog9","YuHBYfF","xng30X1","WzW470F","XDd2yj5","\/sxhM0X","2qc9ye3","GFsFPn8","Un9XYQ4"],"be":1},"XUIDialogTitle.react":{"r":["7v2Q3sb","xng30X1","WzW470F","XDd2yj5","PLHBusX","2XRCDQ+","SyKIFWF","GFsFPn8","mB2w4ZN","fxlMgrz","QxFdbZ+","Un9XYQ4","QGhzutl"],"rds":{"m":["FbtLogging","IntlQtEventFalcoEvent"]},"be":1},"XUIGrayText.react":{"r":["7v2Q3sb","hNxPog9","YuHBYfF","WzW470F","rE8UVPa","Un9XYQ4"],"be":1},"DialogX":{"r":["7v2Q3sb","A0f6RPb","TJVOl6T","xng30X1","FDkw78n","WzW470F","XDd2yj5","PLHBusX","2XRCDQ+","KZEmWCb","7u3BaZn","Un9XYQ4"],"rds":{"m":["FbtLogging","IntlQtEventFalcoEvent"],"r":["QGhzutl"]},"be":1},"react":{"r":["7v2Q3sb","WzW470F","Un9XYQ4"],"be":1}}})});</script>
-<script nonce="hKGPlTP2">requireLazy(["InitialJSLoader"], function(InitialJSLoader) {InitialJSLoader.loadOnDOMContentReady(["QGhzutl","KZEmWCb","2XRCDQ+","A0f6RPb","7u3BaZn","7v2Q3sb","Y7CydAx","z3hBw8h","tADNV\/7","8Rq5kp2","Uh9zPeg","k3EONbs","zLQaNdg","T9BkhW+","JuRSzyN","I+GHswV","zPYlTyl","CFiArmq","ZDu7I1t","WrBY+qn","TJVOl6T","WzW470F","PLHBusX","9MP\/k5y","S3gsgXq","BkiawEP","Un9XYQ4","FDkw78n","p+1OXu8","P\/mr5VE"]);});</script>
-<script nonce="hKGPlTP2">requireLazy(["TimeSliceImpl","ServerJS"],function(TimeSlice,ServerJS){var s=(new ServerJS());s.handle({"define":[["cr:7736",["FBLynxLogging"],{"__rc":["FBLynxLogging",null]},-1],["LinkshimHandlerConfig",[],{"supports_meta_referrer":true,"default_meta_referrer_policy":"origin-when-crossorigin","switched_meta_referrer_policy":"origin","non_linkshim_lnfb_mode":null,"link_react_default_hash":"AT00r2gKihr8AAd54J_xEQK7vyVcaQXFK_2aAHcLtS9VhZ8_Dnu30TN0NwwEMtOiJ5RbjnKu3Wb_uT4l9JAN4zzwXsfhI8nN36k5pVV5CLjCt2TCGmkrQDhTCGkFsveHYhzbCl_OdgT7c9aNB3Ipaw","untrusted_link_default_hash":"AT1PpTcpiXomc7DTyGMbuoTL2yyGWpqH29ybgXk6reIaRluCF-qRTeTgtnYrrqQog7992ngtb6YdrfMq4GuOv_5GUPfEO0uott5ruMmZ3fcGi2WEyfqAh5PO19MKdFlU1V-ESXL8gJlZuglp_eFp2g","linkshim_host":"l.facebook.com","linkshim_path":"\/l.php","linkshim_enc_param":"h","linkshim_url_param":"u","use_rel_no_opener":true,"use_rel_no_referrer":true,"always_use_https":true,"onion_always_shim":true,"middle_click_requires_event":true,"www_safe_js_mode":"asynclazy","m_safe_js_mode":"MLynx_asynclazy","ghl_param_link_shim":false,"click_ids":[],"is_linkshim_supported":true,"current_domain":"facebook.com","blocklisted_domains":["ad.doubleclick.net","ads-encryption-url-example.com","bs.serving-sys.com","ad.atdmt.com","adform.net","ad13.adfarm1.adition.com","ilovemyfreedoms.com","secure.adnxs.com"],"is_mobile_device":false},27]],"instances":[["__inst_ead1e565_0_0_5A",["DialogX","LayerFadeOnHide","LayerHideOnBlur","LayerHideOnEscape","DialogHideOnSuccess","LayerHideOnTransition","LayerRemoveOnHide","__markup_9f5fac15_0_0_\/M","HTML"],[{"width":400,"autohide":null,"titleID":null,"redirectURI":null,"fixedTopPosition":null,"ignoreFixedTopInShortViewport":false,"label":null,"labelledBy":"Log in","modal":true,"xui":true,"addedBehaviors":[{"__m":"LayerFadeOnHide"},{"__m":"LayerHideOnBlur"},{"__m":"LayerHideOnEscape"},{"__m":"DialogHideOnSuccess"},{"__m":"LayerHideOnTransition"},{"__m":"LayerRemoveOnHide"}],"classNames":["_ach7","_9aha"]},{"__m":"__markup_9f5fac15_0_0_\/M"}],4]],"markup":[["__markup_9f5fac15_0_0_\/M",{"__html":"\u003Cdiv>\u003Cdiv class=\"_4-i2 _pig _31nc _50f4\">\u003Cdiv class=\"_31nd\" id=\"u_0_l_Sk\">\u003Cdiv class=\"_9ai5\">\u003Ci class=\"_9ai6 img sp_vxiiSmFDFzJ sx_082a2e\">\u003C\/i>\u003C\/div>\u003C\/div>\u003Cdiv class=\"_9ah_\">Log in to Facebook\u003C\/div>\u003Cdiv class=\"_9ai1\">\u003Chr \/>\u003C\/div>\u003Cform action=\"\/login\/device-based\/regular\/login\/\" method=\"post\" id=\"u_0_m_0C\">\u003Cinput type=\"hidden\" name=\"jazoest\" value=\"2855\" autocomplete=\"off\" \/>\u003Cinput type=\"hidden\" name=\"lsd\" value=\"AVoJOnXIE40\" autocomplete=\"off\" \/>\u003Cdiv class=\"_6lux\">\u003Cinput type=\"text\" class=\"inputtext _55r1 _6luy\" name=\"email\" id=\"email\" data-testid=\"royal-email\" placeholder=\"Email address or phone number\" autofocus=\"1\" aria-label=\"Email address or phone number\" \/>\u003C\/div>\u003Cdiv class=\"_6lux\">\u003Cdiv class=\"_6luy _55r1 _1kbt\" id=\"passContainer\">\u003Cinput type=\"password\" class=\"inputtext _55r1 _6luy _9npi\" name=\"pass\" id=\"pass\" data-testid=\"royal-pass\" placeholder=\"Password\" aria-label=\"Password\" \/>\u003Cdiv class=\"_9ls7\" id=\"u_0_n_x2\">\u003Ca href=\"#\" role=\"button\">\u003Cdiv class=\"_9lsa\">\u003Cdiv class=\"_9lsb\" id=\"u_0_o_Ki\">\u003C\/div>\u003C\/div>\u003C\/a>\u003C\/div>\u003C\/div>\u003C\/div>\u003Cinput type=\"hidden\" autocomplete=\"off\" id=\"cred_type\" name=\"cred_type\" value=\"100\" \/>\u003Cinput type=\"hidden\" autocomplete=\"off\" id=\"login_source\" name=\"login_source\" value=\"device_based_login_add_account\" \/>\u003Cinput type=\"hidden\" autocomplete=\"off\" id=\"is_reauth_from_account_switcher\" name=\"is_reauth_from_account_switcher\" value=\"\" \/>\u003Cdiv class=\"_9ai3\" data-testid=\"savepass-checkbox\">\u003Clabel class=\"_9ai7\">\u003Cinput type=\"checkbox\" name=\"savepass\" value=\"\" \/>\u003Cspan class=\"_9ai8\">\u003C\/span>\u003Cdiv class=\"_9ai4\">Remember password\u003C\/div>\u003C\/label>\u003C\/div>\u003Cinput type=\"hidden\" autocomplete=\"off\" name=\"next\" value=\"\" \/>\u003Cinput type=\"hidden\" autocomplete=\"off\" checked=\"1\" name=\"persistent\" \/>\u003Cinput type=\"hidden\" autocomplete=\"off\" name=\"shared_prefs_data\" value=\"\" \/>\u003Cdiv class=\"_3-8o\">\u003Cbutton value=\"1\" class=\"_42ft _4jy0 _31ni _4jy5 _4jy1 selected _51sy\" name=\"login\" data-testid=\"royal-login-button\" type=\"submit\">Log in\u003C\/button>\u003C\/div>\u003Cdiv class=\"_3d7w\">\u003Ca href=\"\/recover\/initiate\/?ars=www_account_switcher&amp;next\" class=\"_9ai2\">Forgotten password?\u003C\/a>\u003C\/div>\u003C\/form>\u003C\/div>\u003C\/div>"},8,"HTML"]],"elements":[["__elem_a588f507_0_1_Vo","u_0_1_EW",1],["__elem_a588f507_0_0_a2","globalContainer",1],["__elem_a588f507_0_2_zi","content",1],["__elem_072b8e64_0_b_FP","u_0_2_js",1],["__elem_835c633a_0_1_kD","u_0_3_dx",1],["__elem_9f5fac15_0_1_0K","u_0_4_5Q",1],["__elem_072b8e64_0_c_\/x","u_0_5_+t",1],["__elem_835c633a_0_0_8M","u_0_6_mN",1],["__elem_9f5fac15_0_0_yF","passContainer",1],["__elem_558608f3_0_0_\/5","pass",1],["__elem_a588f507_0_3_OC","u_0_7_ui",1],["__elem_a588f507_0_4_7K","u_0_8_Yd",1],["__elem_45d73b5d_0_1_5t","u_0_9_Vi",2],["__elem_072b8e64_0_0_Ly","u_0_a_FX",1],["__elem_45d73b5d_0_0_\/I","u_0_0_pm",1],["__elem_072b8e64_0_1_G0","u_0_b_41",1],["__elem_072b8e64_0_2_qv","u_0_c_5O",1],["__elem_072b8e64_0_3_u3","u_0_d_0J",1],["__elem_072b8e64_0_4_K6","u_0_e_Kz",1],["__elem_072b8e64_0_5_P4","u_0_f_hz",1],["__elem_072b8e64_0_6_B0","u_0_g_14",1],["__elem_072b8e64_0_7_B4","u_0_h_G9",1],["__elem_072b8e64_0_8_6l","u_0_i_7L",1],["__elem_072b8e64_0_9_tb","u_0_j_iR",1],["__elem_072b8e64_0_a_5A","u_0_k_dx",1],["__elem_a588f507_0_5_6R","u_0_l_Sk",1,"__markup_9f5fac15_0_0_\/M"],["__elem_835c633a_0_2_TS","u_0_m_0C",1,"__markup_9f5fac15_0_0_\/M"],["__elem_9f5fac15_0_2_r3","passContainer",1,"__markup_9f5fac15_0_0_\/M"],["__elem_558608f3_0_1_ki","pass",1,"__markup_9f5fac15_0_0_\/M"],["__elem_a588f507_0_6_\/R","u_0_n_x2",1,"__markup_9f5fac15_0_0_\/M"],["__elem_a588f507_0_7_uP","u_0_o_Ki",1,"__markup_9f5fac15_0_0_\/M"]],"require":[["ServiceWorkerLoginAndLogout","login",[],[]],["WebPixelRatioDetector","startDetecting",[],[false]],["ScriptPath","set",[],["XIndexReduxController","a1f3c513",{"imp_id":"0z9R6P0Ut3LGVgvGB","ef_page":null,"uri":"https:\/\/www.facebook.com\/"}]],["UITinyViewportAction","init",[],[]],["ResetScrollOnUnload","init",["__elem_a588f507_0_0_a2"],[{"__m":"__elem_a588f507_0_0_a2"}]],["KeyboardActivityLogger","init",[],[]],["FocusRing","init",[],[]],["ErrorMessageConsole","listenForUncaughtErrors",[],[]],["HardwareCSS","init",[],[]],["CAALegacyLoggingUtils","attachEventOnClickListener",["__elem_072b8e64_0_0_Ly"],[{"__m":"__elem_072b8e64_0_0_Ly"},"forgot_password_button_clicked"]],["CAALegacyLoggingUtils","attachEventOnClickListener",["__elem_45d73b5d_0_0_\/I"],[{"__m":"__elem_45d73b5d_0_0_\/I"},"sign_up_button_clicked"]],["CAALegacyLoggingUtils","attachEventOnClickListener",["__elem_45d73b5d_0_1_5t"],[{"__m":"__elem_45d73b5d_0_1_5t"},"login_button_clicked"]],["LoginInitialLoadLogger","onLoad",[],["homepage"]],["CAAWebLoggingUtils","logLoginEvent",[],[{"event":"login_step_view_loaded","event_flow":"login_manual","event_step":"home_page","event_category":"login_home_page_init","extra_client_data":{"path":"\/"}},0]],["LoginFormController","init",["__elem_835c633a_0_0_8M","__elem_45d73b5d_0_1_5t"],[{"__m":"__elem_835c633a_0_0_8M"},{"__m":"__elem_45d73b5d_0_1_5t"},null,true,{"pubKey":{"publicKey":"1797f47cffc10805810cffcedbdc278af185f6374be2ac0f75e70986bc969d7a","keyId":185}},true]],["BrowserPrefillLogging","initContactpointFieldLogging",[],[{"contactpointFieldID":"email","serverPrefill":""}]],["BrowserPrefillLogging","initPasswordFieldLogging",[],[{"passwordFieldID":"pass"}]],["FocusListener"],["FlipDirectionOnKeypress"],["LoginFormToggle","initToggle",["__elem_a588f507_0_3_OC","__elem_a588f507_0_4_7K","__elem_558608f3_0_0_\/5","__elem_9f5fac15_0_0_yF"],[{"__m":"__elem_a588f507_0_3_OC"},{"__m":"__elem_a588f507_0_4_7K"},{"__m":"__elem_558608f3_0_0_\/5"},{"__m":"__elem_9f5fac15_0_0_yF"}]],["IntlUtils","initOnClickHandler",["__elem_072b8e64_0_1_G0"],[{"__m":"__elem_072b8e64_0_1_G0"},"hi_IN","en_GB",false,"www_list_selector","https:\/\/hi-in.facebook.com\/",0]],["IntlUtils","initOnClickHandler",["__elem_072b8e64_0_2_qv"],[{"__m":"__elem_072b8e64_0_2_qv"},"ur_PK","en_GB",false,"www_list_selector","https:\/\/ur-pk.facebook.com\/",1]],["IntlUtils","initOnClickHandler",["__elem_072b8e64_0_3_u3"],[{"__m":"__elem_072b8e64_0_3_u3"},"ta_IN","en_GB",false,"www_list_selector","https:\/\/ta-in.facebook.com\/",2]],["IntlUtils","initOnClickHandler",["__elem_072b8e64_0_4_K6"],[{"__m":"__elem_072b8e64_0_4_K6"},"bn_IN","en_GB",false,"www_list_selector","https:\/\/bn-in.facebook.com\/",3]],["IntlUtils","initOnClickHandler",["__elem_072b8e64_0_5_P4"],[{"__m":"__elem_072b8e64_0_5_P4"},"mr_IN","en_GB",false,"www_list_selector","https:\/\/mr-in.facebook.com\/",4]],["IntlUtils","initOnClickHandler",["__elem_072b8e64_0_6_B0"],[{"__m":"__elem_072b8e64_0_6_B0"},"te_IN","en_GB",false,"www_list_selector","https:\/\/te-in.facebook.com\/",5]],["IntlUtils","initOnClickHandler",["__elem_072b8e64_0_7_B4"],[{"__m":"__elem_072b8e64_0_7_B4"},"gu_IN","en_GB",false,"www_list_selector","https:\/\/gu-in.facebook.com\/",6]],["IntlUtils","initOnClickHandler",["__elem_072b8e64_0_8_6l"],[{"__m":"__elem_072b8e64_0_8_6l"},"kn_IN","en_GB",false,"www_list_selector","https:\/\/kn-in.facebook.com\/",7]],["IntlUtils","initOnClickHandler",["__elem_072b8e64_0_9_tb"],[{"__m":"__elem_072b8e64_0_9_tb"},"ml_IN","en_GB",false,"www_list_selector","https:\/\/ml-in.facebook.com\/",8]],["IntlUtils","initOnClickHandler",["__elem_072b8e64_0_a_5A"],[{"__m":"__elem_072b8e64_0_a_5A"},"es_LA","en_GB",false,"www_list_selector","https:\/\/es-la.facebook.com\/",9]],["FBLynx","setupDelegation",[],[]],["CAAWebAYMHLoggingUtils","logLegacyAYMHProfiles",[],["aymh_profiles_loaded_after_filtering","aymh","home_page",0,[{"ucid":"AYgY_LPBhj5C0RwOE-hqEBSNj-Ax5TDIPBMNxFtefVctVsgo4XrMt5uyC1skb8oSna4MKe10c4k0WlEE1Y-GNvAptd-tHWpgB9R4oLrq2D_HYlgvusflni-p9geNVIkChIQU0dxWTDSdsfzrRlAoElrP6gkAj8s0ZDwh1EjZwXboygmu1dP3viDVdJyfZ3awcAPiT_0DdnBoqBv-0SdSsRr3xl13gGlgrwQPvHDeXsjHqg|fetaaymh","login_credential_type":"one_tap_login"}]]],["DeviceBasedLoginForm","init",["__elem_072b8e64_0_b_FP","__elem_835c633a_0_1_kD"],[{"__m":"__elem_072b8e64_0_b_FP"},{"__m":"__elem_835c633a_0_1_kD"}]],["DeviceBasedLoginUserLoginDialog","init",["__inst_ead1e565_0_0_5A","__elem_a588f507_0_5_6R"],[{"__m":"__inst_ead1e565_0_0_5A"},{"__m":"__elem_a588f507_0_5_6R"},null]],["DeviceBasedLoginUserLoginDialog","handleFormSubmit",["__inst_ead1e565_0_0_5A","__elem_835c633a_0_2_TS"],[{"dialog":{"__m":"__inst_ead1e565_0_0_5A"},"loginForm":{"__m":"__elem_835c633a_0_2_TS"},"pubKey":{"publicKey":"1797f47cffc10805810cffcedbdc278af185f6374be2ac0f75e70986bc969d7a","keyId":185},"sharedPrefs":true}]],["__inst_ead1e565_0_0_5A"],["DeviceLoginUserAnimation","init",["__elem_9f5fac15_0_1_0K","__elem_072b8e64_0_c_\/x","__inst_ead1e565_0_0_5A"],[{"__m":"__elem_9f5fac15_0_1_0K"},{"__m":"__elem_072b8e64_0_c_\/x"},true,{"__m":"__inst_ead1e565_0_0_5A"}]],["Tooltip"],["PageTransitions"],["LoginFormToggle","initToggle",["__elem_a588f507_0_6_\/R","__elem_a588f507_0_7_uP","__elem_558608f3_0_1_ki","__elem_9f5fac15_0_2_r3"],[{"__m":"__elem_a588f507_0_6_\/R"},{"__m":"__elem_a588f507_0_7_uP"},{"__m":"__elem_558608f3_0_1_ki"},{"__m":"__elem_9f5fac15_0_2_r3"}]],["Animation"],["RequireDeferredReference","unblock",[],[["FbtLogging","IntlQtEventFalcoEvent","AsyncRequest","PageTransitions","Animation"],"sd"]],["RequireDeferredReference","unblock",[],[["FbtLogging","IntlQtEventFalcoEvent","AsyncRequest","PageTransitions","Animation"],"css"]],["TimeSliceImpl"],["HasteSupportData"],["ServerJS"],["Run"],["InitialJSLoader"]],"contexts":[[{"__m":"__elem_a588f507_0_1_Vo"},true],[{"__m":"__elem_a588f507_0_2_zi"},true]]});requireLazy(["Run"],function(Run){Run.onAfterLoad(function(){s.cleanup(TimeSlice)})});});
+<html dir='ltr' lang='en'>
+<head>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<title>NARAYANA&#39;s</title>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<!-- Chrome, Firefox OS and Opera -->
+<meta content='#58c6d5' name='theme-color'/>
+<!-- Windows Phone -->
+<meta content='#58c6d5' name='msapplication-navbutton-color'/>
+<meta content='blogger' name='generator'/>
+<link href='https://narayanabillgates.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://narayanabillgates.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="NARAYANA&#39;s - Atom" href="https://narayanabillgates.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="NARAYANA&#39;s - RSS" href="https://narayanabillgates.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="NARAYANA&#39;s - Atom" href="https://www.blogger.com/feeds/9207076113787303084/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/12725705435160336268" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='https://narayanabillgates.blogspot.com/' property='og:url'/>
+<meta content='NARAYANA&#39;s' property='og:title'/>
+<meta content='' property='og:description'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w1200-h630-p-k-no-nu/15th-august.jpg' property='og:image'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2SHjSD7hHOHNo4582jbvrEn7tQXiC99jlBrWayp-280T_xe7t7IGVCgNXtoIPGyURbbhRct8bdcwfPXyYQLjQYG7J-yx4HDr65HFP8XKYPq2LnMGXoGq7YmLZa407FGPx2jT_99f49UZ6qDPRPdjJh5AcKAJy3Ny_Y2MWt_xtf8eO6353pItersFR4zJJ/w1200-h630-p-k-no-nu/IMG-20240126-WA0000.jpg' property='og:image'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_LcVP1rO9gxdWqhN6x9UtafuKtNYkHyKnaKApXNtHXut7AqQr6-VtB_0J3cBbULS7hFcHC5MWfVLQD_bf6iGk0rNU6vN7DEtNtslmnh5z_ahHpnPKXYL5cB2mXudzY7ouYMWOIrQw_lR_q4fvzWGCun5stE0TbYzAGujmlyxQ3dX9FvQNVPeBz60depdA/w1200-h630-p-k-no-nu/IMG20240121090504.jpg' property='og:image'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb6Xyl-uYWQ8wz9pEzmxn8I0scot_j0TMzWdMbyXDEHNd5NbmsKJkQd6GjquTLHXr1XluGzRY239xe7My6EdlrTpZwW6Qqiw2vYWbkHPRHrM19dWID23JhBzq62xWq5YP39EHKGNutSp75W9AeudZhTcIcjqpe33txsoJENaXFOxQlj8oRFYJhqKHm1oR/w1200-h630-p-k-no-nu/IMG20240115093220.jpg' property='og:image'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlG2AB7t-3HzlXSoFdMIBnxsuko8nPCTMHLzYKgGy0Ermt-RwxCrY2dpBzvKJsKbUC7WS-s_yYdxlr7wlkdDCgNAHdt52--GJwrbQ5W3N_cDpsiBmqA7U00MUN38jShzrKY1u_-5-AtqzV_jhDTiZ56ZELykgjzbfn7Bi0t-6_amA2qKrkuwWUoL5EA/w1200-h630-p-k-no-nu/9lfh1mu8_republic-day-wishes_625x300_26_January_19.webp' property='og:image'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTCbGxpfD71FAtmE8hyqt1wnYqUQ4Cs4mL3lPe0VtJGYpdGm8u0C9BV1-HBzTgduIl4Xl5CB2uutuCudgoMaPG-dUyk2Hr8_jeXrRk1nObKGLj2K5Fgh0JdiNVdFowdfLK406ASPd77hw4Dm4rIYt_HC0j4Vj7H5ngQ7-cmFOwb7Y3Yl000PlERNDG2A/w1200-h630-p-k-no-nu/IMG20200721081329.jpg' property='og:image'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/w1200-h630-p-k-no-nu/IMG_20180422_133348.jpg' property='og:image'/>
+<style type='text/css'>@font-face{font-family:'Damion';font-style:normal;font-weight:400;font-display:swap;src:url(//fonts.gstatic.com/s/damion/v15/hv-XlzJ3KEUe_YZkZGw2ATE.woff2)format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Damion';font-style:normal;font-weight:400;font-display:swap;src:url(//fonts.gstatic.com/s/damion/v15/hv-XlzJ3KEUe_YZkamw2.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAX-k2Qn.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAz-k2Qn.woff2)format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAT-k2Qn.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAv-k2Qn.woff2)format('woff2');unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuHT-k2Qn.woff2)format('woff2');unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuGb-k2Qn.woff2)format('woff2');unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAf-k2Qn.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAb-k2Qn.woff2)format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-kw.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmZiArmlw.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmQiArmlw.woff2)format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmYiArmlw.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmXiArmlw.woff2)format('woff2');unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVnoiArmlw.woff2)format('woff2');unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVn6iArmlw.woff2)format('woff2');unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmbiArmlw.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiArmlw.woff2)format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAo.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}</style>
+<style id='page-skin-1' type='text/css'><!--
+/*! normalize.css v3.0.1 | MIT License | git.io/normalize */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{height:auto}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:bold}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}
+/*!************************************************
+* Blogger Template Style
+* Name: Contempo
+**************************************************/
+body{
+overflow-wrap:break-word;
+word-break:break-word;
+word-wrap:break-word
+}
+.hidden{
+display:none
+}
+.invisible{
+visibility:hidden
+}
+.container::after,.float-container::after{
+clear:both;
+content:"";
+display:table
+}
+.clearboth{
+clear:both
+}
+#comments .comment .comment-actions,.subscribe-popup .FollowByEmail .follow-by-email-submit,.widget.Profile .profile-link,.widget.Profile .profile-link.visit-profile{
+background:0 0;
+border:0;
+box-shadow:none;
+color:#37afc0;
+cursor:pointer;
+font-size:14px;
+font-weight:700;
+outline:0;
+text-decoration:none;
+text-transform:uppercase;
+width:auto
+}
+.dim-overlay{
+background-color:rgba(0,0,0,.54);
+height:100vh;
+left:0;
+position:fixed;
+top:0;
+width:100%
+}
+#sharing-dim-overlay{
+background-color:transparent
+}
+input::-ms-clear{
+display:none
+}
+.blogger-logo,.svg-icon-24.blogger-logo{
+fill:#ff9800;
+opacity:1
+}
+.loading-spinner-large{
+-webkit-animation:mspin-rotate 1.568s infinite linear;
+animation:mspin-rotate 1.568s infinite linear;
+height:48px;
+overflow:hidden;
+position:absolute;
+width:48px;
+z-index:200
+}
+.loading-spinner-large>div{
+-webkit-animation:mspin-revrot 5332ms infinite steps(4);
+animation:mspin-revrot 5332ms infinite steps(4)
+}
+.loading-spinner-large>div>div{
+-webkit-animation:mspin-singlecolor-large-film 1333ms infinite steps(81);
+animation:mspin-singlecolor-large-film 1333ms infinite steps(81);
+background-size:100%;
+height:48px;
+width:3888px
+}
+.mspin-black-large>div>div,.mspin-grey_54-large>div>div{
+background-image:url(https://www.blogblog.com/indie/mspin_black_large.svg)
+}
+.mspin-white-large>div>div{
+background-image:url(https://www.blogblog.com/indie/mspin_white_large.svg)
+}
+.mspin-grey_54-large{
+opacity:.54
+}
+@-webkit-keyframes mspin-singlecolor-large-film{
+from{
+-webkit-transform:translateX(0);
+transform:translateX(0)
+}
+to{
+-webkit-transform:translateX(-3888px);
+transform:translateX(-3888px)
+}
+}
+@keyframes mspin-singlecolor-large-film{
+from{
+-webkit-transform:translateX(0);
+transform:translateX(0)
+}
+to{
+-webkit-transform:translateX(-3888px);
+transform:translateX(-3888px)
+}
+}
+@-webkit-keyframes mspin-rotate{
+from{
+-webkit-transform:rotate(0);
+transform:rotate(0)
+}
+to{
+-webkit-transform:rotate(360deg);
+transform:rotate(360deg)
+}
+}
+@keyframes mspin-rotate{
+from{
+-webkit-transform:rotate(0);
+transform:rotate(0)
+}
+to{
+-webkit-transform:rotate(360deg);
+transform:rotate(360deg)
+}
+}
+@-webkit-keyframes mspin-revrot{
+from{
+-webkit-transform:rotate(0);
+transform:rotate(0)
+}
+to{
+-webkit-transform:rotate(-360deg);
+transform:rotate(-360deg)
+}
+}
+@keyframes mspin-revrot{
+from{
+-webkit-transform:rotate(0);
+transform:rotate(0)
+}
+to{
+-webkit-transform:rotate(-360deg);
+transform:rotate(-360deg)
+}
+}
+.skip-navigation{
+background-color:#fff;
+box-sizing:border-box;
+color:#000;
+display:block;
+height:0;
+left:0;
+line-height:50px;
+overflow:hidden;
+padding-top:0;
+position:fixed;
+text-align:center;
+top:0;
+-webkit-transition:box-shadow .3s,height .3s,padding-top .3s;
+transition:box-shadow .3s,height .3s,padding-top .3s;
+width:100%;
+z-index:900
+}
+.skip-navigation:focus{
+box-shadow:0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2);
+height:50px
+}
+#main{
+outline:0
+}
+.main-heading{
+position:absolute;
+clip:rect(1px,1px,1px,1px);
+padding:0;
+border:0;
+height:1px;
+width:1px;
+overflow:hidden
+}
+.Attribution{
+margin-top:1em;
+text-align:center
+}
+.Attribution .blogger img,.Attribution .blogger svg{
+vertical-align:bottom
+}
+.Attribution .blogger img{
+margin-right:.5em
+}
+.Attribution div{
+line-height:24px;
+margin-top:.5em
+}
+.Attribution .copyright,.Attribution .image-attribution{
+font-size:.7em;
+margin-top:1.5em
+}
+.BLOG_mobile_video_class{
+display:none
+}
+.bg-photo{
+background-attachment:scroll!important
+}
+body .CSS_LIGHTBOX{
+z-index:900
+}
+.extendable .show-less,.extendable .show-more{
+border-color:#37afc0;
+color:#37afc0;
+margin-top:8px
+}
+.extendable .show-less.hidden,.extendable .show-more.hidden{
+display:none
+}
+.inline-ad{
+display:none;
+max-width:100%;
+overflow:hidden
+}
+.adsbygoogle{
+display:block
+}
+#cookieChoiceInfo{
+bottom:0;
+top:auto
+}
+iframe.b-hbp-video{
+border:0
+}
+.post-body img{
+max-width:100%
+}
+.post-body iframe{
+max-width:100%
+}
+.post-body a[imageanchor="1"]{
+display:inline-block
+}
+.byline{
+margin-right:1em
+}
+.byline:last-child{
+margin-right:0
+}
+.link-copied-dialog{
+max-width:520px;
+outline:0
+}
+.link-copied-dialog .modal-dialog-buttons{
+margin-top:8px
+}
+.link-copied-dialog .goog-buttonset-default{
+background:0 0;
+border:0
+}
+.link-copied-dialog .goog-buttonset-default:focus{
+outline:0
+}
+.paging-control-container{
+margin-bottom:16px
+}
+.paging-control-container .paging-control{
+display:inline-block
+}
+.paging-control-container .comment-range-text::after,.paging-control-container .paging-control{
+color:#37afc0
+}
+.paging-control-container .comment-range-text,.paging-control-container .paging-control{
+margin-right:8px
+}
+.paging-control-container .comment-range-text::after,.paging-control-container .paging-control::after{
+content:"\b7";
+cursor:default;
+padding-left:8px;
+pointer-events:none
+}
+.paging-control-container .comment-range-text:last-child::after,.paging-control-container .paging-control:last-child::after{
+content:none
+}
+.byline.reactions iframe{
+height:20px
+}
+.b-notification{
+color:#000;
+background-color:#fff;
+border-bottom:solid 1px #000;
+box-sizing:border-box;
+padding:16px 32px;
+text-align:center
+}
+.b-notification.visible{
+-webkit-transition:margin-top .3s cubic-bezier(.4,0,.2,1);
+transition:margin-top .3s cubic-bezier(.4,0,.2,1)
+}
+.b-notification.invisible{
+position:absolute
+}
+.b-notification-close{
+position:absolute;
+right:8px;
+top:8px
+}
+.no-posts-message{
+line-height:40px;
+text-align:center
+}
+@media screen and (max-width:800px){
+body.item-view .post-body a[imageanchor="1"][style*="float: left;"],body.item-view .post-body a[imageanchor="1"][style*="float: right;"]{
+float:none!important;
+clear:none!important
+}
+body.item-view .post-body a[imageanchor="1"] img{
+display:block;
+height:auto;
+margin:0 auto
+}
+body.item-view .post-body>.separator:first-child>a[imageanchor="1"]:first-child{
+margin-top:20px
+}
+.post-body a[imageanchor]{
+display:block
+}
+body.item-view .post-body a[imageanchor="1"]{
+margin-left:0!important;
+margin-right:0!important
+}
+body.item-view .post-body a[imageanchor="1"]+a[imageanchor="1"]{
+margin-top:16px
+}
+}
+.item-control{
+display:none
+}
+#comments{
+border-top:1px dashed rgba(0,0,0,.54);
+margin-top:20px;
+padding:20px
+}
+#comments .comment-thread ol{
+margin:0;
+padding-left:0;
+padding-left:0
+}
+#comments .comment .comment-replybox-single,#comments .comment-thread .comment-replies{
+margin-left:60px
+}
+#comments .comment-thread .thread-count{
+display:none
+}
+#comments .comment{
+list-style-type:none;
+padding:0 0 30px;
+position:relative
+}
+#comments .comment .comment{
+padding-bottom:8px
+}
+.comment .avatar-image-container{
+position:absolute
+}
+.comment .avatar-image-container img{
+border-radius:50%
+}
+.avatar-image-container svg,.comment .avatar-image-container .avatar-icon{
+border-radius:50%;
+border:solid 1px #707070;
+box-sizing:border-box;
+fill:#707070;
+height:35px;
+margin:0;
+padding:7px;
+width:35px
+}
+.comment .comment-block{
+margin-top:10px;
+margin-left:60px;
+padding-bottom:0
+}
+#comments .comment-author-header-wrapper{
+margin-left:40px
+}
+#comments .comment .thread-expanded .comment-block{
+padding-bottom:20px
+}
+#comments .comment .comment-header .user,#comments .comment .comment-header .user a{
+color:#212121;
+font-style:normal;
+font-weight:700
+}
+#comments .comment .comment-actions{
+bottom:0;
+margin-bottom:15px;
+position:absolute
+}
+#comments .comment .comment-actions>*{
+margin-right:8px
+}
+#comments .comment .comment-header .datetime{
+bottom:0;
+color:rgba(33,33,33,.54);
+display:inline-block;
+font-size:13px;
+font-style:italic;
+margin-left:8px
+}
+#comments .comment .comment-footer .comment-timestamp a,#comments .comment .comment-header .datetime a{
+color:rgba(33,33,33,.54)
+}
+#comments .comment .comment-content,.comment .comment-body{
+margin-top:12px;
+word-break:break-word
+}
+.comment-body{
+margin-bottom:12px
+}
+#comments.embed[data-num-comments="0"]{
+border:0;
+margin-top:0;
+padding-top:0
+}
+#comments.embed[data-num-comments="0"] #comment-post-message,#comments.embed[data-num-comments="0"] div.comment-form>p,#comments.embed[data-num-comments="0"] p.comment-footer{
+display:none
+}
+#comment-editor-src{
+display:none
+}
+.comments .comments-content .loadmore.loaded{
+max-height:0;
+opacity:0;
+overflow:hidden
+}
+.extendable .remaining-items{
+height:0;
+overflow:hidden;
+-webkit-transition:height .3s cubic-bezier(.4,0,.2,1);
+transition:height .3s cubic-bezier(.4,0,.2,1)
+}
+.extendable .remaining-items.expanded{
+height:auto
+}
+.svg-icon-24,.svg-icon-24-button{
+cursor:pointer;
+height:24px;
+width:24px;
+min-width:24px
+}
+.touch-icon{
+margin:-12px;
+padding:12px
+}
+.touch-icon:active,.touch-icon:focus{
+background-color:rgba(153,153,153,.4);
+border-radius:50%
+}
+svg:not(:root).touch-icon{
+overflow:visible
+}
+html[dir=rtl] .rtl-reversible-icon{
+-webkit-transform:scaleX(-1);
+-ms-transform:scaleX(-1);
+transform:scaleX(-1)
+}
+.svg-icon-24-button,.touch-icon-button{
+background:0 0;
+border:0;
+margin:0;
+outline:0;
+padding:0
+}
+.touch-icon-button .touch-icon:active,.touch-icon-button .touch-icon:focus{
+background-color:transparent
+}
+.touch-icon-button:active .touch-icon,.touch-icon-button:focus .touch-icon{
+background-color:rgba(153,153,153,.4);
+border-radius:50%
+}
+.Profile .default-avatar-wrapper .avatar-icon{
+border-radius:50%;
+border:solid 1px #707070;
+box-sizing:border-box;
+fill:#707070;
+margin:0
+}
+.Profile .individual .default-avatar-wrapper .avatar-icon{
+padding:25px
+}
+.Profile .individual .avatar-icon,.Profile .individual .profile-img{
+height:120px;
+width:120px
+}
+.Profile .team .default-avatar-wrapper .avatar-icon{
+padding:8px
+}
+.Profile .team .avatar-icon,.Profile .team .default-avatar-wrapper,.Profile .team .profile-img{
+height:40px;
+width:40px
+}
+.snippet-container{
+margin:0;
+position:relative;
+overflow:hidden
+}
+.snippet-fade{
+bottom:0;
+box-sizing:border-box;
+position:absolute;
+width:96px
+}
+.snippet-fade{
+right:0
+}
+.snippet-fade:after{
+content:"\2026"
+}
+.snippet-fade:after{
+float:right
+}
+.post-bottom{
+-webkit-box-align:center;
+-webkit-align-items:center;
+-ms-flex-align:center;
+align-items:center;
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-flex-wrap:wrap;
+-ms-flex-wrap:wrap;
+flex-wrap:wrap
+}
+.post-footer{
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto;
+-webkit-flex-wrap:wrap;
+-ms-flex-wrap:wrap;
+flex-wrap:wrap;
+-webkit-box-ordinal-group:2;
+-webkit-order:1;
+-ms-flex-order:1;
+order:1
+}
+.post-footer>*{
+-webkit-box-flex:0;
+-webkit-flex:0 1 auto;
+-ms-flex:0 1 auto;
+flex:0 1 auto
+}
+.post-footer .byline:last-child{
+margin-right:1em
+}
+.jump-link{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+-webkit-box-ordinal-group:3;
+-webkit-order:2;
+-ms-flex-order:2;
+order:2
+}
+.centered-top-container.sticky{
+left:0;
+position:fixed;
+right:0;
+top:0;
+width:auto;
+z-index:50;
+-webkit-transition-property:opacity,-webkit-transform;
+transition-property:opacity,-webkit-transform;
+transition-property:transform,opacity;
+transition-property:transform,opacity,-webkit-transform;
+-webkit-transition-duration:.2s;
+transition-duration:.2s;
+-webkit-transition-timing-function:cubic-bezier(.4,0,.2,1);
+transition-timing-function:cubic-bezier(.4,0,.2,1)
+}
+.centered-top-placeholder{
+display:none
+}
+.collapsed-header .centered-top-placeholder{
+display:block
+}
+.centered-top-container .Header .replaced h1,.centered-top-placeholder .Header .replaced h1{
+display:none
+}
+.centered-top-container.sticky .Header .replaced h1{
+display:block
+}
+.centered-top-container.sticky .Header .header-widget{
+background:0 0
+}
+.centered-top-container.sticky .Header .header-image-wrapper{
+display:none
+}
+.centered-top-container img,.centered-top-placeholder img{
+max-width:100%
+}
+.collapsible{
+-webkit-transition:height .3s cubic-bezier(.4,0,.2,1);
+transition:height .3s cubic-bezier(.4,0,.2,1)
+}
+.collapsible,.collapsible>summary{
+display:block;
+overflow:hidden
+}
+.collapsible>:not(summary){
+display:none
+}
+.collapsible[open]>:not(summary){
+display:block
+}
+.collapsible:focus,.collapsible>summary:focus{
+outline:0
+}
+.collapsible>summary{
+cursor:pointer;
+display:block;
+padding:0
+}
+.collapsible:focus>summary,.collapsible>summary:focus{
+background-color:transparent
+}
+.collapsible>summary::-webkit-details-marker{
+display:none
+}
+.collapsible-title{
+-webkit-box-align:center;
+-webkit-align-items:center;
+-ms-flex-align:center;
+align-items:center;
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex
+}
+.collapsible-title .title{
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto;
+-webkit-box-ordinal-group:1;
+-webkit-order:0;
+-ms-flex-order:0;
+order:0;
+overflow:hidden;
+text-overflow:ellipsis;
+white-space:nowrap
+}
+.collapsible-title .chevron-down,.collapsible[open] .collapsible-title .chevron-up{
+display:block
+}
+.collapsible-title .chevron-up,.collapsible[open] .collapsible-title .chevron-down{
+display:none
+}
+.flat-button{
+cursor:pointer;
+display:inline-block;
+font-weight:700;
+text-transform:uppercase;
+border-radius:2px;
+padding:8px;
+margin:-8px
+}
+.flat-icon-button{
+background:0 0;
+border:0;
+margin:0;
+outline:0;
+padding:0;
+margin:-12px;
+padding:12px;
+cursor:pointer;
+box-sizing:content-box;
+display:inline-block;
+line-height:0
+}
+.flat-icon-button,.flat-icon-button .splash-wrapper{
+border-radius:50%
+}
+.flat-icon-button .splash.animate{
+-webkit-animation-duration:.3s;
+animation-duration:.3s
+}
+.overflowable-container{
+max-height:46px;
+overflow:hidden;
+position:relative
+}
+.overflow-button{
+cursor:pointer
+}
+#overflowable-dim-overlay{
+background:0 0
+}
+.overflow-popup{
+box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+background-color:#f3fdfe;
+left:0;
+max-width:calc(100% - 32px);
+position:absolute;
+top:0;
+visibility:hidden;
+z-index:101
+}
+.overflow-popup ul{
+list-style:none
+}
+.overflow-popup .tabs li,.overflow-popup li{
+display:block;
+height:auto
+}
+.overflow-popup .tabs li{
+padding-left:0;
+padding-right:0
+}
+.overflow-button.hidden,.overflow-popup .tabs li.hidden,.overflow-popup li.hidden{
+display:none
+}
+.pill-button{
+background:0 0;
+border:1px solid;
+border-radius:12px;
+cursor:pointer;
+display:inline-block;
+padding:4px 16px;
+text-transform:uppercase
+}
+.ripple{
+position:relative
+}
+.ripple>*{
+z-index:1
+}
+.splash-wrapper{
+bottom:0;
+left:0;
+overflow:hidden;
+pointer-events:none;
+position:absolute;
+right:0;
+top:0;
+z-index:0
+}
+.splash{
+background:#ccc;
+border-radius:100%;
+display:block;
+opacity:.6;
+position:absolute;
+-webkit-transform:scale(0);
+-ms-transform:scale(0);
+transform:scale(0)
+}
+.splash.animate{
+-webkit-animation:ripple-effect .4s linear;
+animation:ripple-effect .4s linear
+}
+@-webkit-keyframes ripple-effect{
+100%{
+opacity:0;
+-webkit-transform:scale(2.5);
+transform:scale(2.5)
+}
+}
+@keyframes ripple-effect{
+100%{
+opacity:0;
+-webkit-transform:scale(2.5);
+transform:scale(2.5)
+}
+}
+.search{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+line-height:24px;
+width:24px
+}
+.search.focused{
+width:100%
+}
+.search.focused .section{
+width:100%
+}
+.search form{
+z-index:101
+}
+.search h3{
+display:none
+}
+.search form{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-flex:1;
+-webkit-flex:1 0 0;
+-ms-flex:1 0 0px;
+flex:1 0 0;
+border-bottom:solid 1px transparent;
+padding-bottom:8px
+}
+.search form>*{
+display:none
+}
+.search.focused form>*{
+display:block
+}
+.search .search-input label{
+display:none
+}
+.centered-top-placeholder.cloned .search form{
+z-index:30
+}
+.search.focused form{
+border-color:#ffffff;
+position:relative;
+width:auto
+}
+.collapsed-header .centered-top-container .search.focused form{
+border-bottom-color:transparent
+}
+.search-expand{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto
+}
+.search-expand-text{
+display:none
+}
+.search-close{
+display:inline;
+vertical-align:middle
+}
+.search-input{
+-webkit-box-flex:1;
+-webkit-flex:1 0 1px;
+-ms-flex:1 0 1px;
+flex:1 0 1px
+}
+.search-input input{
+background:0 0;
+border:0;
+box-sizing:border-box;
+color:#ffffff;
+display:inline-block;
+outline:0;
+width:calc(100% - 48px)
+}
+.search-input input.no-cursor{
+color:transparent;
+text-shadow:0 0 0 #ffffff
+}
+.collapsed-header .centered-top-container .search-action,.collapsed-header .centered-top-container .search-input input{
+color:#212121
+}
+.collapsed-header .centered-top-container .search-input input.no-cursor{
+color:transparent;
+text-shadow:0 0 0 #212121
+}
+.collapsed-header .centered-top-container .search-input input.no-cursor:focus,.search-input input.no-cursor:focus{
+outline:0
+}
+.search-focused>*{
+visibility:hidden
+}
+.search-focused .search,.search-focused .search-icon{
+visibility:visible
+}
+.search.focused .search-action{
+display:block
+}
+.search.focused .search-action:disabled{
+opacity:.3
+}
+.widget.Sharing .sharing-button{
+display:none
+}
+.widget.Sharing .sharing-buttons li{
+padding:0
+}
+.widget.Sharing .sharing-buttons li span{
+display:none
+}
+.post-share-buttons{
+position:relative
+}
+.centered-bottom .share-buttons .svg-icon-24,.share-buttons .svg-icon-24{
+fill:#707070
+}
+.sharing-open.touch-icon-button:active .touch-icon,.sharing-open.touch-icon-button:focus .touch-icon{
+background-color:transparent
+}
+.share-buttons{
+background-color:#f3fdfe;
+border-radius:2px;
+box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+color:#212121;
+list-style:none;
+margin:0;
+padding:8px 0;
+position:absolute;
+top:-11px;
+min-width:200px;
+z-index:101
+}
+.share-buttons.hidden{
+display:none
+}
+.sharing-button{
+background:0 0;
+border:0;
+margin:0;
+outline:0;
+padding:0;
+cursor:pointer
+}
+.share-buttons li{
+margin:0;
+height:48px
+}
+.share-buttons li:last-child{
+margin-bottom:0
+}
+.share-buttons li .sharing-platform-button{
+box-sizing:border-box;
+cursor:pointer;
+display:block;
+height:100%;
+margin-bottom:0;
+padding:0 16px;
+position:relative;
+width:100%
+}
+.share-buttons li .sharing-platform-button:focus,.share-buttons li .sharing-platform-button:hover{
+background-color:rgba(128,128,128,.1);
+outline:0
+}
+.share-buttons li svg[class*=" sharing-"],.share-buttons li svg[class^=sharing-]{
+position:absolute;
+top:10px
+}
+.share-buttons li span.sharing-platform-button{
+position:relative;
+top:0
+}
+.share-buttons li .platform-sharing-text{
+display:block;
+font-size:16px;
+line-height:48px;
+white-space:nowrap
+}
+.share-buttons li .platform-sharing-text{
+margin-left:56px
+}
+.sidebar-container{
+background-color:#f3fdfe;
+max-width:284px;
+overflow-y:auto;
+-webkit-transition-property:-webkit-transform;
+transition-property:-webkit-transform;
+transition-property:transform;
+transition-property:transform,-webkit-transform;
+-webkit-transition-duration:.3s;
+transition-duration:.3s;
+-webkit-transition-timing-function:cubic-bezier(0,0,.2,1);
+transition-timing-function:cubic-bezier(0,0,.2,1);
+width:284px;
+z-index:101;
+-webkit-overflow-scrolling:touch
+}
+.sidebar-container .navigation{
+line-height:0;
+padding:16px
+}
+.sidebar-container .sidebar-back{
+cursor:pointer
+}
+.sidebar-container .widget{
+background:0 0;
+margin:0 16px;
+padding:16px 0
+}
+.sidebar-container .widget .title{
+color:#212121;
+margin:0
+}
+.sidebar-container .widget ul{
+list-style:none;
+margin:0;
+padding:0
+}
+.sidebar-container .widget ul ul{
+margin-left:1em
+}
+.sidebar-container .widget li{
+font-size:16px;
+line-height:normal
+}
+.sidebar-container .widget+.widget{
+border-top:1px dashed #cccccc
+}
+.BlogArchive li{
+margin:16px 0
+}
+.BlogArchive li:last-child{
+margin-bottom:0
+}
+.Label li a{
+display:inline-block
+}
+.BlogArchive .post-count,.Label .label-count{
+float:right;
+margin-left:.25em
+}
+.BlogArchive .post-count::before,.Label .label-count::before{
+content:"("
+}
+.BlogArchive .post-count::after,.Label .label-count::after{
+content:")"
+}
+.widget.Translate .skiptranslate>div{
+display:block!important
+}
+.widget.Profile .profile-link{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex
+}
+.widget.Profile .team-member .default-avatar-wrapper,.widget.Profile .team-member .profile-img{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+margin-right:1em
+}
+.widget.Profile .individual .profile-link{
+-webkit-box-orient:vertical;
+-webkit-box-direction:normal;
+-webkit-flex-direction:column;
+-ms-flex-direction:column;
+flex-direction:column
+}
+.widget.Profile .team .profile-link .profile-name{
+-webkit-align-self:center;
+-ms-flex-item-align:center;
+align-self:center;
+display:block;
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto
+}
+.dim-overlay{
+background-color:rgba(0,0,0,.54);
+z-index:100
+}
+body.sidebar-visible{
+overflow-y:hidden
+}
+@media screen and (max-width:1439px){
+.sidebar-container{
+bottom:0;
+position:fixed;
+top:0;
+left:0;
+right:auto
+}
+.sidebar-container.sidebar-invisible{
+-webkit-transition-timing-function:cubic-bezier(.4,0,.6,1);
+transition-timing-function:cubic-bezier(.4,0,.6,1);
+-webkit-transform:translateX(-284px);
+-ms-transform:translateX(-284px);
+transform:translateX(-284px)
+}
+}
+@media screen and (min-width:1440px){
+.sidebar-container{
+position:absolute;
+top:0;
+left:0;
+right:auto
+}
+.sidebar-container .navigation{
+display:none
+}
+}
+.dialog{
+box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+background:#f3fdfe;
+box-sizing:border-box;
+color:#757575;
+padding:30px;
+position:fixed;
+text-align:center;
+width:calc(100% - 24px);
+z-index:101
+}
+.dialog input[type=email],.dialog input[type=text]{
+background-color:transparent;
+border:0;
+border-bottom:solid 1px rgba(117,117,117,.12);
+color:#757575;
+display:block;
+font-family:Roboto, sans-serif;
+font-size:16px;
+line-height:24px;
+margin:auto;
+padding-bottom:7px;
+outline:0;
+text-align:center;
+width:100%
+}
+.dialog input[type=email]::-webkit-input-placeholder,.dialog input[type=text]::-webkit-input-placeholder{
+color:#757575
+}
+.dialog input[type=email]::-moz-placeholder,.dialog input[type=text]::-moz-placeholder{
+color:#757575
+}
+.dialog input[type=email]:-ms-input-placeholder,.dialog input[type=text]:-ms-input-placeholder{
+color:#757575
+}
+.dialog input[type=email]::-ms-input-placeholder,.dialog input[type=text]::-ms-input-placeholder{
+color:#757575
+}
+.dialog input[type=email]::placeholder,.dialog input[type=text]::placeholder{
+color:#757575
+}
+.dialog input[type=email]:focus,.dialog input[type=text]:focus{
+border-bottom:solid 2px #37afc0;
+padding-bottom:6px
+}
+.dialog input.no-cursor{
+color:transparent;
+text-shadow:0 0 0 #757575
+}
+.dialog input.no-cursor:focus{
+outline:0
+}
+.dialog input.no-cursor:focus{
+outline:0
+}
+.dialog input[type=submit]{
+font-family:Roboto, sans-serif
+}
+.dialog .goog-buttonset-default{
+color:#37afc0
+}
+.subscribe-popup{
+max-width:364px
+}
+.subscribe-popup h3{
+color:#212121;
+font-size:1.8em;
+margin-top:0
+}
+.subscribe-popup .FollowByEmail h3{
+display:none
+}
+.subscribe-popup .FollowByEmail .follow-by-email-submit{
+color:#37afc0;
+display:inline-block;
+margin:0 auto;
+margin-top:24px;
+width:auto;
+white-space:normal
+}
+.subscribe-popup .FollowByEmail .follow-by-email-submit:disabled{
+cursor:default;
+opacity:.3
+}
+@media (max-width:800px){
+.blog-name div.widget.Subscribe{
+margin-bottom:16px
+}
+body.item-view .blog-name div.widget.Subscribe{
+margin:8px auto 16px auto;
+width:100%
+}
+}
+.tabs{
+list-style:none
+}
+.tabs li{
+display:inline-block
+}
+.tabs li a{
+cursor:pointer;
+display:inline-block;
+font-weight:700;
+text-transform:uppercase;
+padding:12px 8px
+}
+.tabs .selected{
+border-bottom:4px solid #ffffff
+}
+.tabs .selected a{
+color:#ffffff
+}
+body#layout .bg-photo,body#layout .bg-photo-overlay{
+display:none
+}
+body#layout .page_body{
+padding:0;
+position:relative;
+top:0
+}
+body#layout .page{
+display:inline-block;
+left:inherit;
+position:relative;
+vertical-align:top;
+width:540px
+}
+body#layout .centered{
+max-width:954px
+}
+body#layout .navigation{
+display:none
+}
+body#layout .sidebar-container{
+display:inline-block;
+width:40%
+}
+body#layout .hamburger-menu,body#layout .search{
+display:none
+}
+.centered-top-container .svg-icon-24,body.collapsed-header .centered-top-placeholder .svg-icon-24{
+fill:#ffffff
+}
+.sidebar-container .svg-icon-24{
+fill:#707070
+}
+.centered-bottom .svg-icon-24,body.collapsed-header .centered-top-container .svg-icon-24{
+fill:#707070
+}
+.centered-bottom .share-buttons .svg-icon-24,.share-buttons .svg-icon-24{
+fill:#707070
+}
+body{
+background-color:#58c6d5;
+color:#757575;
+font:15px Roboto, sans-serif;
+margin:0;
+min-height:100vh
+}
+img{
+max-width:100%
+}
+h3{
+color:#757575;
+font-size:16px
+}
+a{
+text-decoration:none;
+color:#37afc0
+}
+a:visited{
+color:#37afc0
+}
+a:hover{
+color:#37afc0
+}
+blockquote{
+color:#212121;
+font:italic 300 15px Roboto, sans-serif;
+font-size:x-large;
+text-align:center
+}
+.pill-button{
+font-size:12px
+}
+.bg-photo-container{
+height:480px;
+overflow:hidden;
+position:absolute;
+width:100%;
+z-index:1
+}
+.bg-photo{
+background:#58c6d5 url(https://themes.googleusercontent.com/image?id=iOjEWmpWlNVmx91RAaWC3irZSyq8cu05pASFz84khXxbIM83x8QP6Hnw7ZIDcZFvcAGSBpGCNsBC) no-repeat scroll top center /* Credit: Galeries (http://www.offset.com/photos/291882) */;;
+background-attachment:scroll;
+background-size:cover;
+-webkit-filter:blur(0px);
+filter:blur(0px);
+height:calc(100% + 2 * 0px);
+left:0px;
+position:absolute;
+top:0px;
+width:calc(100% + 2 * 0px)
+}
+.bg-photo-overlay{
+background:rgba(0,0,0,.26);
+background-size:cover;
+height:480px;
+position:absolute;
+width:100%;
+z-index:2
+}
+.hamburger-menu{
+float:left;
+margin-top:0
+}
+.sticky .hamburger-menu{
+float:none;
+position:absolute
+}
+.search{
+border-bottom:solid 1px rgba(255, 255, 255, 0);
+float:right;
+position:relative;
+-webkit-transition-property:width;
+transition-property:width;
+-webkit-transition-duration:.5s;
+transition-duration:.5s;
+-webkit-transition-timing-function:cubic-bezier(.4,0,.2,1);
+transition-timing-function:cubic-bezier(.4,0,.2,1);
+z-index:101
+}
+.search .dim-overlay{
+background-color:transparent
+}
+.search form{
+height:36px;
+-webkit-transition-property:border-color;
+transition-property:border-color;
+-webkit-transition-delay:.5s;
+transition-delay:.5s;
+-webkit-transition-duration:.2s;
+transition-duration:.2s;
+-webkit-transition-timing-function:cubic-bezier(.4,0,.2,1);
+transition-timing-function:cubic-bezier(.4,0,.2,1)
+}
+.search.focused{
+width:calc(100% - 48px)
+}
+.search.focused form{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-flex:1;
+-webkit-flex:1 0 1px;
+-ms-flex:1 0 1px;
+flex:1 0 1px;
+border-color:#ffffff;
+margin-left:-24px;
+padding-left:36px;
+position:relative;
+width:auto
+}
+.item-view .search,.sticky .search{
+right:0;
+float:none;
+margin-left:0;
+position:absolute
+}
+.item-view .search.focused,.sticky .search.focused{
+width:calc(100% - 50px)
+}
+.item-view .search.focused form,.sticky .search.focused form{
+border-bottom-color:#757575
+}
+.centered-top-placeholder.cloned .search form{
+z-index:30
+}
+.search_button{
+-webkit-box-flex:0;
+-webkit-flex:0 0 24px;
+-ms-flex:0 0 24px;
+flex:0 0 24px;
+-webkit-box-orient:vertical;
+-webkit-box-direction:normal;
+-webkit-flex-direction:column;
+-ms-flex-direction:column;
+flex-direction:column
+}
+.search_button svg{
+margin-top:0
+}
+.search-input{
+height:48px
+}
+.search-input input{
+display:block;
+color:#ffffff;
+font:16px Roboto, sans-serif;
+height:48px;
+line-height:48px;
+padding:0;
+width:100%
+}
+.search-input input::-webkit-input-placeholder{
+color:#ffffff;
+opacity:.3
+}
+.search-input input::-moz-placeholder{
+color:#ffffff;
+opacity:.3
+}
+.search-input input:-ms-input-placeholder{
+color:#ffffff;
+opacity:.3
+}
+.search-input input::-ms-input-placeholder{
+color:#ffffff;
+opacity:.3
+}
+.search-input input::placeholder{
+color:#ffffff;
+opacity:.3
+}
+.search-action{
+background:0 0;
+border:0;
+color:#ffffff;
+cursor:pointer;
+display:none;
+height:48px;
+margin-top:0
+}
+.sticky .search-action{
+color:#757575
+}
+.search.focused .search-action{
+display:block
+}
+.search.focused .search-action:disabled{
+opacity:.3
+}
+.page_body{
+position:relative;
+z-index:20
+}
+.page_body .widget{
+margin-bottom:16px
+}
+.page_body .centered{
+box-sizing:border-box;
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-orient:vertical;
+-webkit-box-direction:normal;
+-webkit-flex-direction:column;
+-ms-flex-direction:column;
+flex-direction:column;
+margin:0 auto;
+max-width:922px;
+min-height:100vh;
+padding:24px 0
+}
+.page_body .centered>*{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto
+}
+.page_body .centered>#footer{
+margin-top:auto
+}
+.blog-name{
+margin:24px 0 16px 0
+}
+.item-view .blog-name,.sticky .blog-name{
+box-sizing:border-box;
+margin-left:36px;
+min-height:48px;
+opacity:1;
+padding-top:12px
+}
+.blog-name .subscribe-section-container{
+margin-bottom:32px;
+text-align:center;
+-webkit-transition-property:opacity;
+transition-property:opacity;
+-webkit-transition-duration:.5s;
+transition-duration:.5s
+}
+.item-view .blog-name .subscribe-section-container,.sticky .blog-name .subscribe-section-container{
+margin:0 0 8px 0
+}
+.blog-name .PageList{
+margin-top:16px;
+padding-top:8px;
+text-align:center
+}
+.blog-name .PageList .overflowable-contents{
+width:100%
+}
+.blog-name .PageList h3.title{
+color:#ffffff;
+margin:8px auto;
+text-align:center;
+width:100%
+}
+.centered-top-container .blog-name{
+-webkit-transition-property:opacity;
+transition-property:opacity;
+-webkit-transition-duration:.5s;
+transition-duration:.5s
+}
+.item-view .return_link{
+margin-bottom:12px;
+margin-top:12px;
+position:absolute
+}
+.item-view .blog-name{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-flex-wrap:wrap;
+-ms-flex-wrap:wrap;
+flex-wrap:wrap;
+margin:0 48px 27px 48px
+}
+.item-view .subscribe-section-container{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto
+}
+.item-view #header,.item-view .Header{
+margin-bottom:5px;
+margin-right:15px
+}
+.item-view .sticky .Header{
+margin-bottom:0
+}
+.item-view .Header p{
+margin:10px 0 0 0;
+text-align:left
+}
+.item-view .post-share-buttons-bottom{
+margin-right:16px
+}
+.sticky{
+background:#f3fdfe;
+box-shadow:0 0 20px 0 rgba(0,0,0,.7);
+box-sizing:border-box;
+margin-left:0
+}
+.sticky #header{
+margin-bottom:8px;
+margin-right:8px
+}
+.sticky .centered-top{
+margin:4px auto;
+max-width:890px;
+min-height:48px
+}
+.sticky .blog-name{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+margin:0 48px
+}
+.sticky .blog-name #header{
+-webkit-box-flex:0;
+-webkit-flex:0 1 auto;
+-ms-flex:0 1 auto;
+flex:0 1 auto;
+-webkit-box-ordinal-group:2;
+-webkit-order:1;
+-ms-flex-order:1;
+order:1;
+overflow:hidden
+}
+.sticky .blog-name .subscribe-section-container{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+-webkit-box-ordinal-group:3;
+-webkit-order:2;
+-ms-flex-order:2;
+order:2
+}
+.sticky .Header h1{
+overflow:hidden;
+text-overflow:ellipsis;
+white-space:nowrap;
+margin-right:-10px;
+margin-bottom:-10px;
+padding-right:10px;
+padding-bottom:10px
+}
+.sticky .Header p{
+display:none
+}
+.sticky .PageList{
+display:none
+}
+.search-focused>*{
+visibility:visible
+}
+.search-focused .hamburger-menu{
+visibility:visible
+}
+.item-view .search-focused .blog-name,.sticky .search-focused .blog-name{
+opacity:0
+}
+.centered-bottom,.centered-top-container,.centered-top-placeholder{
+padding:0 16px
+}
+.centered-top{
+position:relative
+}
+.item-view .centered-top.search-focused .subscribe-section-container,.sticky .centered-top.search-focused .subscribe-section-container{
+opacity:0
+}
+.page_body.has-vertical-ads .centered .centered-bottom{
+display:inline-block;
+width:calc(100% - 176px)
+}
+.Header h1{
+color:#ffffff;
+font:400 62px Damion, cursive;
+line-height:normal;
+margin:0 0 13px 0;
+text-align:center;
+width:100%
+}
+.Header h1 a,.Header h1 a:hover,.Header h1 a:visited{
+color:#ffffff
+}
+.item-view .Header h1,.sticky .Header h1{
+font-size:24px;
+line-height:24px;
+margin:0;
+text-align:left
+}
+.sticky .Header h1{
+color:#757575
+}
+.sticky .Header h1 a,.sticky .Header h1 a:hover,.sticky .Header h1 a:visited{
+color:#757575
+}
+.Header p{
+color:#ffffff;
+margin:0 0 13px 0;
+opacity:.8;
+text-align:center
+}
+.widget .title{
+line-height:28px
+}
+.BlogArchive li{
+font-size:16px
+}
+.BlogArchive .post-count{
+color:#757575
+}
+#page_body .FeaturedPost,.Blog .blog-posts .post-outer-container{
+background:#f3fdfe;
+min-height:40px;
+padding:30px 40px;
+width:auto
+}
+.Blog .blog-posts .post-outer-container:last-child{
+margin-bottom:0
+}
+.Blog .blog-posts .post-outer-container .post-outer{
+border:0;
+position:relative;
+padding-bottom:.25em
+}
+.post-outer-container{
+margin-bottom:16px
+}
+.post:first-child{
+margin-top:0
+}
+.post .thumb{
+float:left;
+height:20%;
+width:20%
+}
+.post-share-buttons-bottom,.post-share-buttons-top{
+float:right
+}
+.post-share-buttons-bottom{
+margin-right:24px
+}
+.post-footer,.post-header{
+clear:left;
+color:rgba(0, 0, 0, 0.54);
+margin:0;
+width:inherit
+}
+.blog-pager{
+text-align:center
+}
+.blog-pager a{
+color:#37afc0
+}
+.blog-pager a:visited{
+color:#37afc0
+}
+.blog-pager a:hover{
+color:#37afc0
+}
+.post-title{
+font:400 36px Damion, cursive;
+float:left;
+margin:0 0 8px 0;
+max-width:calc(100% - 48px)
+}
+.post-title a{
+font:400 36px Damion, cursive
+}
+.post-title,.post-title a,.post-title a:hover,.post-title a:visited{
+color:#212121
+}
+.post-body{
+color:#757575;
+font:15px Roboto, sans-serif;
+line-height:1.6em;
+margin:1.5em 0 2em 0;
+display:block
+}
+.post-body img{
+height:inherit
+}
+.post-body .snippet-thumbnail{
+float:left;
+margin:0;
+margin-right:2em;
+max-height:128px;
+max-width:128px
+}
+.post-body .snippet-thumbnail img{
+max-width:100%
+}
+.main .FeaturedPost .widget-content{
+border:0;
+position:relative;
+padding-bottom:.25em
+}
+.FeaturedPost img{
+margin-top:2em
+}
+.FeaturedPost .snippet-container{
+margin:2em 0
+}
+.FeaturedPost .snippet-container p{
+margin:0
+}
+.FeaturedPost .snippet-thumbnail{
+float:none;
+height:auto;
+margin-bottom:2em;
+margin-right:0;
+overflow:hidden;
+max-height:calc(600px + 2em);
+max-width:100%;
+text-align:center;
+width:100%
+}
+.FeaturedPost .snippet-thumbnail img{
+max-width:100%;
+width:100%
+}
+.byline{
+color:rgba(0, 0, 0, 0.54);
+display:inline-block;
+line-height:24px;
+margin-top:8px;
+vertical-align:top
+}
+.byline.post-author:first-child{
+margin-right:0
+}
+.byline.reactions .reactions-label{
+line-height:22px;
+vertical-align:top
+}
+.byline.post-share-buttons{
+position:relative;
+display:inline-block;
+margin-top:0;
+width:100%
+}
+.byline.post-share-buttons .sharing{
+float:right
+}
+.flat-button.ripple:hover{
+background-color:rgba(55,175,192,.12)
+}
+.flat-button.ripple .splash{
+background-color:rgba(55,175,192,.4)
+}
+a.timestamp-link,a:active.timestamp-link,a:visited.timestamp-link{
+color:inherit;
+font:inherit;
+text-decoration:inherit
+}
+.post-share-buttons{
+margin-left:0
+}
+.clear-sharing{
+min-height:24px
+}
+.comment-link{
+color:#37afc0;
+position:relative
+}
+.comment-link .num_comments{
+margin-left:8px;
+vertical-align:top
+}
+#comment-holder .continue{
+display:none
+}
+#comment-editor{
+margin-bottom:20px;
+margin-top:20px
+}
+#comments .comment-form h4,#comments h3.title{
+position:absolute;
+clip:rect(1px,1px,1px,1px);
+padding:0;
+border:0;
+height:1px;
+width:1px;
+overflow:hidden
+}
+.post-filter-message{
+background-color:rgba(0,0,0,.7);
+color:#fff;
+display:table;
+margin-bottom:16px;
+width:100%
+}
+.post-filter-message div{
+display:table-cell;
+padding:15px 28px
+}
+.post-filter-message div:last-child{
+padding-left:0;
+text-align:right
+}
+.post-filter-message a{
+white-space:nowrap
+}
+.post-filter-message .search-label,.post-filter-message .search-query{
+font-weight:700;
+color:#37afc0
+}
+#blog-pager{
+margin:2em 0
+}
+#blog-pager a{
+color:#ffffff;
+font-size:14px
+}
+.subscribe-button{
+border-color:#ffffff;
+color:#ffffff
+}
+.sticky .subscribe-button{
+border-color:#757575;
+color:#757575
+}
+.tabs{
+margin:0 auto;
+padding:0
+}
+.tabs li{
+margin:0 8px;
+vertical-align:top
+}
+.tabs .overflow-button a,.tabs li a{
+color:#b8babb;
+font:700 normal 15px Roboto, sans-serif;
+line-height:18px
+}
+.tabs .overflow-button a{
+padding:12px 8px
+}
+.overflow-popup .tabs li{
+text-align:left
+}
+.overflow-popup li a{
+color:#757575;
+display:block;
+padding:8px 20px
+}
+.overflow-popup li.selected a{
+color:#212121
+}
+a.report_abuse{
+font-weight:400
+}
+.Label li,.Label span.label-size,.byline.post-labels a{
+background-color:rgba(55, 175, 192, 0.05);
+border:1px solid rgba(55, 175, 192, 0.05);
+border-radius:15px;
+display:inline-block;
+margin:4px 4px 4px 0;
+padding:3px 8px
+}
+.Label a,.byline.post-labels a{
+color:#37afc0
+}
+.Label ul{
+list-style:none;
+padding:0
+}
+.PopularPosts{
+background-color:#f3fdfe;
+padding:30px 40px
+}
+.PopularPosts .item-content{
+color:#757575;
+margin-top:24px
+}
+.PopularPosts a,.PopularPosts a:hover,.PopularPosts a:visited{
+color:#37afc0
+}
+.PopularPosts .post-title,.PopularPosts .post-title a,.PopularPosts .post-title a:hover,.PopularPosts .post-title a:visited{
+color:#212121;
+font-size:18px;
+font-weight:700;
+line-height:24px
+}
+.PopularPosts,.PopularPosts h3.title a{
+color:#757575;
+font:15px Roboto, sans-serif
+}
+.main .PopularPosts{
+padding:16px 40px
+}
+.PopularPosts h3.title{
+font-size:14px;
+margin:0
+}
+.PopularPosts h3.post-title{
+margin-bottom:0
+}
+.PopularPosts .byline{
+color:rgba(0, 0, 0, 0.54)
+}
+.PopularPosts .jump-link{
+float:right;
+margin-top:16px
+}
+.PopularPosts .post-header .byline{
+font-size:.9em;
+font-style:italic;
+margin-top:6px
+}
+.PopularPosts ul{
+list-style:none;
+padding:0;
+margin:0
+}
+.PopularPosts .post{
+padding:20px 0
+}
+.PopularPosts .post+.post{
+border-top:1px dashed #cccccc
+}
+.PopularPosts .item-thumbnail{
+float:left;
+margin-right:32px
+}
+.PopularPosts .item-thumbnail img{
+height:88px;
+padding:0;
+width:88px
+}
+.inline-ad{
+margin-bottom:16px
+}
+.desktop-ad .inline-ad{
+display:block
+}
+.adsbygoogle{
+overflow:hidden
+}
+.vertical-ad-container{
+float:right;
+margin-right:16px;
+width:128px
+}
+.vertical-ad-container .AdSense+.AdSense{
+margin-top:16px
+}
+.inline-ad-placeholder,.vertical-ad-placeholder{
+background:#f3fdfe;
+border:1px solid #000;
+opacity:.9;
+vertical-align:middle;
+text-align:center
+}
+.inline-ad-placeholder span,.vertical-ad-placeholder span{
+margin-top:290px;
+display:block;
+text-transform:uppercase;
+font-weight:700;
+color:#212121
+}
+.vertical-ad-placeholder{
+height:600px
+}
+.vertical-ad-placeholder span{
+margin-top:290px;
+padding:0 40px
+}
+.inline-ad-placeholder{
+height:90px
+}
+.inline-ad-placeholder span{
+margin-top:36px
+}
+.Attribution{
+color:#757575
+}
+.Attribution a,.Attribution a:hover,.Attribution a:visited{
+color:#ffffff
+}
+.Attribution svg{
+fill:#ffffff
+}
+.sidebar-container{
+box-shadow:1px 1px 3px rgba(0,0,0,.1)
+}
+.sidebar-container,.sidebar-container .sidebar_bottom{
+background-color:#f3fdfe
+}
+.sidebar-container .navigation,.sidebar-container .sidebar_top_wrapper{
+background-color:#f3fdfe
+}
+.sidebar-container .sidebar_top{
+overflow:auto
+}
+.sidebar-container .sidebar_bottom{
+width:100%;
+padding-top:16px
+}
+.sidebar-container .widget:first-child{
+padding-top:0
+}
+.sidebar_top .widget.Profile{
+padding-bottom:16px
+}
+.widget.Profile{
+margin:0;
+width:100%
+}
+.widget.Profile h2{
+display:none
+}
+.widget.Profile h3.title{
+color:rgba(0,0,0,0.52);
+margin:16px 32px
+}
+.widget.Profile .individual{
+text-align:center
+}
+.widget.Profile .individual .profile-link{
+padding:1em
+}
+.widget.Profile .individual .default-avatar-wrapper .avatar-icon{
+margin:auto
+}
+.widget.Profile .team{
+margin-bottom:32px;
+margin-left:32px;
+margin-right:32px
+}
+.widget.Profile ul{
+list-style:none;
+padding:0
+}
+.widget.Profile li{
+margin:10px 0
+}
+.widget.Profile .profile-img{
+border-radius:50%;
+float:none
+}
+.widget.Profile .profile-link{
+color:#212121;
+font-size:.9em;
+margin-bottom:1em;
+opacity:.87;
+overflow:hidden
+}
+.widget.Profile .profile-link.visit-profile{
+border-style:solid;
+border-width:1px;
+border-radius:12px;
+cursor:pointer;
+font-size:12px;
+font-weight:400;
+padding:5px 20px;
+display:inline-block;
+line-height:normal
+}
+.widget.Profile dd{
+color:rgba(0, 0, 0, 0.54);
+margin:0 16px
+}
+.widget.Profile location{
+margin-bottom:1em
+}
+.widget.Profile .profile-textblock{
+font-size:14px;
+line-height:24px;
+position:relative
+}
+body.sidebar-visible .page_body{
+overflow-y:scroll
+}
+body.sidebar-visible .bg-photo-container{
+overflow-y:scroll
+}
+@media screen and (min-width:1440px){
+.sidebar-container{
+margin-top:480px;
+min-height:calc(100% - 480px);
+overflow:visible;
+z-index:32
+}
+.sidebar-container .sidebar_top_wrapper{
+background-color:#f3fdfe;
+height:480px;
+margin-top:-480px
+}
+.sidebar-container .sidebar_top{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+height:480px;
+-webkit-box-orient:horizontal;
+-webkit-box-direction:normal;
+-webkit-flex-direction:row;
+-ms-flex-direction:row;
+flex-direction:row;
+max-height:480px
+}
+.sidebar-container .sidebar_bottom{
+max-width:284px;
+width:284px
+}
+body.collapsed-header .sidebar-container{
+z-index:15
+}
+.sidebar-container .sidebar_top:empty{
+display:none
+}
+.sidebar-container .sidebar_top>:only-child{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+-webkit-align-self:center;
+-ms-flex-item-align:center;
+align-self:center;
+width:100%
+}
+.sidebar_top_wrapper.no-items{
+display:none
+}
+}
+.post-snippet.snippet-container{
+max-height:120px
+}
+.post-snippet .snippet-item{
+line-height:24px
+}
+.post-snippet .snippet-fade{
+background:-webkit-linear-gradient(left,#f3fdfe 0,#f3fdfe 20%,rgba(243, 253, 254, 0) 100%);
+background:linear-gradient(to left,#f3fdfe 0,#f3fdfe 20%,rgba(243, 253, 254, 0) 100%);
+color:#757575;
+height:24px
+}
+.popular-posts-snippet.snippet-container{
+max-height:72px
+}
+.popular-posts-snippet .snippet-item{
+line-height:24px
+}
+.PopularPosts .popular-posts-snippet .snippet-fade{
+color:#757575;
+height:24px
+}
+.main .popular-posts-snippet .snippet-fade{
+background:-webkit-linear-gradient(left,#f3fdfe 0,#f3fdfe 20%,rgba(243, 253, 254, 0) 100%);
+background:linear-gradient(to left,#f3fdfe 0,#f3fdfe 20%,rgba(243, 253, 254, 0) 100%)
+}
+.sidebar_bottom .popular-posts-snippet .snippet-fade{
+background:-webkit-linear-gradient(left,#f3fdfe 0,#f3fdfe 20%,rgba(243, 253, 254, 0) 100%);
+background:linear-gradient(to left,#f3fdfe 0,#f3fdfe 20%,rgba(243, 253, 254, 0) 100%)
+}
+.profile-snippet.snippet-container{
+max-height:192px
+}
+.has-location .profile-snippet.snippet-container{
+max-height:144px
+}
+.profile-snippet .snippet-item{
+line-height:24px
+}
+.profile-snippet .snippet-fade{
+background:-webkit-linear-gradient(left,#f3fdfe 0,#f3fdfe 20%,rgba(243, 253, 254, 0) 100%);
+background:linear-gradient(to left,#f3fdfe 0,#f3fdfe 20%,rgba(243, 253, 254, 0) 100%);
+color:rgba(0, 0, 0, 0.54);
+height:24px
+}
+@media screen and (min-width:1440px){
+.profile-snippet .snippet-fade{
+background:-webkit-linear-gradient(left,#f3fdfe 0,#f3fdfe 20%,rgba(243, 253, 254, 0) 100%);
+background:linear-gradient(to left,#f3fdfe 0,#f3fdfe 20%,rgba(243, 253, 254, 0) 100%)
+}
+}
+@media screen and (max-width:800px){
+.blog-name{
+margin-top:0
+}
+body.item-view .blog-name{
+margin:0 48px
+}
+.centered-bottom{
+padding:8px
+}
+body.item-view .centered-bottom{
+padding:0
+}
+.page_body .centered{
+padding:10px 0
+}
+body.item-view #header,body.item-view .widget.Header{
+margin-right:0
+}
+body.collapsed-header .centered-top-container .blog-name{
+display:block
+}
+body.collapsed-header .centered-top-container .widget.Header h1{
+text-align:center
+}
+.widget.Header header{
+padding:0
+}
+.widget.Header h1{
+font-size:33.067px;
+line-height:33.067px;
+margin-bottom:13px
+}
+body.item-view .widget.Header h1{
+text-align:center
+}
+body.item-view .widget.Header p{
+text-align:center
+}
+.blog-name .widget.PageList{
+padding:0
+}
+body.item-view .centered-top{
+margin-bottom:5px
+}
+.search-action,.search-input{
+margin-bottom:-8px
+}
+.search form{
+margin-bottom:8px
+}
+body.item-view .subscribe-section-container{
+margin:5px 0 0 0;
+width:100%
+}
+#page_body.section div.widget.FeaturedPost,div.widget.PopularPosts{
+padding:16px
+}
+div.widget.Blog .blog-posts .post-outer-container{
+padding:16px
+}
+div.widget.Blog .blog-posts .post-outer-container .post-outer{
+padding:0
+}
+.post:first-child{
+margin:0
+}
+.post-body .snippet-thumbnail{
+margin:0 3vw 3vw 0
+}
+.post-body .snippet-thumbnail img{
+height:20vw;
+width:20vw;
+max-height:128px;
+max-width:128px
+}
+div.widget.PopularPosts div.item-thumbnail{
+margin:0 3vw 3vw 0
+}
+div.widget.PopularPosts div.item-thumbnail img{
+height:20vw;
+width:20vw;
+max-height:88px;
+max-width:88px
+}
+.post-title{
+line-height:1
+}
+.post-title,.post-title a{
+font-size:20px
+}
+#page_body.section div.widget.FeaturedPost h3 a{
+font-size:22px
+}
+.mobile-ad .inline-ad{
+display:block
+}
+.page_body.has-vertical-ads .vertical-ad-container,.page_body.has-vertical-ads .vertical-ad-container ins{
+display:none
+}
+.page_body.has-vertical-ads .centered .centered-bottom,.page_body.has-vertical-ads .centered .centered-top{
+display:block;
+width:auto
+}
+div.post-filter-message div{
+padding:8px 16px
+}
+}
+@media screen and (min-width:1440px){
+body{
+position:relative
+}
+body.item-view .blog-name{
+margin-left:48px
+}
+.page_body{
+margin-left:284px
+}
+.search{
+margin-left:0
+}
+.search.focused{
+width:100%
+}
+.sticky{
+padding-left:284px
+}
+.hamburger-menu{
+display:none
+}
+body.collapsed-header .page_body .centered-top-container{
+padding-left:284px;
+padding-right:0;
+width:100%
+}
+body.collapsed-header .centered-top-container .search.focused{
+width:100%
+}
+body.collapsed-header .centered-top-container .blog-name{
+margin-left:0
+}
+body.collapsed-header.item-view .centered-top-container .search.focused{
+width:calc(100% - 50px)
+}
+body.collapsed-header.item-view .centered-top-container .blog-name{
+margin-left:40px
+}
+}
 
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body#layout .hidden,
+body#layout .invisible {
+display: inherit;
+}
+body#layout .navigation {
+display: none;
+}
+body#layout .page,
+body#layout .sidebar_top,
+body#layout .sidebar_bottom {
+display: inline-block;
+left: inherit;
+position: relative;
+vertical-align: top;
+}
+body#layout .page {
+float: right;
+margin-left: 20px;
+width: 55%;
+}
+body#layout .sidebar-container {
+float: right;
+width: 40%;
+}
+body#layout .hamburger-menu {
+display: none;
+}
+--></style>
+<style>
+    .bg-photo {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=iOjEWmpWlNVmx91RAaWC3irZSyq8cu05pASFz84khXxbIM83x8QP6Hnw7ZIDcZFvcAGSBpGCNsBC);}
+    
+@media (max-width: 480px) { .bg-photo {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=iOjEWmpWlNVmx91RAaWC3irZSyq8cu05pASFz84khXxbIM83x8QP6Hnw7ZIDcZFvcAGSBpGCNsBC&options=w480);}}
+@media (max-width: 640px) and (min-width: 481px) { .bg-photo {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=iOjEWmpWlNVmx91RAaWC3irZSyq8cu05pASFz84khXxbIM83x8QP6Hnw7ZIDcZFvcAGSBpGCNsBC&options=w640);}}
+@media (max-width: 800px) and (min-width: 641px) { .bg-photo {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=iOjEWmpWlNVmx91RAaWC3irZSyq8cu05pASFz84khXxbIM83x8QP6Hnw7ZIDcZFvcAGSBpGCNsBC&options=w800);}}
+@media (max-width: 1200px) and (min-width: 801px) { .bg-photo {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=iOjEWmpWlNVmx91RAaWC3irZSyq8cu05pASFz84khXxbIM83x8QP6Hnw7ZIDcZFvcAGSBpGCNsBC&options=w1200);}}
+/* Last tag covers anything over one higher than the previous max-size cap. */
+@media (min-width: 1201px) { .bg-photo {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=iOjEWmpWlNVmx91RAaWC3irZSyq8cu05pASFz84khXxbIM83x8QP6Hnw7ZIDcZFvcAGSBpGCNsBC&options=w1600);}}
+  </style>
+<script async='async' src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<script async='async' src='https://www.gstatic.com/external_hosted/clipboardjs/clipboard.min.js'></script>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<!-- data-ad-client=ca-pub-2006977464686081 -->
+
+</head>
+<body class='version-1-3-3 variant-indie_baby_blue'>
+<a class='skip-navigation' href='#main' tabindex='0'>
+Skip to main content
+</a>
+<div class='page'>
+<div class='bg-photo-overlay'></div>
+<div class='bg-photo-container'>
+<div class='bg-photo'></div>
+</div>
+<div class='page_body'>
+<div class='centered'>
+<div class='centered-top-placeholder'></div>
+<header class='centered-top-container' role='banner'>
+<div class='centered-top'>
+<button class='svg-icon-24-button hamburger-menu flat-icon-button ripple'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_menu_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</button>
+<div class='search'>
+<button aria-label='Search' class='search-expand touch-icon-button'>
+<div class='flat-icon-button ripple'>
+<svg class='svg-icon-24 search-expand-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_search_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</button>
+<div class='section' id='search_top' name='Search (Top)'><div class='widget BlogSearch' data-version='2' id='BlogSearch1'>
+<h3 class='title'>
+ర&#3144;త&#3143; ర&#3134;జ&#3137;
+</h3>
+<div class='widget-content' role='search'>
+<form action='https://narayanabillgates.blogspot.com/search' target='_top'>
+<div class='search-input'>
+<input aria-label='Search this blog' autocomplete='off' name='q' placeholder='Search this blog' value=''/>
+</div>
+<input class='search-action flat-button' type='submit' value='Search'/>
+</form>
+</div>
+</div></div>
+</div>
+<div class='clearboth'></div>
+<div class='blog-name container'>
+<div class='container section' id='header' name='Header'><div class='widget Header' data-version='2' id='Header1'>
+<div class='header-widget'>
+<div>
+<h1>
+NARAYANA's
+</h1>
+</div>
+<p>
+Hi ,everyone
+   This is narayana and I am the one who ever believing me. for this respectable ads i am publishing my site because of who can deserving for this ads have use full for their own purposes or business oriented scenarious.so please acceptable my queries and views.
+                          
+                      Thanking u to all, 
+</p>
+</div>
+</div></div>
+<nav role='navigation'>
+<div class='clearboth section' id='page_list_top' name='Page List (Top)'><div class='widget PageList' data-version='2' id='PageList1'>
+<div class='widget-content'>
+<div class='overflowable-container'>
+<div class='overflowable-contents'>
+<div class='container'>
+<ul class='tabs'>
+<li class='overflowable-item selected'>
+<a href='https://narayanabillgates.blogspot.com/'>Home</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='overflow-button hidden'>
+<a>More&hellip;</a>
+</div>
+</div>
+</div>
+</div></div>
+</nav>
+</div>
+</div>
+</header>
+<div>
+<div class='vertical-ad-container no-items section' id='ads' name='Ads'>
+</div>
+<main class='centered-bottom' id='main' role='main' tabindex='-1'>
+<h2 class='main-heading'>Posts</h2>
+<div class='main section' id='page_body' name='Page Body'><div class='widget FeaturedPost' data-version='2' id='FeaturedPost1'>
+<div class='widget-content'>
+<div role='feed'>
+<article class='post' role='article'>
+<h3 class='post-title'><a href='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html'>Happy independence day to all</a></h3>
+<div class='post-share-buttons post-share-buttons-top'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-FeaturedPost1-byline-700779703824764578' class='sharing' data-title='Happy independence day to all'>
+<button aria-controls='sharing-popup-FeaturedPost1-byline-700779703824764578' aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-FeaturedPost1-byline-700779703824764578' role='button'>
+<div class='flat-icon-button ripple'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_share_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Share' class='share-buttons hidden' id='sharing-popup-FeaturedPost1-byline-700779703824764578' role='menu'>
+<li>
+<span aria-label='Get link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=700779703824764578&target=' data-url='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html' role='menuitem' tabindex='-1' title='Get link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Get link</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=700779703824764578&target=facebook' data-url='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html' role='menuitem' tabindex='-1' title='Share to Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to X' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=700779703824764578&target=twitter' data-url='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html' role='menuitem' tabindex='-1' title='Share to X'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>X</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=700779703824764578&target=pinterest' data-url='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html' role='menuitem' tabindex='-1' title='Share to Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=700779703824764578&target=email' data-url='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Share to other apps' class='sharing-platform-button sharing-element-other' data-url='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html' role='menuitem' tabindex='-1' title='Share to other apps'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Other Apps</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-timestamp'>
+-
+<meta content='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html'/>
+<a class='timestamp-link' href='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2025-08-14T17:05:00-07:00' title='2025-08-14T17:05:00-07:00'>
+August 14, 2025
+</time>
+</a>
+</span>
+</div>
+</div>
+<div class='snippet-thumbnail'>
+<img alt='Image' sizes='(min-width: 954px) 842px, (min-width: 801px) calc(100vw - 112px), calc(100vw - 64px)' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w630-h330/15th-august.jpg' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w256-h162-p-k-no-nu/15th-august.jpg 256w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w512-h325-p-k-no-nu/15th-august.jpg 512w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w945-h600-p-k-no-nu/15th-august.jpg 945w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w1684-h1069-p-k-no-nu/15th-august.jpg 1684w'/>
+</div>
+<div class='post-snippet snippet-container r-snippet-container'>
+<div class='snippet-item r-snippetized'>
+&#160;
+</div>
+<a class='snippet-fade r-snippet-fade hidden' href='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html'></a>
+</div>
+<div class='post-bottom'>
+<div class='post-footer float-container'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='byline post-comment-link container'>
+<a class='comment-link' href='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html#comments' onclick=''>
+<svg class='svg-icon-24 touch-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_mode_comment_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='num_comments'>
+Post a Comment
+</span>
+</a>
+</span>
+<span class='byline post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post/9207076113787303084/700779703824764578' title='Email Post'>
+<svg class='svg-icon-24 touch-icon sharing-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+</div>
+</div>
+<div class='jump-link flat-button ripple'>
+<a href='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html' title='Happy independence day to all'>
+Read more
+</a>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div><div class='widget Blog' data-version='2' id='Blog1'>
+<div class='blog-posts hfeed container'>
+<article class='post-outer-container'>
+<div class='post-outer'>
+<div class='post'>
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://narayanabillgates.blogspot.com/2024/01/happy-republic-day.html"
+  },
+  "headline": "🇮🇳 Happy Republic Day..🇮🇳narayana🇮🇳","description": "&#160; &#160; Happy &#160;Republic Day.&#160; &#160; &#160; &#160; Narayana🇮🇳 &#160; &#160;","datePublished": "2024-01-25T15:41:00-08:00",
+  "dateModified": "2024-01-25T15:47:24-08:00","image": {
+    "@type": "ImageObject","url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2SHjSD7hHOHNo4582jbvrEn7tQXiC99jlBrWayp-280T_xe7t7IGVCgNXtoIPGyURbbhRct8bdcwfPXyYQLjQYG7J-yx4HDr65HFP8XKYPq2LnMGXoGq7YmLZa407FGPx2jT_99f49UZ6qDPRPdjJh5AcKAJy3Ny_Y2MWt_xtf8eO6353pItersFR4zJJ/w1200-h630-p-k-no-nu/IMG-20240126-WA0000.jpg",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "Narayana with Siri"
+  }
+}</script>
+<a name='2109844121108475820'></a>
+<h3 class='post-title entry-title'>
+<a href='https://narayanabillgates.blogspot.com/2024/01/happy-republic-day.html'>🇮🇳 Happy Republic Day..🇮🇳narayana🇮🇳</a>
+</h3>
+<div class='post-share-buttons post-share-buttons-top'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-Blog1-byline-2109844121108475820' class='sharing' data-title='🇮🇳 Happy Republic Day..🇮🇳narayana🇮🇳'>
+<button aria-controls='sharing-popup-Blog1-byline-2109844121108475820' aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-Blog1-byline-2109844121108475820' role='button'>
+<div class='flat-icon-button ripple'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_share_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Share' class='share-buttons hidden' id='sharing-popup-Blog1-byline-2109844121108475820' role='menu'>
+<li>
+<span aria-label='Get link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=2109844121108475820&target=' data-url='https://narayanabillgates.blogspot.com/2024/01/happy-republic-day.html' role='menuitem' tabindex='-1' title='Get link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Get link</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=2109844121108475820&target=facebook' data-url='https://narayanabillgates.blogspot.com/2024/01/happy-republic-day.html' role='menuitem' tabindex='-1' title='Share to Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to X' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=2109844121108475820&target=twitter' data-url='https://narayanabillgates.blogspot.com/2024/01/happy-republic-day.html' role='menuitem' tabindex='-1' title='Share to X'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>X</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=2109844121108475820&target=pinterest' data-url='https://narayanabillgates.blogspot.com/2024/01/happy-republic-day.html' role='menuitem' tabindex='-1' title='Share to Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=2109844121108475820&target=email' data-url='https://narayanabillgates.blogspot.com/2024/01/happy-republic-day.html' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Share to other apps' class='sharing-platform-button sharing-element-other' data-url='https://narayanabillgates.blogspot.com/2024/01/happy-republic-day.html' role='menuitem' tabindex='-1' title='Share to other apps'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Other Apps</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-timestamp'>
+-
+<meta content='https://narayanabillgates.blogspot.com/2024/01/happy-republic-day.html'/>
+<a class='timestamp-link' href='https://narayanabillgates.blogspot.com/2024/01/happy-republic-day.html' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2024-01-25T15:41:00-08:00' title='2024-01-25T15:41:00-08:00'>
+January 25, 2024
+</time>
+</a>
+</span>
+</div>
+</div>
+<div class='container post-body entry-content' id='post-snippet-2109844121108475820'>
+<div class='snippet-thumbnail'>
+<img alt='Image' sizes='(max-width: 800px) 20vw, 128px' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2SHjSD7hHOHNo4582jbvrEn7tQXiC99jlBrWayp-280T_xe7t7IGVCgNXtoIPGyURbbhRct8bdcwfPXyYQLjQYG7J-yx4HDr65HFP8XKYPq2LnMGXoGq7YmLZa407FGPx2jT_99f49UZ6qDPRPdjJh5AcKAJy3Ny_Y2MWt_xtf8eO6353pItersFR4zJJ/s320/IMG-20240126-WA0000.jpg' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2SHjSD7hHOHNo4582jbvrEn7tQXiC99jlBrWayp-280T_xe7t7IGVCgNXtoIPGyURbbhRct8bdcwfPXyYQLjQYG7J-yx4HDr65HFP8XKYPq2LnMGXoGq7YmLZa407FGPx2jT_99f49UZ6qDPRPdjJh5AcKAJy3Ny_Y2MWt_xtf8eO6353pItersFR4zJJ/w32-h32-p-k-no-nu/IMG-20240126-WA0000.jpg 32w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2SHjSD7hHOHNo4582jbvrEn7tQXiC99jlBrWayp-280T_xe7t7IGVCgNXtoIPGyURbbhRct8bdcwfPXyYQLjQYG7J-yx4HDr65HFP8XKYPq2LnMGXoGq7YmLZa407FGPx2jT_99f49UZ6qDPRPdjJh5AcKAJy3Ny_Y2MWt_xtf8eO6353pItersFR4zJJ/w64-h64-p-k-no-nu/IMG-20240126-WA0000.jpg 64w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2SHjSD7hHOHNo4582jbvrEn7tQXiC99jlBrWayp-280T_xe7t7IGVCgNXtoIPGyURbbhRct8bdcwfPXyYQLjQYG7J-yx4HDr65HFP8XKYPq2LnMGXoGq7YmLZa407FGPx2jT_99f49UZ6qDPRPdjJh5AcKAJy3Ny_Y2MWt_xtf8eO6353pItersFR4zJJ/w128-h128-p-k-no-nu/IMG-20240126-WA0000.jpg 128w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2SHjSD7hHOHNo4582jbvrEn7tQXiC99jlBrWayp-280T_xe7t7IGVCgNXtoIPGyURbbhRct8bdcwfPXyYQLjQYG7J-yx4HDr65HFP8XKYPq2LnMGXoGq7YmLZa407FGPx2jT_99f49UZ6qDPRPdjJh5AcKAJy3Ny_Y2MWt_xtf8eO6353pItersFR4zJJ/w256-h256-p-k-no-nu/IMG-20240126-WA0000.jpg 256w'/>
+</div>
+<div class='post-snippet snippet-container r-snippet-container'>
+<div class='snippet-item r-snippetized'>
+&#160; &#160; Happy &#160;Republic Day.&#160; &#160; &#160; &#160; Narayana🇮🇳 &#160; &#160;
+</div>
+<a class='snippet-fade r-snippet-fade hidden' href='https://narayanabillgates.blogspot.com/2024/01/happy-republic-day.html'></a>
+</div>
+</div>
+<div class='post-bottom'>
+<div class='post-footer float-container'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='byline post-comment-link container'>
+<a class='comment-link' href='https://narayanabillgates.blogspot.com/2024/01/happy-republic-day.html#comments' onclick=''>
+<svg class='svg-icon-24 touch-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_mode_comment_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='num_comments'>
+Post a Comment
+</span>
+</a>
+</span>
+<span class='byline post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post/9207076113787303084/2109844121108475820' title='Email Post'>
+<svg class='svg-icon-24 touch-icon sharing-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+</div>
+</div>
+<div class='jump-link flat-button ripple'>
+<a href='https://narayanabillgates.blogspot.com/2024/01/happy-republic-day.html' title='🇮🇳 Happy Republic Day..🇮🇳narayana🇮🇳'>
+Read more
+</a>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class='post-outer-container'>
+<div class='post-outer'>
+<div class='post'>
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://narayanabillgates.blogspot.com/2024/01/blog-post.html"
+  },
+  "headline": "&#9971;శ&#3149;ర&#3136; ర&#3134;మ #అయ&#3147;ధ&#3149;య&#9971;","description": "&#160; https://youtu.be/KOc9IdBuAkE?si\u003dMkjMfLcSBtzPm5w9 KNR","datePublished": "2024-01-21T06:36:00-08:00",
+  "dateModified": "2024-01-21T06:42:39-08:00","image": {
+    "@type": "ImageObject","url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_LcVP1rO9gxdWqhN6x9UtafuKtNYkHyKnaKApXNtHXut7AqQr6-VtB_0J3cBbULS7hFcHC5MWfVLQD_bf6iGk0rNU6vN7DEtNtslmnh5z_ahHpnPKXYL5cB2mXudzY7ouYMWOIrQw_lR_q4fvzWGCun5stE0TbYzAGujmlyxQ3dX9FvQNVPeBz60depdA/w1200-h630-p-k-no-nu/IMG20240121090504.jpg",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "Narayana with Siri"
+  }
+}</script>
+<a name='5997629651149865552'></a>
+<h3 class='post-title entry-title'>
+<a href='https://narayanabillgates.blogspot.com/2024/01/blog-post.html'>&#9971;శ&#3149;ర&#3136; ర&#3134;మ #అయ&#3147;ధ&#3149;య&#9971;</a>
+</h3>
+<div class='post-share-buttons post-share-buttons-top'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-Blog1-byline-5997629651149865552' class='sharing' data-title='⛳శ్రీ రామ #అయోధ్య⛳'>
+<button aria-controls='sharing-popup-Blog1-byline-5997629651149865552' aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-Blog1-byline-5997629651149865552' role='button'>
+<div class='flat-icon-button ripple'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_share_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Share' class='share-buttons hidden' id='sharing-popup-Blog1-byline-5997629651149865552' role='menu'>
+<li>
+<span aria-label='Get link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=5997629651149865552&target=' data-url='https://narayanabillgates.blogspot.com/2024/01/blog-post.html' role='menuitem' tabindex='-1' title='Get link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Get link</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=5997629651149865552&target=facebook' data-url='https://narayanabillgates.blogspot.com/2024/01/blog-post.html' role='menuitem' tabindex='-1' title='Share to Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to X' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=5997629651149865552&target=twitter' data-url='https://narayanabillgates.blogspot.com/2024/01/blog-post.html' role='menuitem' tabindex='-1' title='Share to X'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>X</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=5997629651149865552&target=pinterest' data-url='https://narayanabillgates.blogspot.com/2024/01/blog-post.html' role='menuitem' tabindex='-1' title='Share to Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=5997629651149865552&target=email' data-url='https://narayanabillgates.blogspot.com/2024/01/blog-post.html' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Share to other apps' class='sharing-platform-button sharing-element-other' data-url='https://narayanabillgates.blogspot.com/2024/01/blog-post.html' role='menuitem' tabindex='-1' title='Share to other apps'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Other Apps</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-timestamp'>
+-
+<meta content='https://narayanabillgates.blogspot.com/2024/01/blog-post.html'/>
+<a class='timestamp-link' href='https://narayanabillgates.blogspot.com/2024/01/blog-post.html' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2024-01-21T06:36:00-08:00' title='2024-01-21T06:36:00-08:00'>
+January 21, 2024
+</time>
+</a>
+</span>
+</div>
+</div>
+<div class='container post-body entry-content' id='post-snippet-5997629651149865552'>
+<div class='snippet-thumbnail'>
+<img alt='Image' sizes='(max-width: 800px) 20vw, 128px' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_LcVP1rO9gxdWqhN6x9UtafuKtNYkHyKnaKApXNtHXut7AqQr6-VtB_0J3cBbULS7hFcHC5MWfVLQD_bf6iGk0rNU6vN7DEtNtslmnh5z_ahHpnPKXYL5cB2mXudzY7ouYMWOIrQw_lR_q4fvzWGCun5stE0TbYzAGujmlyxQ3dX9FvQNVPeBz60depdA/w145-h313/IMG20240121090504.jpg' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_LcVP1rO9gxdWqhN6x9UtafuKtNYkHyKnaKApXNtHXut7AqQr6-VtB_0J3cBbULS7hFcHC5MWfVLQD_bf6iGk0rNU6vN7DEtNtslmnh5z_ahHpnPKXYL5cB2mXudzY7ouYMWOIrQw_lR_q4fvzWGCun5stE0TbYzAGujmlyxQ3dX9FvQNVPeBz60depdA/w32-h32-p-k-no-nu/IMG20240121090504.jpg 32w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_LcVP1rO9gxdWqhN6x9UtafuKtNYkHyKnaKApXNtHXut7AqQr6-VtB_0J3cBbULS7hFcHC5MWfVLQD_bf6iGk0rNU6vN7DEtNtslmnh5z_ahHpnPKXYL5cB2mXudzY7ouYMWOIrQw_lR_q4fvzWGCun5stE0TbYzAGujmlyxQ3dX9FvQNVPeBz60depdA/w64-h64-p-k-no-nu/IMG20240121090504.jpg 64w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_LcVP1rO9gxdWqhN6x9UtafuKtNYkHyKnaKApXNtHXut7AqQr6-VtB_0J3cBbULS7hFcHC5MWfVLQD_bf6iGk0rNU6vN7DEtNtslmnh5z_ahHpnPKXYL5cB2mXudzY7ouYMWOIrQw_lR_q4fvzWGCun5stE0TbYzAGujmlyxQ3dX9FvQNVPeBz60depdA/w128-h128-p-k-no-nu/IMG20240121090504.jpg 128w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_LcVP1rO9gxdWqhN6x9UtafuKtNYkHyKnaKApXNtHXut7AqQr6-VtB_0J3cBbULS7hFcHC5MWfVLQD_bf6iGk0rNU6vN7DEtNtslmnh5z_ahHpnPKXYL5cB2mXudzY7ouYMWOIrQw_lR_q4fvzWGCun5stE0TbYzAGujmlyxQ3dX9FvQNVPeBz60depdA/w256-h256-p-k-no-nu/IMG20240121090504.jpg 256w'/>
+</div>
+<div class='post-snippet snippet-container r-snippet-container'>
+<div class='snippet-item r-snippetized'>
+&#160; https://youtu.be/KOc9IdBuAkE?si=MkjMfLcSBtzPm5w9 KNR
+</div>
+<a class='snippet-fade r-snippet-fade hidden' href='https://narayanabillgates.blogspot.com/2024/01/blog-post.html'></a>
+</div>
+</div>
+<div class='post-bottom'>
+<div class='post-footer float-container'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='byline post-comment-link container'>
+<a class='comment-link' href='https://narayanabillgates.blogspot.com/2024/01/blog-post.html#comments' onclick=''>
+<svg class='svg-icon-24 touch-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_mode_comment_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='num_comments'>
+Post a Comment
+</span>
+</a>
+</span>
+<span class='byline post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post/9207076113787303084/5997629651149865552' title='Email Post'>
+<svg class='svg-icon-24 touch-icon sharing-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+</div>
+</div>
+<div class='jump-link flat-button ripple'>
+<a href='https://narayanabillgates.blogspot.com/2024/01/blog-post.html' title='⛳శ్రీ రామ #అయోధ్య⛳'>
+Read more
+</a>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class='post-outer-container'>
+<div class='post-outer'>
+<div class='post'>
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://narayanabillgates.blogspot.com/2024/01/o-ayodhya.html"
+  },
+  "headline": "&#9971;శ&#3149;ర&#3136; ర&#3134;మ మoద&#3135;ర&#3074; #Ayodhya&#9971;","description": "&#160;","datePublished": "2024-01-19T06:14:00-08:00",
+  "dateModified": "2024-01-19T06:14:04-08:00","image": {
+    "@type": "ImageObject","url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb6Xyl-uYWQ8wz9pEzmxn8I0scot_j0TMzWdMbyXDEHNd5NbmsKJkQd6GjquTLHXr1XluGzRY239xe7My6EdlrTpZwW6Qqiw2vYWbkHPRHrM19dWID23JhBzq62xWq5YP39EHKGNutSp75W9AeudZhTcIcjqpe33txsoJENaXFOxQlj8oRFYJhqKHm1oR/w1200-h630-p-k-no-nu/IMG20240115093220.jpg",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "Narayana with Siri"
+  }
+}</script>
+<a name='2881112918803578590'></a>
+<h3 class='post-title entry-title'>
+<a href='https://narayanabillgates.blogspot.com/2024/01/o-ayodhya.html'>&#9971;శ&#3149;ర&#3136; ర&#3134;మ మoద&#3135;ర&#3074; #Ayodhya&#9971;</a>
+</h3>
+<div class='post-share-buttons post-share-buttons-top'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-Blog1-byline-2881112918803578590' class='sharing' data-title='⛳శ్రీ రామ మoదిరం #Ayodhya⛳'>
+<button aria-controls='sharing-popup-Blog1-byline-2881112918803578590' aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-Blog1-byline-2881112918803578590' role='button'>
+<div class='flat-icon-button ripple'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_share_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Share' class='share-buttons hidden' id='sharing-popup-Blog1-byline-2881112918803578590' role='menu'>
+<li>
+<span aria-label='Get link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=2881112918803578590&target=' data-url='https://narayanabillgates.blogspot.com/2024/01/o-ayodhya.html' role='menuitem' tabindex='-1' title='Get link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Get link</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=2881112918803578590&target=facebook' data-url='https://narayanabillgates.blogspot.com/2024/01/o-ayodhya.html' role='menuitem' tabindex='-1' title='Share to Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to X' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=2881112918803578590&target=twitter' data-url='https://narayanabillgates.blogspot.com/2024/01/o-ayodhya.html' role='menuitem' tabindex='-1' title='Share to X'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>X</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=2881112918803578590&target=pinterest' data-url='https://narayanabillgates.blogspot.com/2024/01/o-ayodhya.html' role='menuitem' tabindex='-1' title='Share to Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=2881112918803578590&target=email' data-url='https://narayanabillgates.blogspot.com/2024/01/o-ayodhya.html' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Share to other apps' class='sharing-platform-button sharing-element-other' data-url='https://narayanabillgates.blogspot.com/2024/01/o-ayodhya.html' role='menuitem' tabindex='-1' title='Share to other apps'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Other Apps</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-timestamp'>
+-
+<meta content='https://narayanabillgates.blogspot.com/2024/01/o-ayodhya.html'/>
+<a class='timestamp-link' href='https://narayanabillgates.blogspot.com/2024/01/o-ayodhya.html' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2024-01-19T06:14:00-08:00' title='2024-01-19T06:14:00-08:00'>
+January 19, 2024
+</time>
+</a>
+</span>
+</div>
+</div>
+<div class='container post-body entry-content' id='post-snippet-2881112918803578590'>
+<div class='snippet-thumbnail'>
+<img alt='Image' sizes='(max-width: 800px) 20vw, 128px' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb6Xyl-uYWQ8wz9pEzmxn8I0scot_j0TMzWdMbyXDEHNd5NbmsKJkQd6GjquTLHXr1XluGzRY239xe7My6EdlrTpZwW6Qqiw2vYWbkHPRHrM19dWID23JhBzq62xWq5YP39EHKGNutSp75W9AeudZhTcIcjqpe33txsoJENaXFOxQlj8oRFYJhqKHm1oR/w124-h275/IMG20240115093220.jpg' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb6Xyl-uYWQ8wz9pEzmxn8I0scot_j0TMzWdMbyXDEHNd5NbmsKJkQd6GjquTLHXr1XluGzRY239xe7My6EdlrTpZwW6Qqiw2vYWbkHPRHrM19dWID23JhBzq62xWq5YP39EHKGNutSp75W9AeudZhTcIcjqpe33txsoJENaXFOxQlj8oRFYJhqKHm1oR/w32-h32-p-k-no-nu/IMG20240115093220.jpg 32w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb6Xyl-uYWQ8wz9pEzmxn8I0scot_j0TMzWdMbyXDEHNd5NbmsKJkQd6GjquTLHXr1XluGzRY239xe7My6EdlrTpZwW6Qqiw2vYWbkHPRHrM19dWID23JhBzq62xWq5YP39EHKGNutSp75W9AeudZhTcIcjqpe33txsoJENaXFOxQlj8oRFYJhqKHm1oR/w64-h64-p-k-no-nu/IMG20240115093220.jpg 64w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb6Xyl-uYWQ8wz9pEzmxn8I0scot_j0TMzWdMbyXDEHNd5NbmsKJkQd6GjquTLHXr1XluGzRY239xe7My6EdlrTpZwW6Qqiw2vYWbkHPRHrM19dWID23JhBzq62xWq5YP39EHKGNutSp75W9AeudZhTcIcjqpe33txsoJENaXFOxQlj8oRFYJhqKHm1oR/w128-h128-p-k-no-nu/IMG20240115093220.jpg 128w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb6Xyl-uYWQ8wz9pEzmxn8I0scot_j0TMzWdMbyXDEHNd5NbmsKJkQd6GjquTLHXr1XluGzRY239xe7My6EdlrTpZwW6Qqiw2vYWbkHPRHrM19dWID23JhBzq62xWq5YP39EHKGNutSp75W9AeudZhTcIcjqpe33txsoJENaXFOxQlj8oRFYJhqKHm1oR/w256-h256-p-k-no-nu/IMG20240115093220.jpg 256w'/>
+</div>
+<div class='post-snippet snippet-container r-snippet-container'>
+<div class='snippet-item r-snippetized'>
+&#160;
+</div>
+<a class='snippet-fade r-snippet-fade hidden' href='https://narayanabillgates.blogspot.com/2024/01/o-ayodhya.html'></a>
+</div>
+</div>
+<div class='post-bottom'>
+<div class='post-footer float-container'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='byline post-comment-link container'>
+<a class='comment-link' href='https://narayanabillgates.blogspot.com/2024/01/o-ayodhya.html#comments' onclick=''>
+<svg class='svg-icon-24 touch-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_mode_comment_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='num_comments'>
+Post a Comment
+</span>
+</a>
+</span>
+<span class='byline post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post/9207076113787303084/2881112918803578590' title='Email Post'>
+<svg class='svg-icon-24 touch-icon sharing-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+</div>
+</div>
+<div class='jump-link flat-button ripple'>
+<a href='https://narayanabillgates.blogspot.com/2024/01/o-ayodhya.html' title='⛳శ్రీ రామ మoదిరం #Ayodhya⛳'>
+Read more
+</a>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class='post-outer-container'>
+<div class='post-outer'>
+<div class='post'>
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://narayanabillgates.blogspot.com/2023/01/nsp.html"
+  },
+  "headline": "గణత&#3074;త&#3149;ర ద&#3135;న&#3147;త&#3149;సవ శ&#3137;భ&#3134;క&#3134;&#3074;క&#3149;షల&#3137; ..............ur's NSP............","description": "&#160; &#160; &#160; -- N arayana\u0026#39;s&#160;  &#160; &#160; &#160; &#160; &#160; &#160;.........&#160; &#160; &#160; &#160; ........&#160; &#160; &#160; &#160;&#11790; &#160;","datePublished": "2023-01-25T07:46:00-08:00",
+  "dateModified": "2023-01-25T08:20:39-08:00","image": {
+    "@type": "ImageObject","url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlG2AB7t-3HzlXSoFdMIBnxsuko8nPCTMHLzYKgGy0Ermt-RwxCrY2dpBzvKJsKbUC7WS-s_yYdxlr7wlkdDCgNAHdt52--GJwrbQ5W3N_cDpsiBmqA7U00MUN38jShzrKY1u_-5-AtqzV_jhDTiZ56ZELykgjzbfn7Bi0t-6_amA2qKrkuwWUoL5EA/w1200-h630-p-k-no-nu/9lfh1mu8_republic-day-wishes_625x300_26_January_19.webp",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "Narayana with Siri"
+  }
+}</script>
+<a name='4447407101830625307'></a>
+<h3 class='post-title entry-title'>
+<a href='https://narayanabillgates.blogspot.com/2023/01/nsp.html'>గణత&#3074;త&#3149;ర ద&#3135;న&#3147;త&#3149;సవ శ&#3137;భ&#3134;క&#3134;&#3074;క&#3149;షల&#3137; ..............ur's NSP............</a>
+</h3>
+<div class='post-share-buttons post-share-buttons-top'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-Blog1-byline-4447407101830625307' class='sharing' data-title='గణతంత్ర దినోత్సవ శుభాకాంక్షలు ..............ur&#39;s NSP............'>
+<button aria-controls='sharing-popup-Blog1-byline-4447407101830625307' aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-Blog1-byline-4447407101830625307' role='button'>
+<div class='flat-icon-button ripple'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_share_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Share' class='share-buttons hidden' id='sharing-popup-Blog1-byline-4447407101830625307' role='menu'>
+<li>
+<span aria-label='Get link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=4447407101830625307&target=' data-url='https://narayanabillgates.blogspot.com/2023/01/nsp.html' role='menuitem' tabindex='-1' title='Get link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Get link</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=4447407101830625307&target=facebook' data-url='https://narayanabillgates.blogspot.com/2023/01/nsp.html' role='menuitem' tabindex='-1' title='Share to Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to X' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=4447407101830625307&target=twitter' data-url='https://narayanabillgates.blogspot.com/2023/01/nsp.html' role='menuitem' tabindex='-1' title='Share to X'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>X</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=4447407101830625307&target=pinterest' data-url='https://narayanabillgates.blogspot.com/2023/01/nsp.html' role='menuitem' tabindex='-1' title='Share to Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=4447407101830625307&target=email' data-url='https://narayanabillgates.blogspot.com/2023/01/nsp.html' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Share to other apps' class='sharing-platform-button sharing-element-other' data-url='https://narayanabillgates.blogspot.com/2023/01/nsp.html' role='menuitem' tabindex='-1' title='Share to other apps'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Other Apps</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-timestamp'>
+-
+<meta content='https://narayanabillgates.blogspot.com/2023/01/nsp.html'/>
+<a class='timestamp-link' href='https://narayanabillgates.blogspot.com/2023/01/nsp.html' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2023-01-25T07:46:00-08:00' title='2023-01-25T07:46:00-08:00'>
+January 25, 2023
+</time>
+</a>
+</span>
+</div>
+</div>
+<div class='container post-body entry-content' id='post-snippet-4447407101830625307'>
+<div class='snippet-thumbnail'>
+<img alt='Image' sizes='(max-width: 800px) 20vw, 128px' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlG2AB7t-3HzlXSoFdMIBnxsuko8nPCTMHLzYKgGy0Ermt-RwxCrY2dpBzvKJsKbUC7WS-s_yYdxlr7wlkdDCgNAHdt52--GJwrbQ5W3N_cDpsiBmqA7U00MUN38jShzrKY1u_-5-AtqzV_jhDTiZ56ZELykgjzbfn7Bi0t-6_amA2qKrkuwWUoL5EA/w628-h476/9lfh1mu8_republic-day-wishes_625x300_26_January_19.webp' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlG2AB7t-3HzlXSoFdMIBnxsuko8nPCTMHLzYKgGy0Ermt-RwxCrY2dpBzvKJsKbUC7WS-s_yYdxlr7wlkdDCgNAHdt52--GJwrbQ5W3N_cDpsiBmqA7U00MUN38jShzrKY1u_-5-AtqzV_jhDTiZ56ZELykgjzbfn7Bi0t-6_amA2qKrkuwWUoL5EA/w32-h32-p-k-no-nu/9lfh1mu8_republic-day-wishes_625x300_26_January_19.webp 32w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlG2AB7t-3HzlXSoFdMIBnxsuko8nPCTMHLzYKgGy0Ermt-RwxCrY2dpBzvKJsKbUC7WS-s_yYdxlr7wlkdDCgNAHdt52--GJwrbQ5W3N_cDpsiBmqA7U00MUN38jShzrKY1u_-5-AtqzV_jhDTiZ56ZELykgjzbfn7Bi0t-6_amA2qKrkuwWUoL5EA/w64-h64-p-k-no-nu/9lfh1mu8_republic-day-wishes_625x300_26_January_19.webp 64w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlG2AB7t-3HzlXSoFdMIBnxsuko8nPCTMHLzYKgGy0Ermt-RwxCrY2dpBzvKJsKbUC7WS-s_yYdxlr7wlkdDCgNAHdt52--GJwrbQ5W3N_cDpsiBmqA7U00MUN38jShzrKY1u_-5-AtqzV_jhDTiZ56ZELykgjzbfn7Bi0t-6_amA2qKrkuwWUoL5EA/w128-h128-p-k-no-nu/9lfh1mu8_republic-day-wishes_625x300_26_January_19.webp 128w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlG2AB7t-3HzlXSoFdMIBnxsuko8nPCTMHLzYKgGy0Ermt-RwxCrY2dpBzvKJsKbUC7WS-s_yYdxlr7wlkdDCgNAHdt52--GJwrbQ5W3N_cDpsiBmqA7U00MUN38jShzrKY1u_-5-AtqzV_jhDTiZ56ZELykgjzbfn7Bi0t-6_amA2qKrkuwWUoL5EA/w256-h256-p-k-no-nu/9lfh1mu8_republic-day-wishes_625x300_26_January_19.webp 256w'/>
+</div>
+<div class='post-snippet snippet-container r-snippet-container'>
+<div class='snippet-item r-snippetized'>
+&#160; &#160; &#160; -- N arayana&#39;s&#160;  &#160; &#160; &#160; &#160; &#160; &#160;.........&#160; &#160; &#160; &#160; ........&#160; &#160; &#160; &#160;&#11790; &#160;
+</div>
+<a class='snippet-fade r-snippet-fade hidden' href='https://narayanabillgates.blogspot.com/2023/01/nsp.html'></a>
+</div>
+</div>
+<div class='post-bottom'>
+<div class='post-footer float-container'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='byline post-comment-link container'>
+<a class='comment-link' href='https://narayanabillgates.blogspot.com/2023/01/nsp.html#comments' onclick=''>
+<svg class='svg-icon-24 touch-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_mode_comment_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='num_comments'>
+1 comment
+</span>
+</a>
+</span>
+<span class='byline post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post/9207076113787303084/4447407101830625307' title='Email Post'>
+<svg class='svg-icon-24 touch-icon sharing-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+</div>
+</div>
+<div class='jump-link flat-button ripple'>
+<a href='https://narayanabillgates.blogspot.com/2023/01/nsp.html' title='గణతంత్ర దినోత్సవ శుభాకాంక్షలు ..............ur&#39;s NSP............'>
+Read more
+</a>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class='post-outer-container'>
+<div class='post-outer'>
+<div class='post'>
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://narayanabillgates.blogspot.com/2018/05/sri-kodandaramaswamy.html"
+  },
+  "headline": "శ&#3149;ర&#3136; క&#3147;ద&#3074;డర&#3134;మస&#3149;వ&#3134;మ&#3135;  ద&#3143;వస&#3149;థ&#3134;న&#3074;(ర&#3142;డ&#3149;లక&#3137;&#3074;ట)","description": "&#160; &#160; &#160; &#160; &#160; &#160;...-...-... ర&#3142;డ&#3149;లక&#3137;&#3074;ట ...-...-...  శ&#3149;ర&#3136; క&#3147;ద&#3074;డ ర&#3134;మస&#3149;వ&#3134;మ&#3135; ద&#3143;వస&#3149;థ&#3134;న0...   &#160;&#160; Happy movements with saadineni &#160;Chairman&#160; &#160; &#160; &#160; &#160; &#160;-S...","datePublished": "2018-05-26T10:51:00-07:00",
+  "dateModified": "2023-01-25T06:24:17-08:00","image": {
+    "@type": "ImageObject","url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTCbGxpfD71FAtmE8hyqt1wnYqUQ4Cs4mL3lPe0VtJGYpdGm8u0C9BV1-HBzTgduIl4Xl5CB2uutuCudgoMaPG-dUyk2Hr8_jeXrRk1nObKGLj2K5Fgh0JdiNVdFowdfLK406ASPd77hw4Dm4rIYt_HC0j4Vj7H5ngQ7-cmFOwb7Y3Yl000PlERNDG2A/w1200-h630-p-k-no-nu/IMG20200721081329.jpg",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "Narayana with Siri"
+  }
+}</script>
+<a name='1169963371825801485'></a>
+<h3 class='post-title entry-title'>
+<a href='https://narayanabillgates.blogspot.com/2018/05/sri-kodandaramaswamy.html'>శ&#3149;ర&#3136; క&#3147;ద&#3074;డర&#3134;మస&#3149;వ&#3134;మ&#3135;  ద&#3143;వస&#3149;థ&#3134;న&#3074;(ర&#3142;డ&#3149;లక&#3137;&#3074;ట)</a>
+</h3>
+<div class='post-share-buttons post-share-buttons-top'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-Blog1-byline-1169963371825801485' class='sharing' data-title='శ్రీ కోదండరామస్వామి  దేవస్థానం(రెడ్లకుంట)'>
+<button aria-controls='sharing-popup-Blog1-byline-1169963371825801485' aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-Blog1-byline-1169963371825801485' role='button'>
+<div class='flat-icon-button ripple'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_share_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Share' class='share-buttons hidden' id='sharing-popup-Blog1-byline-1169963371825801485' role='menu'>
+<li>
+<span aria-label='Get link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=1169963371825801485&target=' data-url='https://narayanabillgates.blogspot.com/2018/05/sri-kodandaramaswamy.html' role='menuitem' tabindex='-1' title='Get link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Get link</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=1169963371825801485&target=facebook' data-url='https://narayanabillgates.blogspot.com/2018/05/sri-kodandaramaswamy.html' role='menuitem' tabindex='-1' title='Share to Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to X' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=1169963371825801485&target=twitter' data-url='https://narayanabillgates.blogspot.com/2018/05/sri-kodandaramaswamy.html' role='menuitem' tabindex='-1' title='Share to X'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>X</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=1169963371825801485&target=pinterest' data-url='https://narayanabillgates.blogspot.com/2018/05/sri-kodandaramaswamy.html' role='menuitem' tabindex='-1' title='Share to Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=1169963371825801485&target=email' data-url='https://narayanabillgates.blogspot.com/2018/05/sri-kodandaramaswamy.html' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Share to other apps' class='sharing-platform-button sharing-element-other' data-url='https://narayanabillgates.blogspot.com/2018/05/sri-kodandaramaswamy.html' role='menuitem' tabindex='-1' title='Share to other apps'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Other Apps</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-timestamp'>
+-
+<meta content='https://narayanabillgates.blogspot.com/2018/05/sri-kodandaramaswamy.html'/>
+<a class='timestamp-link' href='https://narayanabillgates.blogspot.com/2018/05/sri-kodandaramaswamy.html' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2018-05-26T10:51:00-07:00' title='2018-05-26T10:51:00-07:00'>
+May 26, 2018
+</time>
+</a>
+</span>
+</div>
+</div>
+<div class='container post-body entry-content' id='post-snippet-1169963371825801485'>
+<div class='snippet-thumbnail'>
+<img alt='Image' sizes='(max-width: 800px) 20vw, 128px' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTCbGxpfD71FAtmE8hyqt1wnYqUQ4Cs4mL3lPe0VtJGYpdGm8u0C9BV1-HBzTgduIl4Xl5CB2uutuCudgoMaPG-dUyk2Hr8_jeXrRk1nObKGLj2K5Fgh0JdiNVdFowdfLK406ASPd77hw4Dm4rIYt_HC0j4Vj7H5ngQ7-cmFOwb7Y3Yl000PlERNDG2A/w93-h78/IMG20200721081329.jpg' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTCbGxpfD71FAtmE8hyqt1wnYqUQ4Cs4mL3lPe0VtJGYpdGm8u0C9BV1-HBzTgduIl4Xl5CB2uutuCudgoMaPG-dUyk2Hr8_jeXrRk1nObKGLj2K5Fgh0JdiNVdFowdfLK406ASPd77hw4Dm4rIYt_HC0j4Vj7H5ngQ7-cmFOwb7Y3Yl000PlERNDG2A/w32-h32-p-k-no-nu/IMG20200721081329.jpg 32w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTCbGxpfD71FAtmE8hyqt1wnYqUQ4Cs4mL3lPe0VtJGYpdGm8u0C9BV1-HBzTgduIl4Xl5CB2uutuCudgoMaPG-dUyk2Hr8_jeXrRk1nObKGLj2K5Fgh0JdiNVdFowdfLK406ASPd77hw4Dm4rIYt_HC0j4Vj7H5ngQ7-cmFOwb7Y3Yl000PlERNDG2A/w64-h64-p-k-no-nu/IMG20200721081329.jpg 64w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTCbGxpfD71FAtmE8hyqt1wnYqUQ4Cs4mL3lPe0VtJGYpdGm8u0C9BV1-HBzTgduIl4Xl5CB2uutuCudgoMaPG-dUyk2Hr8_jeXrRk1nObKGLj2K5Fgh0JdiNVdFowdfLK406ASPd77hw4Dm4rIYt_HC0j4Vj7H5ngQ7-cmFOwb7Y3Yl000PlERNDG2A/w128-h128-p-k-no-nu/IMG20200721081329.jpg 128w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTCbGxpfD71FAtmE8hyqt1wnYqUQ4Cs4mL3lPe0VtJGYpdGm8u0C9BV1-HBzTgduIl4Xl5CB2uutuCudgoMaPG-dUyk2Hr8_jeXrRk1nObKGLj2K5Fgh0JdiNVdFowdfLK406ASPd77hw4Dm4rIYt_HC0j4Vj7H5ngQ7-cmFOwb7Y3Yl000PlERNDG2A/w256-h256-p-k-no-nu/IMG20200721081329.jpg 256w'/>
+</div>
+<div class='post-snippet snippet-container r-snippet-container'>
+<div class='snippet-item r-snippetized'>
+  &#160; &#160; &#160; &#160; &#160; &#160;...-...-... ర&#3142;డ&#3149;లక&#3137;&#3074;ట ...-...-...  శ&#3149;ర&#3136; క&#3147;ద&#3074;డ ర&#3134;మస&#3149;వ&#3134;మ&#3135; ద&#3143;వస&#3149;థ&#3134;న0...   &#160;&#160; Happy movements with saadineni &#160;Chairman&#160; &#160; &#160; &#160; &#160; &#160;-Saadineni.AppaRao   &#160; &#160;Vice-Chairman&#160; -Parsa.Haribabu   &#160; &#160; &#160; &#160; &#160; &#160; Commitee member&#39;s :- &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Naarasaani. Muttaiah   &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Polampally.Ganesh  &#160; &#160; &#160; &#160; &#160; &#160; &#160;  &#160; &#160;&#160;  &#160; &#160; &#160; &#160; &#160;     &#160; &#160; &#160;   &#160; &#160;&#160;  
+</div>
+<a class='snippet-fade r-snippet-fade hidden' href='https://narayanabillgates.blogspot.com/2018/05/sri-kodandaramaswamy.html'></a>
+</div>
+</div>
+<div class='post-bottom'>
+<div class='post-footer float-container'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='byline post-comment-link container'>
+<a class='comment-link' href='https://narayanabillgates.blogspot.com/2018/05/sri-kodandaramaswamy.html#comments' onclick=''>
+<svg class='svg-icon-24 touch-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_mode_comment_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='num_comments'>
+3 comments
+</span>
+</a>
+</span>
+<span class='byline post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post/9207076113787303084/1169963371825801485' title='Email Post'>
+<svg class='svg-icon-24 touch-icon sharing-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+</div>
+</div>
+<div class='jump-link flat-button ripple'>
+<a href='https://narayanabillgates.blogspot.com/2018/05/sri-kodandaramaswamy.html' title='శ్రీ కోదండరామస్వామి  దేవస్థానం(రెడ్లకుంట)'>
+Read more
+</a>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class='post-outer-container'>
+<div class='post-outer'>
+<div class='post'>
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://narayanabillgates.blogspot.com/2018/05/redlakunta.html"
+  },
+  "headline": "&#9971;Redlakunta&#9971;","description": "&#160; &#160; Jai hanuman   &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;    Happy movements with saadineni       Raama bhajana(pothuloori.suresh)      &#160; &#160;   &#160; &#160; &#160; &#160; Sri  ...","datePublished": "2018-05-18T02:08:00-07:00",
+  "dateModified": "2024-01-25T16:13:43-08:00","image": {
+    "@type": "ImageObject","url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/w1200-h630-p-k-no-nu/IMG_20180422_133348.jpg",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "Narayana with Siri"
+  }
+}</script>
+<a name='6151946915210785068'></a>
+<h3 class='post-title entry-title'>
+<a href='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html'>&#9971;Redlakunta&#9971;</a>
+</h3>
+<div class='post-share-buttons post-share-buttons-top'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-Blog1-byline-6151946915210785068' class='sharing' data-title='⛳Redlakunta⛳'>
+<button aria-controls='sharing-popup-Blog1-byline-6151946915210785068' aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-Blog1-byline-6151946915210785068' role='button'>
+<div class='flat-icon-button ripple'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_share_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Share' class='share-buttons hidden' id='sharing-popup-Blog1-byline-6151946915210785068' role='menu'>
+<li>
+<span aria-label='Get link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=6151946915210785068&target=' data-url='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' role='menuitem' tabindex='-1' title='Get link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Get link</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=6151946915210785068&target=facebook' data-url='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' role='menuitem' tabindex='-1' title='Share to Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to X' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=6151946915210785068&target=twitter' data-url='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' role='menuitem' tabindex='-1' title='Share to X'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>X</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=6151946915210785068&target=pinterest' data-url='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' role='menuitem' tabindex='-1' title='Share to Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=6151946915210785068&target=email' data-url='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Share to other apps' class='sharing-platform-button sharing-element-other' data-url='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' role='menuitem' tabindex='-1' title='Share to other apps'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Other Apps</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-timestamp'>
+-
+<meta content='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html'/>
+<a class='timestamp-link' href='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2018-05-18T02:08:00-07:00' title='2018-05-18T02:08:00-07:00'>
+May 18, 2018
+</time>
+</a>
+</span>
+</div>
+</div>
+<div class='container post-body entry-content' id='post-snippet-6151946915210785068'>
+<div class='snippet-thumbnail'>
+<img alt='Image' sizes='(max-width: 800px) 20vw, 128px' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/s640/IMG_20180422_133348.jpg' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/w32-h32-p-k-no-nu/IMG_20180422_133348.jpg 32w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/w64-h64-p-k-no-nu/IMG_20180422_133348.jpg 64w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/w128-h128-p-k-no-nu/IMG_20180422_133348.jpg 128w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/w256-h256-p-k-no-nu/IMG_20180422_133348.jpg 256w'/>
+</div>
+<div class='post-snippet snippet-container r-snippet-container'>
+<div class='snippet-item r-snippetized'>
+ &#160; &#160; Jai hanuman   &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;    Happy movements with saadineni       Raama bhajana(pothuloori.suresh)      &#160; &#160;   &#160; &#160; &#160; &#160; Sri     anjaneyam         &#160; &#160; &#160; Sri        anjaneyam     &#160;    &#160; &#160; &#160; Sri        anjaneyam       &#160; &#160; &#160; Sri     anjaneyam        Seeta-Ramulavaaru            &#160; &#160; &#160; &#160; &#160; &#160;&#160;        &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;                   
+</div>
+<a class='snippet-fade r-snippet-fade hidden' href='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html'></a>
+</div>
+</div>
+<div class='post-bottom'>
+<div class='post-footer float-container'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='byline post-comment-link container'>
+<a class='comment-link' href='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html#comments' onclick=''>
+<svg class='svg-icon-24 touch-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_mode_comment_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='num_comments'>
+1 comment
+</span>
+</a>
+</span>
+<span class='byline post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post/9207076113787303084/6151946915210785068' title='Email Post'>
+<svg class='svg-icon-24 touch-icon sharing-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+</div>
+</div>
+<div class='jump-link flat-button ripple'>
+<a href='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' title='⛳Redlakunta⛳'>
+Read more
+</a>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class='blog-pager container' id='blog-pager'>
+</div>
+</div>
+</div>
+</main>
+</div>
+<footer class='footer section' id='footer' name='Footer'><div class='widget Attribution' data-version='2' id='Attribution1'>
+<div class='widget-content'>
+<div class='blogger'>
+<a href='https://www.blogger.com' rel='nofollow'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_post_blogger_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+Powered by Blogger
+</a>
+</div>
+<div class='image-attribution'>
+Theme images by <a href="http://www.offset.com/photos/291882">Galeries</a>
+</div>
+<div class='copyright'>I HAVE A ONE GOOD AND POLITE SOULMATE .SHES ALWAYS KEPT IN MY HEART ...PLEASE REVIEW MY ADD IN GOOD</div>
+</div>
+</div></footer>
+</div>
+</div>
+</div>
+<aside class='sidebar-container container sidebar-invisible' role='complementary'>
+<div class='navigation'>
+<button class='svg-icon-24-button flat-icon-button ripple sidebar-back'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_arrow_back_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</button>
+</div>
+<div class='sidebar_top_wrapper'>
+<div class='sidebar_top section' id='sidebar_top' name='Sidebar (Top)'><div class='widget Profile' data-version='2' id='Profile1'>
+<div class='wrapper solo'>
+<div class='widget-content individual'>
+<a href='https://www.blogger.com/profile/12725705435160336268' rel='nofollow'>
+<img alt='My photo' class='profile-img' height='64' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmbq-w6TWZ5oRoI_4doMECH4g3To5zK3_9oeU1catIdeinELtfRIFAWnaap5UoeZGw7j_rYvmYTC8Fm9XeR8bRBmw5m_kGPtEBd332hw3NV6zki1xqyb6sWXsW0OGAcSDXKUL9RpHfIHsj1m4LnwHd63tCPRioDDH6ylSnXb_7byJjnVk/s1600/1000000591.jpg' width='64'/>
+</a>
+<div class='profile-info'>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-link g-profile' href='https://www.blogger.com/profile/12725705435160336268' rel='author nofollow'>
+Narayana with Siri
+</a>
+</dt>
+</dl>
+<a class='profile-link visit-profile pill-button' href='https://www.blogger.com/profile/12725705435160336268' rel='author'>
+Visit profile
+</a>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+<div class='sidebar_bottom section' id='sidebar_bottom' name='Sidebar (Bottom)'><div class='widget BlogArchive' data-version='2' id='BlogArchive1'>
+<details class='collapsible extendable'>
+<summary>
+<div class='collapsible-title'>
+<h3 class='title'>
+Archive
+</h3>
+<svg class='svg-icon-24 chevron-down'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_expand_more_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<svg class='svg-icon-24 chevron-up'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_expand_less_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</summary>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<div class='first-items'>
+<ul class='flat'>
+<li class='archivedate'>
+<a href='https://narayanabillgates.blogspot.com/2025/08/'>August 2025<span class='post-count'>1</span></a>
+</li>
+<li class='archivedate'>
+<a href='https://narayanabillgates.blogspot.com/2024/01/'>January 2024<span class='post-count'>3</span></a>
+</li>
+<li class='archivedate'>
+<a href='https://narayanabillgates.blogspot.com/2023/01/'>January 2023<span class='post-count'>1</span></a>
+</li>
+<li class='archivedate'>
+<a href='https://narayanabillgates.blogspot.com/2018/05/'>May 2018<span class='post-count'>2</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</details>
+</div><div class='widget Label' data-version='2' id='Label1'>
+<details class='collapsible extendable'>
+<summary>
+<div class='collapsible-title'>
+<h3 class='title'>
+Labels
+</h3>
+<svg class='svg-icon-24 chevron-down'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_expand_more_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<svg class='svg-icon-24 chevron-up'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_expand_less_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</summary>
+<div class='widget-content list-label-widget-content'>
+<div class='first-items'>
+<ul>
+<li><a class='label-name' href='https://narayanabillgates.blogspot.com/search/label/%E0%B0%B8%E0%B1%8D%E0%B0%A8%E0%B1%87%E0%B0%B9%E0%B0%AE%E0%B1%87%E0%B0%B0%E0%B0%BE%20%E0%B0%9C%E0%B1%80%E0%B0%B5%E0%B0%BF%E0%B0%A4%E0%B0%82'>స&#3149;న&#3143;హమ&#3143;ర&#3134; జ&#3136;వ&#3135;త&#3074;</a></li>
+</ul>
+</div>
+</div>
+</details>
+</div><div class='widget ReportAbuse' data-version='2' id='ReportAbuse1'>
+<h3 class='title'>
+<a class='report_abuse' href='https://www.blogger.com/go/report-abuse' rel='noopener nofollow' target='_blank'>
+Report Abuse
+</a>
+</h3>
+</div>
+</div>
+</aside>
+<script type="text/javascript" src="https://resources.blogblog.com/blogblog/data/res/1431921148-indie_compiled.js" async="true"></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2422103421-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY5HvCVkt-tsn3np0x45lOkDFcs8-Q:1755581330226';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d9207076113787303084','//narayanabillgates.blogspot.com/','9207076113787303084');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '9207076113787303084', 'title': 'NARAYANA\x27s', 'url': 'https://narayanabillgates.blogspot.com/', 'canonicalUrl': 'https://narayanabillgates.blogspot.com/', 'homepageUrl': 'https://narayanabillgates.blogspot.com/', 'searchUrl': 'https://narayanabillgates.blogspot.com/search', 'canonicalHomepageUrl': 'https://narayanabillgates.blogspot.com/', 'blogspotFaviconUrl': 'https://narayanabillgates.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22NARAYANA\x26#39;s - Atom\x22 href\x3d\x22https://narayanabillgates.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22NARAYANA\x26#39;s - RSS\x22 href\x3d\x22https://narayanabillgates.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22NARAYANA\x26#39;s - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/9207076113787303084/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/12725705435160336268\x22 /\x3e\n', 'adsenseClientId': 'ca-pub-2006977464686081', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/df31f371d64631dc', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'X', 'key': 'twitter', 'shareMessage': 'Share to X', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'NARAYANA\x27s', 'metaDescription': ''}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'Contempo', 'localizedName': 'Contempo', 'isResponsive': true, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'indie_baby_blue', 'variantId': 'indie_baby_blue'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'NARAYANA\x27s', 'description': '', 'url': 'https://narayanabillgates.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}, {'name': 'widgets', 'data': [{'title': '\u0c30\u0c48\u0c24\u0c47 \u0c30\u0c3e\u0c1c\u0c41', 'type': 'BlogSearch', 'sectionId': 'search_top', 'id': 'BlogSearch1'}, {'title': 'NARAYANA\x27s (Header)', 'type': 'Header', 'sectionId': 'header', 'id': 'Header1'}, {'title': '', 'type': 'PageList', 'sectionId': 'page_list_top', 'id': 'PageList1'}, {'title': '', 'type': 'FeaturedPost', 'sectionId': 'page_body', 'id': 'FeaturedPost1', 'postId': '700779703824764578'}, {'title': 'Blog Posts', 'type': 'Blog', 'sectionId': 'page_body', 'id': 'Blog1', 'posts': [{'id': '700779703824764578', 'title': 'Happy independence day to all', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w630-h330/15th-august.jpg', 'showInlineAds': false}, {'id': '2109844121108475820', 'title': '\ud83c\uddee\ud83c\uddf3 Happy Republic Day..\ud83c\uddee\ud83c\uddf3narayana\ud83c\uddee\ud83c\uddf3', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2SHjSD7hHOHNo4582jbvrEn7tQXiC99jlBrWayp-280T_xe7t7IGVCgNXtoIPGyURbbhRct8bdcwfPXyYQLjQYG7J-yx4HDr65HFP8XKYPq2LnMGXoGq7YmLZa407FGPx2jT_99f49UZ6qDPRPdjJh5AcKAJy3Ny_Y2MWt_xtf8eO6353pItersFR4zJJ/s320/IMG-20240126-WA0000.jpg', 'showInlineAds': false}, {'id': '5997629651149865552', 'title': '\u26f3\u0c36\u0c4d\u0c30\u0c40 \u0c30\u0c3e\u0c2e #\u0c05\u0c2f\u0c4b\u0c27\u0c4d\u0c2f\u26f3', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_LcVP1rO9gxdWqhN6x9UtafuKtNYkHyKnaKApXNtHXut7AqQr6-VtB_0J3cBbULS7hFcHC5MWfVLQD_bf6iGk0rNU6vN7DEtNtslmnh5z_ahHpnPKXYL5cB2mXudzY7ouYMWOIrQw_lR_q4fvzWGCun5stE0TbYzAGujmlyxQ3dX9FvQNVPeBz60depdA/w145-h313/IMG20240121090504.jpg', 'showInlineAds': false}, {'id': '2881112918803578590', 'title': '\u26f3\u0c36\u0c4d\u0c30\u0c40 \u0c30\u0c3e\u0c2e \u0c2eo\u0c26\u0c3f\u0c30\u0c02 #Ayodhya\u26f3', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb6Xyl-uYWQ8wz9pEzmxn8I0scot_j0TMzWdMbyXDEHNd5NbmsKJkQd6GjquTLHXr1XluGzRY239xe7My6EdlrTpZwW6Qqiw2vYWbkHPRHrM19dWID23JhBzq62xWq5YP39EHKGNutSp75W9AeudZhTcIcjqpe33txsoJENaXFOxQlj8oRFYJhqKHm1oR/w124-h275/IMG20240115093220.jpg', 'showInlineAds': false}, {'id': '4447407101830625307', 'title': '\u0c17\u0c23\u0c24\u0c02\u0c24\u0c4d\u0c30 \u0c26\u0c3f\u0c28\u0c4b\u0c24\u0c4d\u0c38\u0c35 \u0c36\u0c41\u0c2d\u0c3e\u0c15\u0c3e\u0c02\u0c15\u0c4d\u0c37\u0c32\u0c41 ..............ur\x27s NSP............', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlG2AB7t-3HzlXSoFdMIBnxsuko8nPCTMHLzYKgGy0Ermt-RwxCrY2dpBzvKJsKbUC7WS-s_yYdxlr7wlkdDCgNAHdt52--GJwrbQ5W3N_cDpsiBmqA7U00MUN38jShzrKY1u_-5-AtqzV_jhDTiZ56ZELykgjzbfn7Bi0t-6_amA2qKrkuwWUoL5EA/w628-h476/9lfh1mu8_republic-day-wishes_625x300_26_January_19.webp', 'showInlineAds': false}, {'id': '1169963371825801485', 'title': '\u0c36\u0c4d\u0c30\u0c40 \u0c15\u0c4b\u0c26\u0c02\u0c21\u0c30\u0c3e\u0c2e\u0c38\u0c4d\u0c35\u0c3e\u0c2e\u0c3f  \u0c26\u0c47\u0c35\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c02(\u0c30\u0c46\u0c21\u0c4d\u0c32\u0c15\u0c41\u0c02\u0c1f)', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTCbGxpfD71FAtmE8hyqt1wnYqUQ4Cs4mL3lPe0VtJGYpdGm8u0C9BV1-HBzTgduIl4Xl5CB2uutuCudgoMaPG-dUyk2Hr8_jeXrRk1nObKGLj2K5Fgh0JdiNVdFowdfLK406ASPd77hw4Dm4rIYt_HC0j4Vj7H5ngQ7-cmFOwb7Y3Yl000PlERNDG2A/w93-h78/IMG20200721081329.jpg', 'showInlineAds': false}, {'id': '6151946915210785068', 'title': '\u26f3Redlakunta\u26f3', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/s640/IMG_20180422_133348.jpg', 'showInlineAds': false}], 'headerByline': {'regionName': 'header1', 'items': [{'name': 'share', 'label': ''}, {'name': 'timestamp', 'label': '-'}]}, 'footerBylines': [{'regionName': 'footer1', 'items': [{'name': 'comments', 'label': 'comments'}, {'name': 'icons', 'label': ''}]}, {'regionName': 'footer2', 'items': [{'name': 'labels', 'label': ''}]}, {'regionName': 'footer3', 'items': [{'name': 'location', 'label': 'Location:'}]}], 'allBylineItems': [{'name': 'share', 'label': ''}, {'name': 'timestamp', 'label': '-'}, {'name': 'comments', 'label': 'comments'}, {'name': 'icons', 'label': ''}, {'name': 'labels', 'label': ''}, {'name': 'location', 'label': 'Location:'}]}, {'title': '', 'type': 'PopularPosts', 'sectionId': 'page_body', 'id': 'PopularPosts1', 'posts': [{'title': '\u26f3Redlakunta\u26f3', 'id': 6151946915210785068}, {'title': '\u26f3\u0c36\u0c4d\u0c30\u0c40 \u0c30\u0c3e\u0c2e \u0c2eo\u0c26\u0c3f\u0c30\u0c02 #Ayodhya\u26f3', 'id': 2881112918803578590}, {'title': '\u0c36\u0c4d\u0c30\u0c40 \u0c15\u0c4b\u0c26\u0c02\u0c21\u0c30\u0c3e\u0c2e\u0c38\u0c4d\u0c35\u0c3e\u0c2e\u0c3f  \u0c26\u0c47\u0c35\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c02(\u0c30\u0c46\u0c21\u0c4d\u0c32\u0c15\u0c41\u0c02\u0c1f)', 'id': 1169963371825801485}]}, {'type': 'Attribution', 'sectionId': 'footer', 'id': 'Attribution1'}, {'title': 'narayana Parsa', 'type': 'Profile', 'sectionId': 'sidebar_top', 'id': 'Profile1'}, {'type': 'BlogArchive', 'sectionId': 'sidebar_bottom', 'id': 'BlogArchive1'}, {'title': 'Labels', 'type': 'Label', 'sectionId': 'sidebar_bottom', 'id': 'Label1'}, {'title': '', 'type': 'ReportAbuse', 'sectionId': 'sidebar_bottom', 'id': 'ReportAbuse1'}]}]);
+_WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'search_top', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'page_list_top', document.getElementById('PageList1'), {'title': '', 'links': [{'isCurrentPage': true, 'href': 'https://narayanabillgates.blogspot.com/', 'title': 'Home'}], 'mobile': false, 'showPlaceholder': true, 'hasCurrentPage': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FeaturedPostView', new _WidgetInfo('FeaturedPost1', 'page_body', document.getElementById('FeaturedPost1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'page_body', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/497930099-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/123180807-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'page_body', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer', document.getElementById('Attribution1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar_top', document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar_bottom', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar_bottom', document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ReportAbuseView', new _WidgetInfo('ReportAbuse1', 'sidebar_bottom', document.getElementById('ReportAbuse1'), {}, 'displayModeFull'));
 </script>
-<script nonce="hKGPlTP2">now_inl=(function(){var p=window.performance;return p&&p.now&&p.timing&&p.timing.navigationStart?function(){return p.now()+p.timing.navigationStart}:function(){return new Date().getTime()};})(); window.__bigPipeFR=now_inl();</script>
-<link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/yh/l/0,cross/ze2gDvq5tcz.css" as="style" crossorigin="anonymous" />
-<link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/yq/l/0,cross/DIObEBcURys.css" as="style" crossorigin="anonymous" />
-<link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/y1/l/0,cross/2nrv04yYtCI.css" as="style" crossorigin="anonymous" />
-<link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/yu/l/0,cross/aRO1EK2B4Sr.css" as="style" crossorigin="anonymous" />
-<link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v4/yw/r/X8Jz-x4lcW_.js" as="script" crossorigin="anonymous" nonce="hKGPlTP2" />
-<link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v4ij9m4/yC/l/en_GB/rNoIVUQzLlZ.js" as="script" crossorigin="anonymous" nonce="hKGPlTP2" />
-<link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/y0/l/0,cross/TN5Q1Jw2bus.css" as="style" crossorigin="anonymous" />
-<link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/yH/l/0,cross/0Ead7x7p9Q-.css" as="style" crossorigin="anonymous" />
-<script nonce="hKGPlTP2">window.__bigPipeCtor=now_inl();requireLazy(["BigPipe"],function(BigPipe){define("__bigPipe",[],window.bigPipe=new BigPipe({"forceFinish":true,"config":{"flush_pagelets_asap":true,"dispatch_pagelet_replayable_actions":false}}));});</script>
-<script nonce="hKGPlTP2">(function(){var n=now_inl();requireLazy(["__bigPipe"],function(bigPipe){bigPipe.beforePageletArrive("first_response",n);})})();</script>
-<script nonce="hKGPlTP2">requireLazy(["__bigPipe"],(function(bigPipe){bigPipe.onPageletArrive({displayResources:["n+36Djy","xng30X1","hNxPog9","XDd2yj5","2XRCDQ+","QGhzutl","1IX/78B","z8TeFHS","P/mr5VE"],id:"first_response",phase:0,last_in_phase:true,tti_phase:0,all_phases:[63],hsrp:{hblp:{consistency:{rev:1021490555}}},allResources:["QGhzutl","KZEmWCb","2XRCDQ+","A0f6RPb","7u3BaZn","n+36Djy","xng30X1","hNxPog9","XDd2yj5","1IX/78B","z8TeFHS","7v2Q3sb","Y7CydAx","z3hBw8h","tADNV/7","8Rq5kp2","Uh9zPeg","k3EONbs","zLQaNdg","T9BkhW+","JuRSzyN","I+GHswV","zPYlTyl","CFiArmq","ZDu7I1t","WrBY+qn","TJVOl6T","WzW470F","PLHBusX","9MP/k5y","P/mr5VE","S3gsgXq","BkiawEP","Un9XYQ4","FDkw78n","p+1OXu8"]});}));</script>
-<script nonce="hKGPlTP2">requireLazy(["__bigPipe"],function(bigPipe){bigPipe.setPageID("7488660649809160302")});</script><script nonce="hKGPlTP2">(function(){var n=now_inl();requireLazy(["__bigPipe"],function(bigPipe){bigPipe.beforePageletArrive("last_response",n);})})();</script>
-<script nonce="hKGPlTP2">requireLazy(["__bigPipe"],(function(bigPipe){bigPipe.onPageletArrive({displayResources:["BkiawEP"],id:"last_response",phase:63,last_in_phase:true,the_end:true,jsmods:{define:[["cr:6016",["NavigationMetricsWWW"],{__rc:["NavigationMetricsWWW",null]},-1],["cr:7383",["BanzaiWWW"],{__rc:["BanzaiWWW",null]},-1],["cr:5662",["Event"],{__rc:["Event",null]},-1],["cr:4425",[],{__rc:[null,null]},-1],["cr:686",[],{__rc:[null,null]},-1],["cr:1984081",[],{__rc:[null,null]},-1],["cr:3376",[],{__rc:[null,null]},-1],["cr:1083116",["XAsyncRequest"],{__rc:["XAsyncRequest",null]},-1],["cr:1083117",[],{__rc:[null,null]},-1],["cr:734",[],{__rc:[null,null]},-1],["cr:755",["warningWWW"],{__rc:["warningWWW",null]},-1],["cr:1293",["ReactDOM.classic"],{__rc:["ReactDOM.classic",null]},-1],["cr:7162",["ReactDOMCompatibilityLayer"],{__rc:["ReactDOMCompatibilityLayer",null]},-1],["cr:15957",[],{__rc:[null,null]},-1],["cr:971473",["LayerHideOnTransition"],{__rc:["LayerHideOnTransition",null]},-1],["cr:1108857",[],{__rc:[null,null]},-1],["cr:1294158",["React.classic"],{__rc:["React.classic",null]},-1],["cr:1294159",["ReactDOM.classic"],{__rc:["ReactDOM.classic",null]},-1],["TimeSliceInteractionSV",[],{on_demand_reference_counting:true,on_demand_profiling_counters:true,default_rate:1000,lite_default_rate:100,interaction_to_lite_coinflip:{ADS_INTERFACES_INTERACTION:0,ads_perf_scenario:0,ads_wait_time:0,Event:1},interaction_to_coinflip:{ADS_INTERFACES_INTERACTION:1,ads_perf_scenario:1,ads_wait_time:1,Event:100},enable_heartbeat:false,maxBlockMergeDuration:0,maxBlockMergeDistance:0,enable_banzai_stream:true,user_timing_coinflip:50,banzai_stream_coinflip:0,compression_enabled:true,ref_counting_fix:false,ref_counting_cont_fix:false,also_record_new_timeslice_format:false,force_async_request_tracing_on:false},2609],["InstagramUserAgent",[],{is_chrome:true,is_edge:false,is_edge_chromium_based:false,is_edge_legacy:false,is_firefox:false,is_ig_carbon:false,is_ig_lite:false,is_ig_webview:false,is_barcelona_webview:false,is_igtv_webview:false,is_in_app_browser:false,is_ios:false,is_android:false,is_windows_nt:true,is_ipad:false,is_macos:false,is_mobile:false,is_mobile_safari:false,is_oculus_browser:false,is_opera:false,is_safari:false,is_supported_browser:true,is_twitter_webview:false,is_uc_browser:false,is_vapid_eligible:true,is_webview:false,is_windows_pwa:false,is_igvr:false,user_agent:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"},6088],["PolarisSiteData",[],{country_code:null,device_id:"",machine_id:"",send_device_id_header:false,e2e_config:null,use_server_machine_id:false},7369],["IntlCurrentLocale",[],{code:"en_GB"},5954],["BDSignalCollectionData",[],{sc:"{\"t\":1659080345,\"c\":[[30000,838801],[30001,838801],[30002,838801],[30003,838801],[30004,838801],[30005,838801],[30006,573585],[30007,838801],[30008,838801],[30012,838801],[30013,838801],[30015,806033],[30018,806033],[30021,540823],[30022,540817],[30040,806033],[30093,806033],[30094,806033],[30095,806033],[30101,541591],[30102,541591],[30103,541591],[30104,541591],[30106,806039],[30107,806039],[38000,541427],[38001,806643]]}",fds:60,fda:60,i:60,sbs:1,dbs:100,bbs:100,hbi:60,rt:262144,hbcbc:2,hbvbc:0,hbbi:30,sid:-1,hbv:"937527150891473928"},5239],["cr:1642797",["BanzaiBase"],{__rc:["BanzaiBase",null]},-1],["cr:1042",["XAsyncRequestWWW"],{__rc:["XAsyncRequestWWW",null]},-1],["cr:2682",["warningBlueish"],{__rc:["warningBlueish",null]},-1],["cr:11202",[],{__rc:[null,null]},-1],["cr:1105154",[],{__rc:[null,null]},-1],["cr:5277",["ReactDOM.classic.prod-or-profiling"],{__rc:["ReactDOM.classic.prod-or-profiling",null]},-1],["cr:13683",[],{__rc:[null,null]},-1],["cr:1292365",["React-prod.classic"],{__rc:["React-prod.classic",null]},-1],["cr:6114",["DOM"],{__rc:["DOM",null]},-1],["cr:917439",["PageTransitionsBlue"],{__rc:["PageTransitionsBlue",null]},-1],["cr:1172",["WebSession"],{__rc:["WebSession",null]},-1],["cr:2037",["BanzaiAdapter"],{__rc:["BanzaiAdapter",null]},-1],["cr:3724",["SetIdleTimeoutAcrossTransitions"],{__rc:["SetIdleTimeoutAcrossTransitions",null]},-1],["cr:9985",["performanceAbsoluteNow"],{__rc:["performanceAbsoluteNow",null]},-1],["cr:9986",["CurrentUser"],{__rc:["CurrentUser",null]},-1],["cr:9987",["NavigationMetrics"],{__rc:["NavigationMetrics",null]},-1],["cr:9988",["Visibility"],{__rc:["Visibility",null]},-1],["cr:2683",["warningBlue"],{__rc:["warningBlue",null]},-1],["cr:5278",["ReactDOM-prod.classic"],{__rc:["ReactDOM-prod.classic",null]},-1],["cr:5866",["BanzaiAdapterWWW"],{__rc:["BanzaiAdapterWWW",null]},-1],["cr:7384",["cancelIdleCallbackWWW"],{__rc:["cancelIdleCallbackWWW",null]},-1],["cr:3695",[],{__rc:[null,null]},-1],["cr:983844",[],{__rc:[null,null]},-1],["cr:5695",["EventListenerWWW"],{__rc:["EventListenerWWW",null]},-1],["cr:8909",["ReactFiberErrorDialogWWW"],{__rc:["ReactFiberErrorDialogWWW",null]},-1],["CurrentEnvironment",[],{facebookdotcom:true,messengerdotcom:false,workplacedotcom:false,instagramdotcom:false,workdotmetadotcom:false,horizondotmetadotcom:false},827],["PageTransitionsConfig",[],{reloadOnBootloadError:true},1067],["CometAltpayJsSdkIframeAllowedDomains",[],{allowed_domains:["https://live.adyen.com","https://integration-facebook.payu.in","https://facebook.payulatam.com","https://secure.payu.com","https://facebook.dlocal.com","https://buy2.boku.com"]},4920],["CoreWarningGK",[],{forceWarning:false},725],["cr:692209",["cancelIdleCallbackBlue"],{__rc:["cancelIdleCallbackBlue",null]},-1],["cr:1353359",["EventListenerImplForBlue"],{__rc:["EventListenerImplForBlue",null]},-1],["BanzaiConfig",[],{MAX_SIZE:10000,MAX_WAIT:150000,MIN_WAIT:null,RESTORE_WAIT:150000,blacklist:["time_spent"],disabled:false,gks:{boosted_pagelikes:true,platform_oauth_client_events:true,sticker_search_ranking:true},known_routes:["artillery_javascript_actions","artillery_javascript_trace","artillery_logger_data","logger","falco","gk2_exposure","js_error_logging","loom_trace","marauder","perfx_custom_logger_endpoint","qex","require_cond_exposure_logging","metaconfig_exposure"],should_drop_unknown_routes:true,should_log_unknown_routes:false},7],["cr:6943",["EventListenerImplForCacheStorage"],{__rc:["EventListenerImplForCacheStorage",null]},-1],["cr:1634616",["UserActivityBlue"],{__rc:["UserActivityBlue",null]},-1],["cr:844180",["TimeSpentImmediateActiveSecondsLoggerBlue"],{__rc:["TimeSpentImmediateActiveSecondsLoggerBlue",null]},-1],["cr:1187159",["BlueCompatBroker"],{__rc:["BlueCompatBroker",null]},-1],["WebDevicePerfInfoData",[],{needsFullUpdate:true,needsPartialUpdate:false,shouldLogResourcePerf:false},3977],["WebStorageMonsterLoggingURI",[],{uri:"/ajax/webstorage/process_keys/?state=1"},3032],["TimeSpentConfig",[],{delay:1000,timeout:64,"0_delay":0,"0_timeout":8},142],["cr:710",[],{__rc:[null,null]},-1],["ImmediateActiveSecondsConfig",[],{sampling_rate:0},423]],require:[["BDClientSignalCollectionTrigger","startSignalCollection",[],[{sc:"{\"t\":1659080345,\"c\":[[30000,838801],[30001,838801],[30002,838801],[30003,838801],[30004,838801],[30005,838801],[30006,573585],[30007,838801],[30008,838801],[30012,838801],[30013,838801],[30015,806033],[30018,806033],[30021,540823],[30022,540817],[30040,806033],[30093,806033],[30094,806033],[30095,806033],[30101,541591],[30102,541591],[30103,541591],[30104,541591],[30106,806039],[30107,806039],[38000,541427],[38001,806643]]}",fds:60,fda:60,i:60,sbs:1,dbs:100,bbs:100,hbi:60,rt:262144,hbcbc:2,hbvbc:0,hbbi:30,sid:-1,hbv:"937527150891473928"}]],["NavigationMetrics","setPage",[],[{page:"XIndexReduxController",page_type:"normal",page_uri:"https://www.facebook.com/",serverLID:"7488660649809160302"}]],["FalcoLoggerTransports","attach",[],[]],["Chromedome","start",[],[{}]],["DimensionTracking"],["NavigationClickPointHandler"],["ServiceWorkerURLCleaner","removeRedirectID",[],[]],["WebDevicePerfInfoLogging","doLog",[],[]],["WebStorageMonster","schedule",[],[]],["Artillery","disable",[],[]],["ScriptPathLogger","startLogging",[],[]],["TimeSpentBitArrayLogger","init",[],[]],["ClickRefLogger"],["TransportSelectingClientSingletonConditional"],["RequireDeferredReference","unblock",[],[["TransportSelectingClientSingletonConditional"],"sd"]],["RequireDeferredReference","unblock",[],[["TransportSelectingClientSingletonConditional"],"css"]]]},hsrp:{hsdp:{clpData:{"1871697":{r:1,s:1},"1829319":{r:1},"1829320":{r:1},"1843988":{r:1}}},hblp:{consistency:{rev:1021490555}}},allResources:["JuRSzyN","2XRCDQ+","QGhzutl","zPYlTyl","p+1OXu8","PLHBusX","BkiawEP"]});}));</script></body></html>
+</body>
+</html>
