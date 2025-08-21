@@ -3,7 +3,7 @@
 <html dir='ltr' lang='en'>
 <head>
 <meta content='width=device-width, initial-scale=1' name='viewport'/>
-<title>NARAYANA&#39;s</title>
+<title>nari-siri</title>
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
 <!-- Chrome, Firefox OS and Opera -->
 <meta content='#58c6d5' name='theme-color'/>
