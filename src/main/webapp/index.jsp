@@ -1,9 +1,9 @@
-new code addedd test narayana
+
 <!DOCTYPE html>
 <html dir='ltr' lang='en'>
 <head>
 <meta content='width=device-width, initial-scale=1' name='viewport'/>
-<title>narii <b>as</b> siri</title>
+<title>nari as siri</title>
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
 <!-- Chrome, Firefox OS and Opera -->
 <meta content='#58c6d5' name='theme-color'/>
@@ -12,22 +12,22 @@ new code addedd test narayana
 <meta content='blogger' name='generator'/>
 <link href='https://narayanabillgates.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
 <link href='https://narayanabillgates.blogspot.com/' rel='canonical'/>
-<link rel="alternate" type="application/atom+xml" title="NARAYANA&#39;s - Atom" href="https://narayanabillgates.blogspot.com/feeds/posts/default" />
-<link rel="alternate" type="application/rss+xml" title="NARAYANA&#39;s - RSS" href="https://narayanabillgates.blogspot.com/feeds/posts/default?alt=rss" />
-<link rel="service.post" type="application/atom+xml" title="NARAYANA&#39;s - Atom" href="https://www.blogger.com/feeds/9207076113787303084/posts/default" />
+<link rel="alternate" type="application/atom+xml" title="nari as siri - Atom" href="https://narayanabillgates.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="nari as siri - RSS" href="https://narayanabillgates.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="nari as siri - Atom" href="https://www.blogger.com/feeds/9207076113787303084/posts/default" />
 <link rel="me" href="https://www.blogger.com/profile/12725705435160336268" />
 <!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
 <meta content='https://narayanabillgates.blogspot.com/' property='og:url'/>
-<meta content='NARAYANA&#39;s' property='og:title'/>
+<meta content='nari as siri' property='og:title'/>
 <meta content='' property='og:description'/>
+<meta content='https://blogger.googleusercontent.com/img/a/AVvXsEjPDGOyg5MkKHPRWXoqZuFAALV8YQ7x4R9ZajbCg6Y6rA2V4yA6SJEboeSkbZthbN0lgURhN992KfHpUO6k2PWQP3s8-_ZLED9xo7mY7dRz0-FVLCPvDIWdU-vJz85vlfBkQ56YFYTxBSwXU4uxf0HA8sVJaR9LeodB96RIC2LjQlEyJUlGm_f7ryza1Rvt=w1200-h630-p-k-no-nu' property='og:image'/>
 <meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w1200-h630-p-k-no-nu/15th-august.jpg' property='og:image'/>
 <meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2SHjSD7hHOHNo4582jbvrEn7tQXiC99jlBrWayp-280T_xe7t7IGVCgNXtoIPGyURbbhRct8bdcwfPXyYQLjQYG7J-yx4HDr65HFP8XKYPq2LnMGXoGq7YmLZa407FGPx2jT_99f49UZ6qDPRPdjJh5AcKAJy3Ny_Y2MWt_xtf8eO6353pItersFR4zJJ/w1200-h630-p-k-no-nu/IMG-20240126-WA0000.jpg' property='og:image'/>
 <meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_LcVP1rO9gxdWqhN6x9UtafuKtNYkHyKnaKApXNtHXut7AqQr6-VtB_0J3cBbULS7hFcHC5MWfVLQD_bf6iGk0rNU6vN7DEtNtslmnh5z_ahHpnPKXYL5cB2mXudzY7ouYMWOIrQw_lR_q4fvzWGCun5stE0TbYzAGujmlyxQ3dX9FvQNVPeBz60depdA/w1200-h630-p-k-no-nu/IMG20240121090504.jpg' property='og:image'/>
 <meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb6Xyl-uYWQ8wz9pEzmxn8I0scot_j0TMzWdMbyXDEHNd5NbmsKJkQd6GjquTLHXr1XluGzRY239xe7My6EdlrTpZwW6Qqiw2vYWbkHPRHrM19dWID23JhBzq62xWq5YP39EHKGNutSp75W9AeudZhTcIcjqpe33txsoJENaXFOxQlj8oRFYJhqKHm1oR/w1200-h630-p-k-no-nu/IMG20240115093220.jpg' property='og:image'/>
 <meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlG2AB7t-3HzlXSoFdMIBnxsuko8nPCTMHLzYKgGy0Ermt-RwxCrY2dpBzvKJsKbUC7WS-s_yYdxlr7wlkdDCgNAHdt52--GJwrbQ5W3N_cDpsiBmqA7U00MUN38jShzrKY1u_-5-AtqzV_jhDTiZ56ZELykgjzbfn7Bi0t-6_amA2qKrkuwWUoL5EA/w1200-h630-p-k-no-nu/9lfh1mu8_republic-day-wishes_625x300_26_January_19.webp' property='og:image'/>
 <meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTCbGxpfD71FAtmE8hyqt1wnYqUQ4Cs4mL3lPe0VtJGYpdGm8u0C9BV1-HBzTgduIl4Xl5CB2uutuCudgoMaPG-dUyk2Hr8_jeXrRk1nObKGLj2K5Fgh0JdiNVdFowdfLK406ASPd77hw4Dm4rIYt_HC0j4Vj7H5ngQ7-cmFOwb7Y3Yl000PlERNDG2A/w1200-h630-p-k-no-nu/IMG20200721081329.jpg' property='og:image'/>
-<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/w1200-h630-p-k-no-nu/IMG_20180422_133348.jpg' property='og:image'/>
-<style type='text/css'>@font-face{font-family:'Damion';font-style:normal;font-weight:400;font-display:swap;src:url(//fonts.gstatic.com/s/damion/v15/hv-XlzJ3KEUe_YZkZGw2ATE.woff2)format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Damion';font-style:normal;font-weight:400;font-display:swap;src:url(//fonts.gstatic.com/s/damion/v15/hv-XlzJ3KEUe_YZkamw2.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAX-k2Qn.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAz-k2Qn.woff2)format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAT-k2Qn.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAv-k2Qn.woff2)format('woff2');unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuHT-k2Qn.woff2)format('woff2');unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuGb-k2Qn.woff2)format('woff2');unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAf-k2Qn.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAb-k2Qn.woff2)format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-kw.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmZiArmlw.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmQiArmlw.woff2)format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmYiArmlw.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmXiArmlw.woff2)format('woff2');unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVnoiArmlw.woff2)format('woff2');unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVn6iArmlw.woff2)format('woff2');unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmbiArmlw.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiArmlw.woff2)format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAo.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}</style>
+<style type='text/css'>@font-face{font-family:'Damion';font-style:normal;font-weight:400;font-display:swap;src:url(//fonts.gstatic.com/s/damion/v15/hv-XlzJ3KEUe_YZkZGw2ATE.woff2)format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Damion';font-style:normal;font-weight:400;font-display:swap;src:url(//fonts.gstatic.com/s/damion/v15/hv-XlzJ3KEUe_YZkamw2.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAX-k2Qn.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAz-k2Qn.woff2)format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAT-k2Qn.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAv-k2Qn.woff2)format('woff2');unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuHT-k2Qn.woff2)format('woff2');unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuGb-k2Qn.woff2)format('woff2');unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAf-k2Qn.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAb-k2Qn.woff2)format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-kw.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmZiArmlw.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmQiArmlw.woff2)format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmYiArmlw.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmXiArmlw.woff2)format('woff2');unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVnoiArmlw.woff2)format('woff2');unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVn6iArmlw.woff2)format('woff2');unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmbiArmlw.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiArmlw.woff2)format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(//fonts.gstatic.com/s/roboto/v49/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAo.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}</style>
 <style id='page-skin-1' type='text/css'><!--
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{height:auto}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:bold}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}
 /*!************************************************
@@ -2499,15 +2499,15 @@ Skip to main content
 <div class='header-widget'>
 <div>
 <h1>
-Nnari as siri
+nari as siri
 </h1>
 </div>
 <p>
-Hi everyone,
-My name is Narayana, and I’m someone who truly believes in myself. I’m sharing my website through this advertisement so that anyone who finds it helpful—whether for personal use or business purposes—can benefit from it.
+Hello, Everyone
+My name is Narayana, and I&#8217;m someone who truly believes in myself. I&#8217;m sharing my website through this advertisement so that anyone who finds it helpful&#8212;whether for personal use or business purposes&#8212;can benefit from it.
 I kindly ask you to consider my ideas and feedback with an open mind.
 
-Thank you all! 
+Thank you all!
 </p>
 </div>
 </div></div>
@@ -2543,11 +2543,11 @@ Thank you all!
 <div class='widget-content'>
 <div role='feed'>
 <article class='post' role='article'>
-<h3 class='post-title'><a href='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html'>Happy independence day to all</a></h3>
+<h3 class='post-title'><a href='https://narayanabillgates.blogspot.com/2025/10/cloud-architech.html'>cloud architech</a></h3>
 <div class='post-share-buttons post-share-buttons-top'>
 <div class='byline post-share-buttons goog-inline-block'>
-<div aria-owns='sharing-popup-FeaturedPost1-byline-700779703824764578' class='sharing' data-title='Happy independence day to all'>
-<button aria-controls='sharing-popup-FeaturedPost1-byline-700779703824764578' aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-FeaturedPost1-byline-700779703824764578' role='button'>
+<div aria-owns='sharing-popup-FeaturedPost1-byline-5572001639006813212' class='sharing' data-title='cloud architech'>
+<button aria-controls='sharing-popup-FeaturedPost1-byline-5572001639006813212' aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-FeaturedPost1-byline-5572001639006813212' role='button'>
 <div class='flat-icon-button ripple'>
 <svg class='svg-icon-24'>
 <use xlink:href='/responsive/sprite_v1_6.css.svg#ic_share_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
@@ -2555,7 +2555,165 @@ Thank you all!
 </div>
 </button>
 <div class='share-buttons-container'>
-<ul aria-hidden='true' aria-label='Share' class='share-buttons hidden' id='sharing-popup-FeaturedPost1-byline-700779703824764578' role='menu'>
+<ul aria-hidden='true' aria-label='Share' class='share-buttons hidden' id='sharing-popup-FeaturedPost1-byline-5572001639006813212' role='menu'>
+<li>
+<span aria-label='Get link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=5572001639006813212&target=' data-url='https://narayanabillgates.blogspot.com/2025/10/cloud-architech.html' role='menuitem' tabindex='-1' title='Get link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Get link</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=5572001639006813212&target=facebook' data-url='https://narayanabillgates.blogspot.com/2025/10/cloud-architech.html' role='menuitem' tabindex='-1' title='Share to Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to X' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=5572001639006813212&target=twitter' data-url='https://narayanabillgates.blogspot.com/2025/10/cloud-architech.html' role='menuitem' tabindex='-1' title='Share to X'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>X</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=5572001639006813212&target=pinterest' data-url='https://narayanabillgates.blogspot.com/2025/10/cloud-architech.html' role='menuitem' tabindex='-1' title='Share to Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=5572001639006813212&target=email' data-url='https://narayanabillgates.blogspot.com/2025/10/cloud-architech.html' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Share to other apps' class='sharing-platform-button sharing-element-other' data-url='https://narayanabillgates.blogspot.com/2025/10/cloud-architech.html' role='menuitem' tabindex='-1' title='Share to other apps'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Other Apps</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-timestamp'>
+-
+<meta content='https://narayanabillgates.blogspot.com/2025/10/cloud-architech.html'/>
+<a class='timestamp-link' href='https://narayanabillgates.blogspot.com/2025/10/cloud-architech.html' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2025-10-26T08:25:00-07:00' title='2025-10-26T08:25:00-07:00'>
+October 26, 2025
+</time>
+</a>
+</span>
+</div>
+</div>
+<div class='snippet-thumbnail'>
+<img alt='Image' sizes='(min-width: 954px) 842px, (min-width: 801px) calc(100vw - 112px), calc(100vw - 64px)' src='https://blogger.googleusercontent.com/img/a/AVvXsEjPDGOyg5MkKHPRWXoqZuFAALV8YQ7x4R9ZajbCg6Y6rA2V4yA6SJEboeSkbZthbN0lgURhN992KfHpUO6k2PWQP3s8-_ZLED9xo7mY7dRz0-FVLCPvDIWdU-vJz85vlfBkQ56YFYTxBSwXU4uxf0HA8sVJaR9LeodB96RIC2LjQlEyJUlGm_f7ryza1Rvt=w531-h215' srcset='https://blogger.googleusercontent.com/img/a/AVvXsEjPDGOyg5MkKHPRWXoqZuFAALV8YQ7x4R9ZajbCg6Y6rA2V4yA6SJEboeSkbZthbN0lgURhN992KfHpUO6k2PWQP3s8-_ZLED9xo7mY7dRz0-FVLCPvDIWdU-vJz85vlfBkQ56YFYTxBSwXU4uxf0HA8sVJaR9LeodB96RIC2LjQlEyJUlGm_f7ryza1Rvt=w256-h162-p-k-no-nu 256w, https://blogger.googleusercontent.com/img/a/AVvXsEjPDGOyg5MkKHPRWXoqZuFAALV8YQ7x4R9ZajbCg6Y6rA2V4yA6SJEboeSkbZthbN0lgURhN992KfHpUO6k2PWQP3s8-_ZLED9xo7mY7dRz0-FVLCPvDIWdU-vJz85vlfBkQ56YFYTxBSwXU4uxf0HA8sVJaR9LeodB96RIC2LjQlEyJUlGm_f7ryza1Rvt=w512-h325-p-k-no-nu 512w, https://blogger.googleusercontent.com/img/a/AVvXsEjPDGOyg5MkKHPRWXoqZuFAALV8YQ7x4R9ZajbCg6Y6rA2V4yA6SJEboeSkbZthbN0lgURhN992KfHpUO6k2PWQP3s8-_ZLED9xo7mY7dRz0-FVLCPvDIWdU-vJz85vlfBkQ56YFYTxBSwXU4uxf0HA8sVJaR9LeodB96RIC2LjQlEyJUlGm_f7ryza1Rvt=w945-h600-p-k-no-nu 945w, https://blogger.googleusercontent.com/img/a/AVvXsEjPDGOyg5MkKHPRWXoqZuFAALV8YQ7x4R9ZajbCg6Y6rA2V4yA6SJEboeSkbZthbN0lgURhN992KfHpUO6k2PWQP3s8-_ZLED9xo7mY7dRz0-FVLCPvDIWdU-vJz85vlfBkQ56YFYTxBSwXU4uxf0HA8sVJaR9LeodB96RIC2LjQlEyJUlGm_f7ryza1Rvt=w1684-h1069-p-k-no-nu 1684w'/>
+</div>
+<div class='post-snippet snippet-container r-snippet-container'>
+<div class='snippet-item r-snippetized'>
+&#160; Component Purpose Pod The smallest unit &#8212; runs one or more containers Node A machine (VM or physical) where pods run Deployment Manages how many pods to run, updates, etc. Service Exposes your app to users (like a load balancer) Cluster The whole system (master + worker nodes)
+</div>
+<a class='snippet-fade r-snippet-fade hidden' href='https://narayanabillgates.blogspot.com/2025/10/cloud-architech.html'></a>
+</div>
+<div class='post-bottom'>
+<div class='post-footer float-container'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='byline post-comment-link container'>
+<a class='comment-link' href='https://narayanabillgates.blogspot.com/2025/10/cloud-architech.html#comments' onclick=''>
+<svg class='svg-icon-24 touch-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_mode_comment_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='num_comments'>
+Post a Comment
+</span>
+</a>
+</span>
+<span class='byline post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post/9207076113787303084/5572001639006813212' title='Email Post'>
+<svg class='svg-icon-24 touch-icon sharing-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+</div>
+</div>
+<div class='jump-link flat-button ripple'>
+<a href='https://narayanabillgates.blogspot.com/2025/10/cloud-architech.html' title='cloud architech'>
+Read more
+</a>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div><div class='widget Blog' data-version='2' id='Blog1'>
+<div class='blog-posts hfeed container'>
+<article class='post-outer-container'>
+<div class='post-outer'>
+<div class='post'>
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html"
+  },
+  "headline": "Happy independence day to all","description": "&#160;","datePublished": "2025-08-14T17:05:00-07:00",
+  "dateModified": "2025-08-14T17:06:30-07:00","image": {
+    "@type": "ImageObject","url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w1200-h630-p-k-no-nu/15th-august.jpg",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "Nari ( as ) Siri"
+  }
+}</script>
+<a name='700779703824764578'></a>
+<h3 class='post-title entry-title'>
+<a href='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html'>Happy independence day to all</a>
+</h3>
+<div class='post-share-buttons post-share-buttons-top'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-Blog1-byline-700779703824764578' class='sharing' data-title='Happy independence day to all'>
+<button aria-controls='sharing-popup-Blog1-byline-700779703824764578' aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-Blog1-byline-700779703824764578' role='button'>
+<div class='flat-icon-button ripple'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_share_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Share' class='share-buttons hidden' id='sharing-popup-Blog1-byline-700779703824764578' role='menu'>
 <li>
 <span aria-label='Get link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=700779703824764578&target=' data-url='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html' role='menuitem' tabindex='-1' title='Get link'>
 <svg class='svg-icon-24 touch-icon sharing-link'>
@@ -2622,14 +2780,16 @@ August 14, 2025
 </span>
 </div>
 </div>
+<div class='container post-body entry-content' id='post-snippet-700779703824764578'>
 <div class='snippet-thumbnail'>
-<img alt='Image' sizes='(min-width: 954px) 842px, (min-width: 801px) calc(100vw - 112px), calc(100vw - 64px)' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w630-h330/15th-august.jpg' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w256-h162-p-k-no-nu/15th-august.jpg 256w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w512-h325-p-k-no-nu/15th-august.jpg 512w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w945-h600-p-k-no-nu/15th-august.jpg 945w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w1684-h1069-p-k-no-nu/15th-august.jpg 1684w'/>
+<img alt='Image' sizes='(max-width: 800px) 20vw, 128px' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w630-h330/15th-august.jpg' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w32-h32-p-k-no-nu/15th-august.jpg 32w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w64-h64-p-k-no-nu/15th-august.jpg 64w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w128-h128-p-k-no-nu/15th-august.jpg 128w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w256-h256-p-k-no-nu/15th-august.jpg 256w'/>
 </div>
 <div class='post-snippet snippet-container r-snippet-container'>
 <div class='snippet-item r-snippetized'>
 &#160;
 </div>
 <a class='snippet-fade r-snippet-fade hidden' href='https://narayanabillgates.blogspot.com/2025/08/happy-independence-day-to-all.html'></a>
+</div>
 </div>
 <div class='post-bottom'>
 <div class='post-footer float-container'>
@@ -2665,11 +2825,9 @@ Read more
 </a>
 </div>
 </div>
+</div>
+</div>
 </article>
-</div>
-</div>
-</div><div class='widget Blog' data-version='2' id='Blog1'>
-<div class='blog-posts hfeed container'>
 <article class='post-outer-container'>
 <div class='post-outer'>
 <div class='post'>
@@ -2695,7 +2853,7 @@ Read more
     }
   },"author": {
     "@type": "Person",
-    "name": "Narayana with Siri"
+    "name": "Nari ( as ) Siri"
   }
 }</script>
 <a name='2109844121108475820'></a>
@@ -2853,7 +3011,7 @@ Read more
     }
   },"author": {
     "@type": "Person",
-    "name": "Narayana with Siri"
+    "name": "Nari ( as ) Siri"
   }
 }</script>
 <a name='5997629651149865552'></a>
@@ -3011,7 +3169,7 @@ Read more
     }
   },"author": {
     "@type": "Person",
-    "name": "Narayana with Siri"
+    "name": "Nari ( as ) Siri"
   }
 }</script>
 <a name='2881112918803578590'></a>
@@ -3169,7 +3327,7 @@ Read more
     }
   },"author": {
     "@type": "Person",
-    "name": "Narayana with Siri"
+    "name": "Nari ( as ) Siri"
   }
 }</script>
 <a name='4447407101830625307'></a>
@@ -3327,7 +3485,7 @@ Read more
     }
   },"author": {
     "@type": "Person",
-    "name": "Narayana with Siri"
+    "name": "Nari ( as ) Siri"
   }
 }</script>
 <a name='1169963371825801485'></a>
@@ -3460,166 +3618,11 @@ Read more
 </div>
 </div>
 </article>
-<article class='post-outer-container'>
-<div class='post-outer'>
-<div class='post'>
-<script type='application/ld+json'>{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://narayanabillgates.blogspot.com/2018/05/redlakunta.html"
-  },
-  "headline": "&#9971;Redlakunta&#9971;","description": "&#160; &#160; Jai hanuman   &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;    Happy movements with saadineni       Raama bhajana(pothuloori.suresh)      &#160; &#160;   &#160; &#160; &#160; &#160; Sri  ...","datePublished": "2018-05-18T02:08:00-07:00",
-  "dateModified": "2024-01-25T16:13:43-08:00","image": {
-    "@type": "ImageObject","url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/w1200-h630-p-k-no-nu/IMG_20180422_133348.jpg",
-    "height": 630,
-    "width": 1200},"publisher": {
-    "@type": "Organization",
-    "name": "Blogger",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/",
-      "width": 206,
-      "height": 60
-    }
-  },"author": {
-    "@type": "Person",
-    "name": "Narayana with Siri"
-  }
-}</script>
-<a name='6151946915210785068'></a>
-<h3 class='post-title entry-title'>
-<a href='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html'>&#9971;Redlakunta&#9971;</a>
-</h3>
-<div class='post-share-buttons post-share-buttons-top'>
-<div class='byline post-share-buttons goog-inline-block'>
-<div aria-owns='sharing-popup-Blog1-byline-6151946915210785068' class='sharing' data-title='⛳Redlakunta⛳'>
-<button aria-controls='sharing-popup-Blog1-byline-6151946915210785068' aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-Blog1-byline-6151946915210785068' role='button'>
-<div class='flat-icon-button ripple'>
-<svg class='svg-icon-24'>
-<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_share_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
-</svg>
-</div>
-</button>
-<div class='share-buttons-container'>
-<ul aria-hidden='true' aria-label='Share' class='share-buttons hidden' id='sharing-popup-Blog1-byline-6151946915210785068' role='menu'>
-<li>
-<span aria-label='Get link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=6151946915210785068&target=' data-url='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' role='menuitem' tabindex='-1' title='Get link'>
-<svg class='svg-icon-24 touch-icon sharing-link'>
-<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
-</svg>
-<span class='platform-sharing-text'>Get link</span>
-</span>
-</li>
-<li>
-<span aria-label='Share to Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=6151946915210785068&target=facebook' data-url='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' role='menuitem' tabindex='-1' title='Share to Facebook'>
-<svg class='svg-icon-24 touch-icon sharing-facebook'>
-<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
-</svg>
-<span class='platform-sharing-text'>Facebook</span>
-</span>
-</li>
-<li>
-<span aria-label='Share to X' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=6151946915210785068&target=twitter' data-url='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' role='menuitem' tabindex='-1' title='Share to X'>
-<svg class='svg-icon-24 touch-icon sharing-twitter'>
-<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
-</svg>
-<span class='platform-sharing-text'>X</span>
-</span>
-</li>
-<li>
-<span aria-label='Share to Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=6151946915210785068&target=pinterest' data-url='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' role='menuitem' tabindex='-1' title='Share to Pinterest'>
-<svg class='svg-icon-24 touch-icon sharing-pinterest'>
-<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
-</svg>
-<span class='platform-sharing-text'>Pinterest</span>
-</span>
-</li>
-<li>
-<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=9207076113787303084&postID=6151946915210785068&target=email' data-url='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' role='menuitem' tabindex='-1' title='Email'>
-<svg class='svg-icon-24 touch-icon sharing-email'>
-<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
-</svg>
-<span class='platform-sharing-text'>Email</span>
-</span>
-</li>
-<li aria-hidden='true' class='hidden'>
-<span aria-label='Share to other apps' class='sharing-platform-button sharing-element-other' data-url='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' role='menuitem' tabindex='-1' title='Share to other apps'>
-<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
-<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
-</svg>
-<span class='platform-sharing-text'>Other Apps</span>
-</span>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class='post-header'>
-<div class='post-header-line-1'>
-<span class='byline post-timestamp'>
--
-<meta content='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html'/>
-<a class='timestamp-link' href='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' rel='bookmark' title='permanent link'>
-<time class='published' datetime='2018-05-18T02:08:00-07:00' title='2018-05-18T02:08:00-07:00'>
-May 18, 2018
-</time>
-</a>
-</span>
-</div>
-</div>
-<div class='container post-body entry-content' id='post-snippet-6151946915210785068'>
-<div class='snippet-thumbnail'>
-<img alt='Image' sizes='(max-width: 800px) 20vw, 128px' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/s640/IMG_20180422_133348.jpg' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/w32-h32-p-k-no-nu/IMG_20180422_133348.jpg 32w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/w64-h64-p-k-no-nu/IMG_20180422_133348.jpg 64w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/w128-h128-p-k-no-nu/IMG_20180422_133348.jpg 128w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/w256-h256-p-k-no-nu/IMG_20180422_133348.jpg 256w'/>
-</div>
-<div class='post-snippet snippet-container r-snippet-container'>
-<div class='snippet-item r-snippetized'>
- &#160; &#160; Jai hanuman   &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;    Happy movements with saadineni       Raama bhajana(pothuloori.suresh)      &#160; &#160;   &#160; &#160; &#160; &#160; Sri     anjaneyam         &#160; &#160; &#160; Sri        anjaneyam     &#160;    &#160; &#160; &#160; Sri        anjaneyam       &#160; &#160; &#160; Sri     anjaneyam        Seeta-Ramulavaaru            &#160; &#160; &#160; &#160; &#160; &#160;&#160;        &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;                   
-</div>
-<a class='snippet-fade r-snippet-fade hidden' href='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html'></a>
-</div>
-</div>
-<div class='post-bottom'>
-<div class='post-footer float-container'>
-<div class='post-footer-line post-footer-line-1'>
-<span class='byline post-comment-link container'>
-<a class='comment-link' href='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html#comments' onclick=''>
-<svg class='svg-icon-24 touch-icon'>
-<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_mode_comment_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
-</svg>
-<span class='num_comments'>
-1 comment
-</span>
-</a>
-</span>
-<span class='byline post-icons'>
-<span class='item-action'>
-<a href='https://www.blogger.com/email-post/9207076113787303084/6151946915210785068' title='Email Post'>
-<svg class='svg-icon-24 touch-icon sharing-icon'>
-<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
-</svg>
-</a>
-</span>
-</span>
-</div>
-<div class='post-footer-line post-footer-line-2'>
-</div>
-<div class='post-footer-line post-footer-line-3'>
-</div>
-</div>
-<div class='jump-link flat-button ripple'>
-<a href='https://narayanabillgates.blogspot.com/2018/05/redlakunta.html' title='⛳Redlakunta⛳'>
-Read more
-</a>
-</div>
-</div>
-</div>
-</div>
-</article>
 </div>
 <div class='blog-pager container' id='blog-pager'>
+<a class='blog-pager-older-link flat-button ripple' href='https://narayanabillgates.blogspot.com/search?updated-max=2018-05-26T10:51:00-07:00&amp;max-results=7' title='More posts'>
+More posts
+</a>
 </div>
 </div>
 </div>
@@ -3663,7 +3666,7 @@ Theme images by <a href="http://www.offset.com/photos/291882">Galeries</a>
 <dl class='profile-datablock'>
 <dt class='profile-data'>
 <a class='profile-link g-profile' href='https://www.blogger.com/profile/12725705435160336268' rel='author nofollow'>
-Narayana with Siri
+Nari ( as ) Siri
 </a>
 </dt>
 </dl>
@@ -3695,6 +3698,9 @@ Archive
 <div id='BlogArchive1_ArchiveList'>
 <div class='first-items'>
 <ul class='flat'>
+<li class='archivedate'>
+<a href='https://narayanabillgates.blogspot.com/2025/10/'>October 2025<span class='post-count'>1</span></a>
+</li>
 <li class='archivedate'>
 <a href='https://narayanabillgates.blogspot.com/2025/08/'>August 2025<span class='post-count'>1</span></a>
 </li>
@@ -3745,17 +3751,17 @@ Report Abuse
 </div>
 </div>
 </aside>
-<script type="text/javascript" src="https://resources.blogblog.com/blogblog/data/res/1431921148-indie_compiled.js" async="true"></script>
+<script type="text/javascript" src="https://resources.blogblog.com/blogblog/data/res/2991988280-indie_compiled.js" async="true"></script>
 
-<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2422103421-widgets.js"></script>
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/1601900224-widgets.js"></script>
 <script type='text/javascript'>
-window['__wavt'] = 'AOuZoY5HvCVkt-tsn3np0x45lOkDFcs8-Q:1755581330226';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d9207076113787303084','//narayanabillgates.blogspot.com/','9207076113787303084');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '9207076113787303084', 'title': 'NARAYANA\x27s', 'url': 'https://narayanabillgates.blogspot.com/', 'canonicalUrl': 'https://narayanabillgates.blogspot.com/', 'homepageUrl': 'https://narayanabillgates.blogspot.com/', 'searchUrl': 'https://narayanabillgates.blogspot.com/search', 'canonicalHomepageUrl': 'https://narayanabillgates.blogspot.com/', 'blogspotFaviconUrl': 'https://narayanabillgates.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22NARAYANA\x26#39;s - Atom\x22 href\x3d\x22https://narayanabillgates.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22NARAYANA\x26#39;s - RSS\x22 href\x3d\x22https://narayanabillgates.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22NARAYANA\x26#39;s - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/9207076113787303084/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/12725705435160336268\x22 /\x3e\n', 'adsenseClientId': 'ca-pub-2006977464686081', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/df31f371d64631dc', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'X', 'key': 'twitter', 'shareMessage': 'Share to X', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'NARAYANA\x27s', 'metaDescription': ''}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'Contempo', 'localizedName': 'Contempo', 'isResponsive': true, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'indie_baby_blue', 'variantId': 'indie_baby_blue'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'NARAYANA\x27s', 'description': '', 'url': 'https://narayanabillgates.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}, {'name': 'widgets', 'data': [{'title': '\u0c30\u0c48\u0c24\u0c47 \u0c30\u0c3e\u0c1c\u0c41', 'type': 'BlogSearch', 'sectionId': 'search_top', 'id': 'BlogSearch1'}, {'title': 'NARAYANA\x27s (Header)', 'type': 'Header', 'sectionId': 'header', 'id': 'Header1'}, {'title': '', 'type': 'PageList', 'sectionId': 'page_list_top', 'id': 'PageList1'}, {'title': '', 'type': 'FeaturedPost', 'sectionId': 'page_body', 'id': 'FeaturedPost1', 'postId': '700779703824764578'}, {'title': 'Blog Posts', 'type': 'Blog', 'sectionId': 'page_body', 'id': 'Blog1', 'posts': [{'id': '700779703824764578', 'title': 'Happy independence day to all', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w630-h330/15th-august.jpg', 'showInlineAds': false}, {'id': '2109844121108475820', 'title': '\ud83c\uddee\ud83c\uddf3 Happy Republic Day..\ud83c\uddee\ud83c\uddf3narayana\ud83c\uddee\ud83c\uddf3', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2SHjSD7hHOHNo4582jbvrEn7tQXiC99jlBrWayp-280T_xe7t7IGVCgNXtoIPGyURbbhRct8bdcwfPXyYQLjQYG7J-yx4HDr65HFP8XKYPq2LnMGXoGq7YmLZa407FGPx2jT_99f49UZ6qDPRPdjJh5AcKAJy3Ny_Y2MWt_xtf8eO6353pItersFR4zJJ/s320/IMG-20240126-WA0000.jpg', 'showInlineAds': false}, {'id': '5997629651149865552', 'title': '\u26f3\u0c36\u0c4d\u0c30\u0c40 \u0c30\u0c3e\u0c2e #\u0c05\u0c2f\u0c4b\u0c27\u0c4d\u0c2f\u26f3', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_LcVP1rO9gxdWqhN6x9UtafuKtNYkHyKnaKApXNtHXut7AqQr6-VtB_0J3cBbULS7hFcHC5MWfVLQD_bf6iGk0rNU6vN7DEtNtslmnh5z_ahHpnPKXYL5cB2mXudzY7ouYMWOIrQw_lR_q4fvzWGCun5stE0TbYzAGujmlyxQ3dX9FvQNVPeBz60depdA/w145-h313/IMG20240121090504.jpg', 'showInlineAds': false}, {'id': '2881112918803578590', 'title': '\u26f3\u0c36\u0c4d\u0c30\u0c40 \u0c30\u0c3e\u0c2e \u0c2eo\u0c26\u0c3f\u0c30\u0c02 #Ayodhya\u26f3', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb6Xyl-uYWQ8wz9pEzmxn8I0scot_j0TMzWdMbyXDEHNd5NbmsKJkQd6GjquTLHXr1XluGzRY239xe7My6EdlrTpZwW6Qqiw2vYWbkHPRHrM19dWID23JhBzq62xWq5YP39EHKGNutSp75W9AeudZhTcIcjqpe33txsoJENaXFOxQlj8oRFYJhqKHm1oR/w124-h275/IMG20240115093220.jpg', 'showInlineAds': false}, {'id': '4447407101830625307', 'title': '\u0c17\u0c23\u0c24\u0c02\u0c24\u0c4d\u0c30 \u0c26\u0c3f\u0c28\u0c4b\u0c24\u0c4d\u0c38\u0c35 \u0c36\u0c41\u0c2d\u0c3e\u0c15\u0c3e\u0c02\u0c15\u0c4d\u0c37\u0c32\u0c41 ..............ur\x27s NSP............', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlG2AB7t-3HzlXSoFdMIBnxsuko8nPCTMHLzYKgGy0Ermt-RwxCrY2dpBzvKJsKbUC7WS-s_yYdxlr7wlkdDCgNAHdt52--GJwrbQ5W3N_cDpsiBmqA7U00MUN38jShzrKY1u_-5-AtqzV_jhDTiZ56ZELykgjzbfn7Bi0t-6_amA2qKrkuwWUoL5EA/w628-h476/9lfh1mu8_republic-day-wishes_625x300_26_January_19.webp', 'showInlineAds': false}, {'id': '1169963371825801485', 'title': '\u0c36\u0c4d\u0c30\u0c40 \u0c15\u0c4b\u0c26\u0c02\u0c21\u0c30\u0c3e\u0c2e\u0c38\u0c4d\u0c35\u0c3e\u0c2e\u0c3f  \u0c26\u0c47\u0c35\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c02(\u0c30\u0c46\u0c21\u0c4d\u0c32\u0c15\u0c41\u0c02\u0c1f)', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTCbGxpfD71FAtmE8hyqt1wnYqUQ4Cs4mL3lPe0VtJGYpdGm8u0C9BV1-HBzTgduIl4Xl5CB2uutuCudgoMaPG-dUyk2Hr8_jeXrRk1nObKGLj2K5Fgh0JdiNVdFowdfLK406ASPd77hw4Dm4rIYt_HC0j4Vj7H5ngQ7-cmFOwb7Y3Yl000PlERNDG2A/w93-h78/IMG20200721081329.jpg', 'showInlineAds': false}, {'id': '6151946915210785068', 'title': '\u26f3Redlakunta\u26f3', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAC6IPJjcFmkb5aV-hHA5PVpFb29sbYVaR14kcBOj5-pjXxEKrT2dbyCg14S1t4addeOLpE_En8WVYHP5hUt1bNyrc2lau4VN_9SWtcvPjV2fOAnCZfGWf0Sv5uVkxqXvQAsdaZbFfsnC/s640/IMG_20180422_133348.jpg', 'showInlineAds': false}], 'headerByline': {'regionName': 'header1', 'items': [{'name': 'share', 'label': ''}, {'name': 'timestamp', 'label': '-'}]}, 'footerBylines': [{'regionName': 'footer1', 'items': [{'name': 'comments', 'label': 'comments'}, {'name': 'icons', 'label': ''}]}, {'regionName': 'footer2', 'items': [{'name': 'labels', 'label': ''}]}, {'regionName': 'footer3', 'items': [{'name': 'location', 'label': 'Location:'}]}], 'allBylineItems': [{'name': 'share', 'label': ''}, {'name': 'timestamp', 'label': '-'}, {'name': 'comments', 'label': 'comments'}, {'name': 'icons', 'label': ''}, {'name': 'labels', 'label': ''}, {'name': 'location', 'label': 'Location:'}]}, {'title': '', 'type': 'PopularPosts', 'sectionId': 'page_body', 'id': 'PopularPosts1', 'posts': [{'title': '\u26f3Redlakunta\u26f3', 'id': 6151946915210785068}, {'title': '\u26f3\u0c36\u0c4d\u0c30\u0c40 \u0c30\u0c3e\u0c2e \u0c2eo\u0c26\u0c3f\u0c30\u0c02 #Ayodhya\u26f3', 'id': 2881112918803578590}, {'title': '\u0c36\u0c4d\u0c30\u0c40 \u0c15\u0c4b\u0c26\u0c02\u0c21\u0c30\u0c3e\u0c2e\u0c38\u0c4d\u0c35\u0c3e\u0c2e\u0c3f  \u0c26\u0c47\u0c35\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c02(\u0c30\u0c46\u0c21\u0c4d\u0c32\u0c15\u0c41\u0c02\u0c1f)', 'id': 1169963371825801485}]}, {'type': 'Attribution', 'sectionId': 'footer', 'id': 'Attribution1'}, {'title': 'narayana Parsa', 'type': 'Profile', 'sectionId': 'sidebar_top', 'id': 'Profile1'}, {'type': 'BlogArchive', 'sectionId': 'sidebar_bottom', 'id': 'BlogArchive1'}, {'title': 'Labels', 'type': 'Label', 'sectionId': 'sidebar_bottom', 'id': 'Label1'}, {'title': '', 'type': 'ReportAbuse', 'sectionId': 'sidebar_bottom', 'id': 'ReportAbuse1'}]}]);
+window['__wavt'] = 'AOuZoY7jxP3K_XCAR_3em_ybrAAJRtcTAw:1761492410530';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d9207076113787303084','//narayanabillgates.blogspot.com/','9207076113787303084');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '9207076113787303084', 'title': 'nari as siri', 'url': 'https://narayanabillgates.blogspot.com/', 'canonicalUrl': 'https://narayanabillgates.blogspot.com/', 'homepageUrl': 'https://narayanabillgates.blogspot.com/', 'searchUrl': 'https://narayanabillgates.blogspot.com/search', 'canonicalHomepageUrl': 'https://narayanabillgates.blogspot.com/', 'blogspotFaviconUrl': 'https://narayanabillgates.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22nari as siri - Atom\x22 href\x3d\x22https://narayanabillgates.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22nari as siri - RSS\x22 href\x3d\x22https://narayanabillgates.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22nari as siri - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/9207076113787303084/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/12725705435160336268\x22 /\x3e\n', 'adsenseClientId': 'ca-pub-2006977464686081', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/393826d54b197e14', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'X', 'key': 'twitter', 'shareMessage': 'Share to X', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'nari as siri', 'metaDescription': ''}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'Contempo', 'localizedName': 'Contempo', 'isResponsive': true, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'indie_baby_blue', 'variantId': 'indie_baby_blue'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'nari as siri', 'description': '', 'url': 'https://narayanabillgates.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}, {'name': 'widgets', 'data': [{'title': '\u0c30\u0c48\u0c24\u0c47 \u0c30\u0c3e\u0c1c\u0c41', 'type': 'BlogSearch', 'sectionId': 'search_top', 'id': 'BlogSearch1'}, {'title': 'nari as siri (Header)', 'type': 'Header', 'sectionId': 'header', 'id': 'Header1'}, {'title': '', 'type': 'PageList', 'sectionId': 'page_list_top', 'id': 'PageList1'}, {'title': '', 'type': 'FeaturedPost', 'sectionId': 'page_body', 'id': 'FeaturedPost1', 'postId': '5572001639006813212'}, {'title': 'Blog Posts', 'type': 'Blog', 'sectionId': 'page_body', 'id': 'Blog1', 'posts': [{'id': '5572001639006813212', 'title': 'cloud architech', 'featuredImage': 'https://blogger.googleusercontent.com/img/a/AVvXsEjPDGOyg5MkKHPRWXoqZuFAALV8YQ7x4R9ZajbCg6Y6rA2V4yA6SJEboeSkbZthbN0lgURhN992KfHpUO6k2PWQP3s8-_ZLED9xo7mY7dRz0-FVLCPvDIWdU-vJz85vlfBkQ56YFYTxBSwXU4uxf0HA8sVJaR9LeodB96RIC2LjQlEyJUlGm_f7ryza1Rvt\x3dw531-h215', 'showInlineAds': false}, {'id': '700779703824764578', 'title': 'Happy independence day to all', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4IWiDxEnkVMOtYRY10pDWE__3TOXMaAljspdHvE2qT-M_6EvHkiemd9hNhi7dkPq8PEofjb-cIiprN4UKqAJu-wdJNjUFXifrYBt91g3_mE0fMKOdbSicFP_2-3YZ3W1C3iQ6AMQR9IfGORCNlQCTSV24F7xxA6heMDvehYI9fvQMKK3-kPS7a-dFOO_M/w630-h330/15th-august.jpg', 'showInlineAds': false}, {'id': '2109844121108475820', 'title': '\ud83c\uddee\ud83c\uddf3 Happy Republic Day..\ud83c\uddee\ud83c\uddf3narayana\ud83c\uddee\ud83c\uddf3', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2SHjSD7hHOHNo4582jbvrEn7tQXiC99jlBrWayp-280T_xe7t7IGVCgNXtoIPGyURbbhRct8bdcwfPXyYQLjQYG7J-yx4HDr65HFP8XKYPq2LnMGXoGq7YmLZa407FGPx2jT_99f49UZ6qDPRPdjJh5AcKAJy3Ny_Y2MWt_xtf8eO6353pItersFR4zJJ/s320/IMG-20240126-WA0000.jpg', 'showInlineAds': false}, {'id': '5997629651149865552', 'title': '\u26f3\u0c36\u0c4d\u0c30\u0c40 \u0c30\u0c3e\u0c2e #\u0c05\u0c2f\u0c4b\u0c27\u0c4d\u0c2f\u26f3', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_LcVP1rO9gxdWqhN6x9UtafuKtNYkHyKnaKApXNtHXut7AqQr6-VtB_0J3cBbULS7hFcHC5MWfVLQD_bf6iGk0rNU6vN7DEtNtslmnh5z_ahHpnPKXYL5cB2mXudzY7ouYMWOIrQw_lR_q4fvzWGCun5stE0TbYzAGujmlyxQ3dX9FvQNVPeBz60depdA/w145-h313/IMG20240121090504.jpg', 'showInlineAds': false}, {'id': '2881112918803578590', 'title': '\u26f3\u0c36\u0c4d\u0c30\u0c40 \u0c30\u0c3e\u0c2e \u0c2eo\u0c26\u0c3f\u0c30\u0c02 #Ayodhya\u26f3', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb6Xyl-uYWQ8wz9pEzmxn8I0scot_j0TMzWdMbyXDEHNd5NbmsKJkQd6GjquTLHXr1XluGzRY239xe7My6EdlrTpZwW6Qqiw2vYWbkHPRHrM19dWID23JhBzq62xWq5YP39EHKGNutSp75W9AeudZhTcIcjqpe33txsoJENaXFOxQlj8oRFYJhqKHm1oR/w124-h275/IMG20240115093220.jpg', 'showInlineAds': false}, {'id': '4447407101830625307', 'title': '\u0c17\u0c23\u0c24\u0c02\u0c24\u0c4d\u0c30 \u0c26\u0c3f\u0c28\u0c4b\u0c24\u0c4d\u0c38\u0c35 \u0c36\u0c41\u0c2d\u0c3e\u0c15\u0c3e\u0c02\u0c15\u0c4d\u0c37\u0c32\u0c41 ..............ur\x27s NSP............', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlG2AB7t-3HzlXSoFdMIBnxsuko8nPCTMHLzYKgGy0Ermt-RwxCrY2dpBzvKJsKbUC7WS-s_yYdxlr7wlkdDCgNAHdt52--GJwrbQ5W3N_cDpsiBmqA7U00MUN38jShzrKY1u_-5-AtqzV_jhDTiZ56ZELykgjzbfn7Bi0t-6_amA2qKrkuwWUoL5EA/w628-h476/9lfh1mu8_republic-day-wishes_625x300_26_January_19.webp', 'showInlineAds': false}, {'id': '1169963371825801485', 'title': '\u0c36\u0c4d\u0c30\u0c40 \u0c15\u0c4b\u0c26\u0c02\u0c21\u0c30\u0c3e\u0c2e\u0c38\u0c4d\u0c35\u0c3e\u0c2e\u0c3f  \u0c26\u0c47\u0c35\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c02(\u0c30\u0c46\u0c21\u0c4d\u0c32\u0c15\u0c41\u0c02\u0c1f)', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTCbGxpfD71FAtmE8hyqt1wnYqUQ4Cs4mL3lPe0VtJGYpdGm8u0C9BV1-HBzTgduIl4Xl5CB2uutuCudgoMaPG-dUyk2Hr8_jeXrRk1nObKGLj2K5Fgh0JdiNVdFowdfLK406ASPd77hw4Dm4rIYt_HC0j4Vj7H5ngQ7-cmFOwb7Y3Yl000PlERNDG2A/w93-h78/IMG20200721081329.jpg', 'showInlineAds': false}], 'headerByline': {'regionName': 'header1', 'items': [{'name': 'share', 'label': ''}, {'name': 'timestamp', 'label': '-'}]}, 'footerBylines': [{'regionName': 'footer1', 'items': [{'name': 'comments', 'label': 'comments'}, {'name': 'icons', 'label': ''}]}, {'regionName': 'footer2', 'items': [{'name': 'labels', 'label': ''}]}, {'regionName': 'footer3', 'items': [{'name': 'location', 'label': 'Location:'}]}], 'allBylineItems': [{'name': 'share', 'label': ''}, {'name': 'timestamp', 'label': '-'}, {'name': 'comments', 'label': 'comments'}, {'name': 'icons', 'label': ''}, {'name': 'labels', 'label': ''}, {'name': 'location', 'label': 'Location:'}]}, {'title': '', 'type': 'PopularPosts', 'sectionId': 'page_body', 'id': 'PopularPosts1', 'posts': [{'title': '\u26f3Redlakunta\u26f3', 'id': 6151946915210785068}, {'title': '\u26f3\u0c36\u0c4d\u0c30\u0c40 \u0c30\u0c3e\u0c2e \u0c2eo\u0c26\u0c3f\u0c30\u0c02 #Ayodhya\u26f3', 'id': 2881112918803578590}, {'title': '\u0c36\u0c4d\u0c30\u0c40 \u0c15\u0c4b\u0c26\u0c02\u0c21\u0c30\u0c3e\u0c2e\u0c38\u0c4d\u0c35\u0c3e\u0c2e\u0c3f  \u0c26\u0c47\u0c35\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c02(\u0c30\u0c46\u0c21\u0c4d\u0c32\u0c15\u0c41\u0c02\u0c1f)', 'id': 1169963371825801485}]}, {'type': 'Attribution', 'sectionId': 'footer', 'id': 'Attribution1'}, {'title': 'narayana Parsa', 'type': 'Profile', 'sectionId': 'sidebar_top', 'id': 'Profile1'}, {'type': 'BlogArchive', 'sectionId': 'sidebar_bottom', 'id': 'BlogArchive1'}, {'title': 'Labels', 'type': 'Label', 'sectionId': 'sidebar_bottom', 'id': 'Label1'}, {'title': '', 'type': 'ReportAbuse', 'sectionId': 'sidebar_bottom', 'id': 'ReportAbuse1'}]}]);
 _WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'search_top', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'page_list_top', document.getElementById('PageList1'), {'title': '', 'links': [{'isCurrentPage': true, 'href': 'https://narayanabillgates.blogspot.com/', 'title': 'Home'}], 'mobile': false, 'showPlaceholder': true, 'hasCurrentPage': true}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_FeaturedPostView', new _WidgetInfo('FeaturedPost1', 'page_body', document.getElementById('FeaturedPost1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'page_body', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/497930099-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/123180807-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'page_body', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/6096503-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/828616780-lightbox_bundle.css'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'page_body', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer', document.getElementById('Attribution1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar_top', document.getElementById('Profile1'), {}, 'displayModeFull'));
