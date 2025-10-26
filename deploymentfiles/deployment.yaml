@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: liberty492/pnr:6
+          image: liberty492/pnr:7
           ports:
             - containerPort: 8080
       
