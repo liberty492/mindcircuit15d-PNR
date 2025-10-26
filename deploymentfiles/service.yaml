@@ -7,10 +7,13 @@ metadata:
     app: facebook 
 
 spec:
-  type: LoadBalancer
+  type: NodePort
   ports:
     - port: 80
       targetPort: 8080
+      nodePort: 30333
+
+      
   selector:
     app: facebook 
     
